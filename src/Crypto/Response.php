@@ -16,16 +16,17 @@ class Response
     }
 
     /**
+     * @param string $value
      * @return string
      */
-    public function error()
+    public function error($value = 'INTERNAL ERROR')
     {
         return $this->asJson([
             'frames' => [
                 [
                     'index' => 0,
-                    'text'  => 'ERROR',
-                    'icon'  => 'i857'
+                    'text'  => $value,
+                    'icon'  => 'null'
                 ]
             ]
         ]);
