@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Crypto\\": "src/Crypto"
+    }
+  },
+  "require": {
+    "predis/predis": "^1.1",
+    "guzzlehttp/guzzle": "^6.3"
+  }
+}
