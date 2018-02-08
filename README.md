@@ -3,7 +3,7 @@
 The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 
 ![Bitcoin](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/btc.gif)
-![Ethereum](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/btc.gif)
+![Ethereum](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/eth.gif)
 
 ## Cryptocurrencies List
 
