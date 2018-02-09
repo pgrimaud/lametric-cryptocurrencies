@@ -171,7 +171,7 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![XTRABYTES](https://files.coinmarketcap.com/static/img/coins/16x16/xtrabytes.png) | XTRABYTES | XBY | 
 ![Metal](https://files.coinmarketcap.com/static/img/coins/16x16/metal.png) | Metal | MTL | 
 ![Simple Token](https://files.coinmarketcap.com/static/img/coins/16x16/simple-token.png) | Simple Token | OST | 
-![Ambrosus](https://files.coinmarketcap.com/static/img/coins/16x16/ambrosus.png) | Ambrosus | AMB | 
+![Ambrosus](https://files.coinmarketcap.com/static/img/coins/16x16/amber.png) | Ambrosus | AMB | 
 ![CyberMiles](https://files.coinmarketcap.com/static/img/coins/16x16/cybermiles.png) | CyberMiles | CMT | 
 ![UTRUST](https://files.coinmarketcap.com/static/img/coins/16x16/utrust.png) | UTRUST | UTK | 
 ![SONM](https://files.coinmarketcap.com/static/img/coins/16x16/sonm.png) | SONM | SNM | 
@@ -254,20 +254,20 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Viberate](https://files.coinmarketcap.com/static/img/coins/16x16/viberate.png) | Viberate | VIB | 
 ![Grid+](https://files.coinmarketcap.com/static/img/coins/16x16/grid.png) | Grid+ | GRID | 
 ![TaaS](https://files.coinmarketcap.com/static/img/coins/16x16/taas.png) | TaaS | TAAS | 
-![Spectre.ai Di...](https://files.coinmarketcap.com/static/img/coins/16x16/spectre.ai-di....png) | Spectre.ai Di... | SXDT | 
+![Spectre.ai Di...](https://files.coinmarketcap.com/static/img/coins/16x16/spectre-dividend.png) | Spectre.ai Dividend Token | SXDT | 
 ![Pura](https://files.coinmarketcap.com/static/img/coins/16x16/pura.png) | Pura | PURA | 
 ![FirstBlood](https://files.coinmarketcap.com/static/img/coins/16x16/firstblood.png) | FirstBlood | 1ST | 
 ![Qbao](https://files.coinmarketcap.com/static/img/coins/16x16/qbao.png) | Qbao | QBT | 
 ![Delphy](https://files.coinmarketcap.com/static/img/coins/16x16/delphy.png) | Delphy | DPY | 
 ![Ink](https://files.coinmarketcap.com/static/img/coins/16x16/ink.png) | Ink | INK | 
 ![HempCoin](https://files.coinmarketcap.com/static/img/coins/16x16/hempcoin.png) | HempCoin | THC | 
-![Safe Exchange...](https://files.coinmarketcap.com/static/img/coins/16x16/safe-exchange....png) | Safe Exchange... | SAFEX | 
+![Safe Exchange...](https://files.coinmarketcap.com/static/img/coins/16x16/safe-exchange-coin.png) | Safe Exchange Coin | SAFEX | 
 ![Namecoin](https://files.coinmarketcap.com/static/img/coins/16x16/namecoin.png) | Namecoin | NMC | 
 ![bitCNY](https://files.coinmarketcap.com/static/img/coins/16x16/bitcny.png) | bitCNY | BITCNY | 
 ![Feathercoin](https://files.coinmarketcap.com/static/img/coins/16x16/feathercoin.png) | Feathercoin | FTC | 
-![I/O Coin](https://files.coinmarketcap.com/static/img/coins/16x16/i/o-coin.png) | I/O Coin | IOC | 
-![WeTrust](https://files.coinmarketcap.com/static/img/coins/16x16/wetrust.png) | WeTrust | TRST | 
-![Cofound.it](https://files.coinmarketcap.com/static/img/coins/16x16/cofound.it.png) | Cofound.it | CFI | 
+![I/O Coin](https://files.coinmarketcap.com/static/img/coins/16x16/iocoin.png) | I/O Coin | IOC | 
+![WeTrust](https://files.coinmarketcap.com/static/img/coins/16x16/trust.png) | WeTrust | TRST | 
+![Cofound.it](https://files.coinmarketcap.com/static/img/coins/16x16/cofound-it.png) | Cofound.it | CFI | 
 ![Spectrecoin](https://files.coinmarketcap.com/static/img/coins/16x16/spectrecoin.png) | Spectrecoin | XSPEC | 
 ![Mooncoin](https://files.coinmarketcap.com/static/img/coins/16x16/mooncoin.png) | Mooncoin | MOON | 
 ![InsurePal](https://files.coinmarketcap.com/static/img/coins/16x16/insurepal.png) | InsurePal | IPL | 
@@ -280,7 +280,7 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Pepe Cash](https://files.coinmarketcap.com/static/img/coins/16x16/pepe-cash.png) | Pepe Cash | PEPECASH | 
 ![Monetha](https://files.coinmarketcap.com/static/img/coins/16x16/monetha.png) | Monetha | MTH | 
 ![Energo](https://files.coinmarketcap.com/static/img/coins/16x16/energo.png) | Energo | TSL | 
-![Bloom](https://files.coinmarketcap.com/static/img/coins/16x16/bloom.png) | Bloom | BLT | 
+![Bloom](https://files.coinmarketcap.com/static/img/coins/16x16/bloomtoken.png) | Bloom | BLT | 
 ![Nimiq](https://files.coinmarketcap.com/static/img/coins/16x16/nimiq.png) | Nimiq | NET | 
 ![Zeusshield](https://files.coinmarketcap.com/static/img/coins/16x16/zeusshield.png) | Zeusshield | ZSC | 
 ![YOYOW](https://files.coinmarketcap.com/static/img/coins/16x16/yoyow.png) | YOYOW | YOYOW | 
@@ -294,10 +294,10 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Humaniq](https://files.coinmarketcap.com/static/img/coins/16x16/humaniq.png) | Humaniq | HMQ | 
 ![Trade Token](https://files.coinmarketcap.com/static/img/coins/16x16/trade-token.png) | Trade Token | TIO | 
 ![Selfkey](https://files.coinmarketcap.com/static/img/coins/16x16/selfkey.png) | Selfkey | KEY | 
-![eBoost](https://files.coinmarketcap.com/static/img/coins/16x16/eboost.png) | eBoost | EBST | 
+![eBoost](https://files.coinmarketcap.com/static/img/coins/16x16/eboostcoin.png) | eBoost | EBST | 
 ![WhiteCoin](https://files.coinmarketcap.com/static/img/coins/16x16/whitecoin.png) | WhiteCoin | XWC | 
 ![Synereo](https://files.coinmarketcap.com/static/img/coins/16x16/synereo.png) | Synereo | AMP | 
-![Agrello](https://files.coinmarketcap.com/static/img/coins/16x16/agrello.png) | Agrello | DLT | 
+![Agrello](https://files.coinmarketcap.com/static/img/coins/16x16/agrello-delta.png) | Agrello | DLT | 
 ![Karma](https://files.coinmarketcap.com/static/img/coins/16x16/karma.png) | Karma | KRM | 
 ![SunContract](https://files.coinmarketcap.com/static/img/coins/16x16/suncontract.png) | SunContract | SNC | 
 ![Worldcore](https://files.coinmarketcap.com/static/img/coins/16x16/worldcore.png) | Worldcore | WRC | 
@@ -315,14 +315,14 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Olympus Labs](https://files.coinmarketcap.com/static/img/coins/16x16/olympus-labs.png) | Olympus Labs | MOT | 
 ![SHIELD](https://files.coinmarketcap.com/static/img/coins/16x16/shield.png) | SHIELD | XSH | 
 ![BCAP](https://files.coinmarketcap.com/static/img/coins/16x16/bcap.png) | BCAP | BCAP | 
-![Moeda Loyalty...](https://files.coinmarketcap.com/static/img/coins/16x16/moeda-loyalty....png) | Moeda Loyalty... | MDA | 
+![Moeda Loyalty...](https://files.coinmarketcap.com/static/img/coins/16x16/moeda-loyalty-points.png) | Moeda Loyalty Points| MDA | 
 ![Bodhi](https://files.coinmarketcap.com/static/img/coins/16x16/bodhi.png) | Bodhi | BOT | 
 ![Elastic](https://files.coinmarketcap.com/static/img/coins/16x16/elastic.png) | Elastic | XEL | 
 ![300 Token](https://files.coinmarketcap.com/static/img/coins/16x16/300-token.png) | 300 Token | 300 | 
 ![Propy](https://files.coinmarketcap.com/static/img/coins/16x16/propy.png) | Propy | PRO | 
 ![Peerplays](https://files.coinmarketcap.com/static/img/coins/16x16/peerplays.png) | Peerplays | PPY | 
 ![Playkey](https://files.coinmarketcap.com/static/img/coins/16x16/playkey.png) | Playkey | PKT | 
-![Matchpool](https://files.coinmarketcap.com/static/img/coins/16x16/matchpool.png) | Matchpool | GUP | 
+![Matchpool](https://files.coinmarketcap.com/static/img/coins/16x16/guppy.png) | Matchpool | GUP | 
 ![Ormeus Coin](https://files.coinmarketcap.com/static/img/coins/16x16/ormeus-coin.png) | Ormeus Coin | ORME | 
 ![GridCoin](https://files.coinmarketcap.com/static/img/coins/16x16/gridcoin.png) | GridCoin | GRC | 
 ![Phore](https://files.coinmarketcap.com/static/img/coins/16x16/phore.png) | Phore | PHR | 
@@ -337,12 +337,12 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Soarcoin](https://files.coinmarketcap.com/static/img/coins/16x16/soarcoin.png) | Soarcoin | SOAR | 
 ![Target Coin](https://files.coinmarketcap.com/static/img/coins/16x16/target-coin.png) | Target Coin | TGT | 
 ![Aeron](https://files.coinmarketcap.com/static/img/coins/16x16/aeron.png) | Aeron | ARN | 
-![BlockMason Cr...](https://files.coinmarketcap.com/static/img/coins/16x16/blockmason-cr....png) | BlockMason Cr... | BCPT | 
+![BlockMason Cr...](https://files.coinmarketcap.com/static/img/coins/16x16/blockmason.png) | BlockMason Credit Protocol | BCPT | 
 ![Covesting](https://files.coinmarketcap.com/static/img/coins/16x16/covesting.png) | Covesting | COV | 
 ![Mothership](https://files.coinmarketcap.com/static/img/coins/16x16/mothership.png) | Mothership | MSP | 
 ![HelloGold](https://files.coinmarketcap.com/static/img/coins/16x16/hellogold.png) | HelloGold | HGT | 
 ![Boolberry](https://files.coinmarketcap.com/static/img/coins/16x16/boolberry.png) | Boolberry | BBR | 
-![Universal Cur...](https://files.coinmarketcap.com/static/img/coins/16x16/universal-cur....png) | Universal Cur... | UNIT | 
+![Universal Cur...](https://files.coinmarketcap.com/static/img/coins/16x16/universal-currency.png) | Universal Currency | UNIT | 
 ![MyBit Token](https://files.coinmarketcap.com/static/img/coins/16x16/mybit-token.png) | MyBit Token | MYB | 
 ![Numeraire](https://files.coinmarketcap.com/static/img/coins/16x16/numeraire.png) | Numeraire | NMR | 
 ![Hacken](https://files.coinmarketcap.com/static/img/coins/16x16/hacken.png) | Hacken | HKN | 
@@ -350,7 +350,7 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Virtacoin](https://files.coinmarketcap.com/static/img/coins/16x16/virtacoin.png) | Virtacoin | VTA | 
 ![OKCash](https://files.coinmarketcap.com/static/img/coins/16x16/okcash.png) | OKCash | OK | 
 ![Radium](https://files.coinmarketcap.com/static/img/coins/16x16/radium.png) | Radium | RADS | 
-![Open Trading ...](https://files.coinmarketcap.com/static/img/coins/16x16/open-trading-....png) | Open Trading ... | OTN | 
+![Open Trading ...](https://files.coinmarketcap.com/static/img/coins/16x16/open-trading-network.png) | Open Trading Network | OTN | 
 ![DomRaider](https://files.coinmarketcap.com/static/img/coins/16x16/domraider.png) | DomRaider | DRT | 
 ![Omni](https://files.coinmarketcap.com/static/img/coins/16x16/omni.png) | Omni | OMNI | 
 ![NVO](https://files.coinmarketcap.com/static/img/coins/16x16/nvo.png) | NVO | NVST | 
@@ -358,18 +358,18 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Stox](https://files.coinmarketcap.com/static/img/coins/16x16/stox.png) | Stox | STX | 
 ![AirToken](https://files.coinmarketcap.com/static/img/coins/16x16/airtoken.png) | AirToken | AIR | 
 ![MonetaryUnit](https://files.coinmarketcap.com/static/img/coins/16x16/monetaryunit.png) | MonetaryUnit | MUE | 
-![eBitcoin](https://files.coinmarketcap.com/static/img/coins/16x16/ebitcoin.png) | eBitcoin | EBTC | 
+![eBitcoin](https://files.coinmarketcap.com/static/img/coins/16x16/ebtcnew.png) | eBitcoin | EBTC | 
 ![LIFE](https://files.coinmarketcap.com/static/img/coins/16x16/life.png) | LIFE | LIFE | 
-![KickCoin](https://files.coinmarketcap.com/static/img/coins/16x16/kickcoin.png) | KickCoin | KICK | 
+![KickCoin](https://files.coinmarketcap.com/static/img/coins/16x16/kickico.png) | KickCoin | KICK | 
 ![Rubycoin](https://files.coinmarketcap.com/static/img/coins/16x16/rubycoin.png) | Rubycoin | RBY | 
 ![Energycoin](https://files.coinmarketcap.com/static/img/coins/16x16/energycoin.png) | Energycoin | ENRG | 
 ![Snovio](https://files.coinmarketcap.com/static/img/coins/16x16/snovio.png) | Snovio | SNOV | 
 ![Etheroll](https://files.coinmarketcap.com/static/img/coins/16x16/etheroll.png) | Etheroll | DICE | 
-![DecentBet](https://files.coinmarketcap.com/static/img/coins/16x16/decentbet.png) | DecentBet | DBET | 
+![DecentBet](https://files.coinmarketcap.com/static/img/coins/16x16/decent-bet.png) | DecentBet | DBET | 
 ![OAX](https://files.coinmarketcap.com/static/img/coins/16x16/oax.png) | OAX | OAX | 
 ![Aurora DAO](https://files.coinmarketcap.com/static/img/coins/16x16/aurora-dao.png) | Aurora DAO | AURA | 
 ![Myriad](https://files.coinmarketcap.com/static/img/coins/16x16/myriad.png) | Myriad | XMY | 
-![GET Protocol](https://files.coinmarketcap.com/static/img/coins/16x16/get-protocol.png) | GET Protocol | GET | 
+![GET Protocol](https://files.coinmarketcap.com/static/img/coins/16x16/guts-tickets.png) | GET Protocol | GET | 
 ![BitSend](https://files.coinmarketcap.com/static/img/coins/16x16/bitsend.png) | BitSend | BSD | 
 ![bitUSD](https://files.coinmarketcap.com/static/img/coins/16x16/bitusd.png) | bitUSD | BITUSD | 
 ![Arcade Token](https://files.coinmarketcap.com/static/img/coins/16x16/arcade-token.png) | Arcade Token | ARC2 | 
@@ -378,14 +378,14 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Blackmoon](https://files.coinmarketcap.com/static/img/coins/16x16/blackmoon.png) | Blackmoon | BMC | 
 ![ALIS](https://files.coinmarketcap.com/static/img/coins/16x16/alis.png) | ALIS | ALIS | 
 ![Xenon](https://files.coinmarketcap.com/static/img/coins/16x16/xenon.png) | Xenon | XNN | 
-![Profile Utili...](https://files.coinmarketcap.com/static/img/coins/16x16/profile-utili....png) | Profile Utili... | PUT | 
+![Profile Utili...](https://files.coinmarketcap.com/static/img/coins/16x16/profile-utility-token.png) | Profile Utility Token | PUT | 
 ![Golos](https://files.coinmarketcap.com/static/img/coins/16x16/golos.png) | Golos | GOLOS | 
 ![Primas](https://files.coinmarketcap.com/static/img/coins/16x16/primas.png) | Primas | PST | 
 ![Viuly](https://files.coinmarketcap.com/static/img/coins/16x16/viuly.png) | Viuly | VIU | 
 ![GoByte](https://files.coinmarketcap.com/static/img/coins/16x16/gobyte.png) | GoByte | GBX | 
 ![BLUE](https://files.coinmarketcap.com/static/img/coins/16x16/blue.png) | BLUE | BLUE | 
 ![Bounty0x](https://files.coinmarketcap.com/static/img/coins/16x16/bounty0x.png) | Bounty0x | BNTY | 
-![Waves Communi...](https://files.coinmarketcap.com/static/img/coins/16x16/waves-communi....png) | Waves Communi... | WCT | 
+![Waves Communi...](https://files.coinmarketcap.com/static/img/coins/16x16/waves-community-token.png) | Waves Community Token | WCT | 
 ![SportyFi](https://files.coinmarketcap.com/static/img/coins/16x16/sportyfi.png) | SportyFi | SPF | 
 ![Xaurum](https://files.coinmarketcap.com/static/img/coins/16x16/xaurum.png) | Xaurum | XAUR | 
 ![NuShares](https://files.coinmarketcap.com/static/img/coins/16x16/nushares.png) | NuShares | NSR | 
