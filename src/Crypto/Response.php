@@ -47,7 +47,7 @@ class Response
                 ],
                 [
                     'index' => 1,
-                    'text'  => $currency->getPrice() . '$',
+                    'text'  => $this->formatPrice($currency->getPrice()) . '$',
                     'icon'  => 'null'
                 ],
                 [
@@ -57,5 +57,26 @@ class Response
                 ]
             ],
         ]);
+    }
+
+    /**
+     * @param float $price
+     * @return int
+     */
+    private function formatPrice($price = 0.0)
+    {
+        if ($price < 10) {
+            $fractional = 4;
+        } else if ($price >= 10 && $price < 100) {
+            $fractional = 3;
+        } else if ($price >= 100 && $price < 1000) {
+            $fractional = 2;
+        } else if ($price >= 1000 && $price < 10000) {
+            $fractional = 1;
+        } else {
+            $fractional = 0;
+        }
+
+        return round($price, $fractional);
     }
 }
