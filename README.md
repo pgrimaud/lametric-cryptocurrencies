@@ -35,7 +35,7 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Populous](https://files.coinmarketcap.com/static/img/coins/16x16/populous.png) | Populous | PPT | 
 ![OmiseGO](https://files.coinmarketcap.com/static/img/coins/16x16/omisego.png) | OmiseGO | OMG | 
 ![Steem](https://files.coinmarketcap.com/static/img/coins/16x16/steem.png) | Steem | STEEM | 
-![CRYPTO20](https://files.coinmarketcap.com/static/img/coins/16x16/crypto20.png) | CRYPTO20 | C20 | 
+![CRYPTO20](https://files.coinmarketcap.com/static/img/coins/16x16/c20.png) | CRYPTO20 | C20 | 
 ![Binance Coin](https://files.coinmarketcap.com/static/img/coins/16x16/binance-coin.png) | Binance Coin | BNB | 
 ![Bytecoin](https://files.coinmarketcap.com/static/img/coins/16x16/bytecoin.png) | Bytecoin | BCN | 
 ![Verge](https://files.coinmarketcap.com/static/img/coins/16x16/verge.png) | Verge | XVG | 
@@ -66,7 +66,7 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![E-coin](https://files.coinmarketcap.com/static/img/coins/16x16/e-coin.png) | E-coin | ECN | 
 ![Gas](https://files.coinmarketcap.com/static/img/coins/16x16/gas.png) | Gas | GAS | 
 ![Zilliqa](https://files.coinmarketcap.com/static/img/coins/16x16/zilliqa.png) | Zilliqa | ZIL | 
-![Basic Attenti...](https://files.coinmarketcap.com/static/img/coins/16x16/basic-attenti....png) | Basic Attenti... | BAT | 
+![Basic Attenti...](https://files.coinmarketcap.com/static/img/coins/16x16/basic-attention-token.png) | Basic Attention Token | BAT | 
 ![Loopring](https://files.coinmarketcap.com/static/img/coins/16x16/loopring.png) | Loopring | LRC | 
 ![Dragonchain](https://files.coinmarketcap.com/static/img/coins/16x16/dragonchain.png) | Dragonchain | DRGN | 
 ![Dentacoin](https://files.coinmarketcap.com/static/img/coins/16x16/dentacoin.png) | Dentacoin | DCN | 
@@ -77,7 +77,7 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Ethos](https://files.coinmarketcap.com/static/img/coins/16x16/ethos.png) | Ethos | ETHOS | 
 ![Pillar](https://files.coinmarketcap.com/static/img/coins/16x16/pillar.png) | Pillar | PLR | 
 ![aelf](https://files.coinmarketcap.com/static/img/coins/16x16/aelf.png) | aelf | ELF | 
-![Byteball Bytes](https://files.coinmarketcap.com/static/img/coins/16x16/byteball-bytes.png) | Byteball Bytes | GBYTE | 
+![Byteball Bytes](https://files.coinmarketcap.com/static/img/coins/16x16/byteball.png) | Byteball Bytes | GBYTE | 
 ![QASH](https://files.coinmarketcap.com/static/img/coins/16x16/qash.png) | QASH | QASH | 
 ![Cryptonex](https://files.coinmarketcap.com/static/img/coins/16x16/cryptonex.png) | Cryptonex | CNX | 
 ![Nebulas](https://files.coinmarketcap.com/static/img/coins/16x16/nebulas.png) | Nebulas | NAS | 
@@ -85,7 +85,7 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Syscoin](https://files.coinmarketcap.com/static/img/coins/16x16/syscoin.png) | Syscoin | SYS | 
 ![Cindicator](https://files.coinmarketcap.com/static/img/coins/16x16/cindicator.png) | Cindicator | CND | 
 ![Dent](https://files.coinmarketcap.com/static/img/coins/16x16/dent.png) | Dent | DENT | 
-![Golem](https://files.coinmarketcap.com/static/img/coins/16x16/golem.png) | Golem | GNT | 
+![Golem](https://files.coinmarketcap.com/static/img/coins/16x16/golem-network-tokens.png) | Golem | GNT | 
 ![Bitcore](https://files.coinmarketcap.com/static/img/coins/16x16/bitcore.png) | Bitcore | BTX2 | 
 ![GXShares](https://files.coinmarketcap.com/static/img/coins/16x16/gxshares.png) | GXShares | GXS | 
 ![IOStoken](https://files.coinmarketcap.com/static/img/coins/16x16/iostoken.png) | IOStoken | IOST | 
@@ -112,7 +112,7 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![TenX](https://files.coinmarketcap.com/static/img/coins/16x16/tenx.png) | TenX | PAY | 
 ![Ignis](https://files.coinmarketcap.com/static/img/coins/16x16/ignis.png) | Ignis | IGNIS | 
 ![Iconomi](https://files.coinmarketcap.com/static/img/coins/16x16/iconomi.png) | Iconomi | ICN | 
-![Experience Po...](https://files.coinmarketcap.com/static/img/coins/16x16/experience-po....png) | Experience Po... | XP | 
+![Experience Po...](https://files.coinmarketcap.com/static/img/coins/16x16/experience-points.png) | Experience Points | XP | 
 ![Emercoin](https://files.coinmarketcap.com/static/img/coins/16x16/emercoin.png) | Emercoin | EMC | 
 ![Civic](https://files.coinmarketcap.com/static/img/coins/16x16/civic.png) | Civic | CVC | 
 ![Gnosis](https://files.coinmarketcap.com/static/img/coins/16x16/gnosis.png) | Gnosis | GNO | 
@@ -122,8 +122,8 @@ The ultimate cryptocurrencies for LaMetric! More than 1000 currencies available!
 ![Substratum](https://files.coinmarketcap.com/static/img/coins/16x16/substratum.png) | Substratum | SUB | 
 ![Bitquence](https://files.coinmarketcap.com/static/img/coins/16x16/bitquence.png) | Bitquence | BQX | 
 ![ChainLink](https://files.coinmarketcap.com/static/img/coins/16x16/chainlink.png) | ChainLink | LINK | 
-![Raiden Networ...](https://files.coinmarketcap.com/static/img/coins/16x16/raiden-networ....png) | Raiden Networ... | RDN | 
-![High Performa...](https://files.coinmarketcap.com/static/img/coins/16x16/high-performa....png) | High Performa... | HPB | 
+![Raiden Networ...](https://files.coinmarketcap.com/static/img/coins/16x16/raiden-network-token.png) | Raiden Network Token | RDN | 
+![High Performa...](https://files.coinmarketcap.com/static/img/coins/16x16/high-performance-blockchain.png) | High Performance Blockchain | HPB | 
 ![Vertcoin](https://files.coinmarketcap.com/static/img/coins/16x16/vertcoin.png) | Vertcoin | VTC | 
 ![BitcoinDark](https://files.coinmarketcap.com/static/img/coins/16x16/bitcoindark.png) | BitcoinDark | BTCD | 
 ![Blocknet](https://files.coinmarketcap.com/static/img/coins/16x16/blocknet.png) | Blocknet | BLOCK | 
