@@ -5,6 +5,7 @@ use Crypto\Currency;
 use Crypto\Exception\CryptoNotFoundException;
 use Crypto\Price;
 use Crypto\Response;
+use Crypto\Validator;
 
 header("Content-Type: application/json");
 
@@ -12,8 +13,10 @@ $response = new Response();
 
 try {
 
-    $currency = new Currency($_GET);
-    $price    = new Price(new \GuzzleHttp\Client(), new \Predis\Client(), $currency);
+    $validator = new Validator($_GET);
+    $validator->check();
+
+    $price = new Price(new \GuzzleHttp\Client(), new \Predis\Client(), $currency);
     $price->getValue();
 
     echo $response->data($price->getCurrency());
