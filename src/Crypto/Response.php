@@ -40,26 +40,33 @@ class Response
     {
         $frames = [];
 
+        $index = 0;
+
         /** @var Currency $currency */
         foreach ($collection->getCurrencies() as $currency) {
             $frames[] = [
-                'index' => 0,
+                'index' => $index,
                 'text'  => $currency->getCode(),
                 'icon'  => 'null'
             ];
 
+            $index++;
+
             $frames[] = [
-                'index' => 1,
+                'index' => $index,
                 'text'  => $this->formatPrice($currency->getPrice()) . '$',
                 'icon'  => 'null'
             ];
 
+            $index++;
+
             if ($currency->isShowChange()) {
                 $frames[] = [
-                    'index' => 2,
+                    'index' => $index,
                     'text'  => ($currency->getChange() > 0 ? '+' : '') . $currency->getChange() . '%',
                     'icon'  => ($currency->getChange() > 0 ? self::PRICE_UP : self::PRICE_DOWN),
                 ];
+                $index++;
             }
         }
 
