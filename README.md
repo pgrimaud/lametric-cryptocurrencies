@@ -11,1181 +11,1181 @@ Based on https://coincap.io/
 
 |         Image          |          Name           |          Code           |
 |:----------------------:|:-----------------------:|:-----------------------:|
-![Bitcoin](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoin.png) | Bitcoin | BTC | 
-![Ethereum](https://files.coinmarketcap.com/static/img/coins/32x32/ethereum.png) | Ethereum | ETH | 
-![Ripple](https://files.coinmarketcap.com/static/img/coins/32x32/ripple.png) | Ripple | XRP | 
-![Bitcoin Cash](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoin-cash.png) | Bitcoin Cash | BCH | 
-![Cardano](https://files.coinmarketcap.com/static/img/coins/32x32/cardano.png) | Cardano | ADA | 
-![Litecoin](https://files.coinmarketcap.com/static/img/coins/32x32/litecoin.png) | Litecoin | LTC | 
-![NEO](https://files.coinmarketcap.com/static/img/coins/32x32/neo.png) | NEO | NEO | 
-![Stellar](https://files.coinmarketcap.com/static/img/coins/32x32/stellar.png) | Stellar | XLM | 
-![EOS](https://files.coinmarketcap.com/static/img/coins/32x32/eos.png) | EOS | EOS | 
-![IOTA](https://files.coinmarketcap.com/static/img/coins/32x32/iota.png) | IOTA | IOT | 
-![NEM](https://files.coinmarketcap.com/static/img/coins/32x32/nem.png) | NEM | XEM | 
-![Dash](https://files.coinmarketcap.com/static/img/coins/32x32/dash.png) | Dash | DASH | 
-![Monero](https://files.coinmarketcap.com/static/img/coins/32x32/monero.png) | Monero | XMR | 
-![Lisk](https://files.coinmarketcap.com/static/img/coins/32x32/lisk.png) | Lisk | LSK | 
-![RaiBlocks](https://files.coinmarketcap.com/static/img/coins/32x32/raiblocks.png) | RaiBlocks | XRB | 
-![Ethereum Classic](https://files.coinmarketcap.com/static/img/coins/32x32/ethereum-classic.png) | Ethereum Classic | ETC | 
-![TRON](https://files.coinmarketcap.com/static/img/coins/32x32/tron.png) | TRON | TRX | 
-![Tether](https://files.coinmarketcap.com/static/img/coins/32x32/tether.png) | Tether | USDT | 
-![Qtum](https://files.coinmarketcap.com/static/img/coins/32x32/qtum.png) | Qtum | QTUM | 
-![VeChain](https://files.coinmarketcap.com/static/img/coins/32x32/vechain.png) | VeChain | VEN | 
-![Bitcoin Gold](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoin-gold.png) | Bitcoin Gold | BTG | 
-![ICON](https://files.coinmarketcap.com/static/img/coins/32x32/icon.png) | ICON | ICX | 
-![Zcash](https://files.coinmarketcap.com/static/img/coins/32x32/zcash.png) | Zcash | ZEC | 
-![Populous](https://files.coinmarketcap.com/static/img/coins/32x32/populous.png) | Populous | PPT | 
-![OmiseGO](https://files.coinmarketcap.com/static/img/coins/32x32/omisego.png) | OmiseGO | OMG | 
-![Steem](https://files.coinmarketcap.com/static/img/coins/32x32/steem.png) | Steem | STEEM | 
-![CRYPTO20](https://files.coinmarketcap.com/static/img/coins/32x32/c20.png) | CRYPTO20 | C20 | 
-![Binance Coin](https://files.coinmarketcap.com/static/img/coins/32x32/binance-coin.png) | Binance Coin | BNB | 
-![Bytecoin](https://files.coinmarketcap.com/static/img/coins/32x32/bytecoin.png) | Bytecoin | BCN | 
-![Verge](https://files.coinmarketcap.com/static/img/coins/32x32/verge.png) | Verge | XVG | 
-![Status](https://files.coinmarketcap.com/static/img/coins/32x32/status.png) | Status | SNT | 
-![Stratis](https://files.coinmarketcap.com/static/img/coins/32x32/stratis.png) | Stratis | STRAT | 
-![Siacoin](https://files.coinmarketcap.com/static/img/coins/32x32/siacoin.png) | Siacoin | SC | 
-![Aeternity](https://files.coinmarketcap.com/static/img/coins/32x32/aeternity.png) | Aeternity | AE | 
-![Maker](https://files.coinmarketcap.com/static/img/coins/32x32/maker.png) | Maker | MKR | 
-![BitShares](https://files.coinmarketcap.com/static/img/coins/32x32/bitshares.png) | BitShares | BTS | 
-![DigixDAO](https://files.coinmarketcap.com/static/img/coins/32x32/digixdao.png) | DigixDAO | DGD | 
-![Augur](https://files.coinmarketcap.com/static/img/coins/32x32/augur.png) | Augur | REP | 
-![Veritaseum](https://files.coinmarketcap.com/static/img/coins/32x32/veritaseum.png) | Veritaseum | VERI | 
-![Walton](https://files.coinmarketcap.com/static/img/coins/32x32/walton.png) | Walton | WTC | 
-![Waves](https://files.coinmarketcap.com/static/img/coins/32x32/waves.png) | Waves | WAVES | 
-![0x](https://files.coinmarketcap.com/static/img/coins/32x32/0x.png) | 0x | ZRX | 
-![Dogecoin](https://files.coinmarketcap.com/static/img/coins/32x32/dogecoin.png) | Dogecoin | DOGE | 
-![Decred](https://files.coinmarketcap.com/static/img/coins/32x32/decred.png) | Decred | DCR | 
-![VeChain](https://files.coinmarketcap.com/static/img/coins/32x32/vechain.png) | VeChain | VET | 
-![KuCoin Shares](https://files.coinmarketcap.com/static/img/coins/32x32/kucoin-shares.png) | KuCoin Shares | KCS | 
-![RChain](https://files.coinmarketcap.com/static/img/coins/32x32/rchain.png) | RChain | RHOC | 
-![Ardor](https://files.coinmarketcap.com/static/img/coins/32x32/ardor.png) | Ardor | ARDR | 
-![Hshare](https://files.coinmarketcap.com/static/img/coins/32x32/hshare.png) | Hshare | HSR | 
-![Komodo](https://files.coinmarketcap.com/static/img/coins/32x32/komodo.png) | Komodo | KMD | 
-![Revain](https://files.coinmarketcap.com/static/img/coins/32x32/revain.png) | Revain | R | 
-![Ark](https://files.coinmarketcap.com/static/img/coins/32x32/ark.png) | Ark | ARK | 
-![Kyber Network](https://files.coinmarketcap.com/static/img/coins/32x32/kyber-network.png) | Kyber Network | KNC | 
-![Electroneum](https://files.coinmarketcap.com/static/img/coins/32x32/electroneum.png) | Electroneum | ETN | 
-![E-coin](https://files.coinmarketcap.com/static/img/coins/32x32/e-coin.png) | E-coin | ECN | 
-![Gas](https://files.coinmarketcap.com/static/img/coins/32x32/gas.png) | Gas | GAS | 
-![Zilliqa](https://files.coinmarketcap.com/static/img/coins/32x32/zilliqa.png) | Zilliqa | ZIL | 
-![Basic Attenti...](https://files.coinmarketcap.com/static/img/coins/32x32/basic-attention-token.png) | Basic Attention Token | BAT | 
-![Loopring](https://files.coinmarketcap.com/static/img/coins/32x32/loopring.png) | Loopring | LRC | 
-![Dragonchain](https://files.coinmarketcap.com/static/img/coins/32x32/dragonchain.png) | Dragonchain | DRGN | 
-![Dentacoin](https://files.coinmarketcap.com/static/img/coins/32x32/dentacoin.png) | Dentacoin | DCN | 
-![Bytom](https://files.coinmarketcap.com/static/img/coins/32x32/bytom.png) | Bytom | BTM | 
-![DigiByte](https://files.coinmarketcap.com/static/img/coins/32x32/digibyte.png) | DigiByte | DGB | 
-![PIVX](https://files.coinmarketcap.com/static/img/coins/32x32/pivx.png) | PIVX | PIVX | 
-![ZClassic](https://files.coinmarketcap.com/static/img/coins/32x32/zclassic.png) | ZClassic | ZCL | 
-![Ethos](https://files.coinmarketcap.com/static/img/coins/32x32/ethos.png) | Ethos | ETHOS | 
-![Pillar](https://files.coinmarketcap.com/static/img/coins/32x32/pillar.png) | Pillar | PLR | 
-![aelf](https://files.coinmarketcap.com/static/img/coins/32x32/aelf.png) | aelf | ELF | 
-![Byteball Bytes](https://files.coinmarketcap.com/static/img/coins/32x32/byteball.png) | Byteball Bytes | GBYTE | 
-![QASH](https://files.coinmarketcap.com/static/img/coins/32x32/qash.png) | QASH | QASH | 
-![Cryptonex](https://files.coinmarketcap.com/static/img/coins/32x32/cryptonex.png) | Cryptonex | CNX | 
-![Nebulas](https://files.coinmarketcap.com/static/img/coins/32x32/nebulas-token.png) | Nebulas | NAS | 
-![FunFair](https://files.coinmarketcap.com/static/img/coins/32x32/funfair.png) | FunFair | FUN | 
-![Syscoin](https://files.coinmarketcap.com/static/img/coins/32x32/syscoin.png) | Syscoin | SYS | 
-![Cindicator](https://files.coinmarketcap.com/static/img/coins/32x32/cindicator.png) | Cindicator | CND | 
-![Dent](https://files.coinmarketcap.com/static/img/coins/32x32/dent.png) | Dent | DENT | 
-![Golem](https://files.coinmarketcap.com/static/img/coins/32x32/golem-network-tokens.png) | Golem | GNT | 
-![Bitcore](https://files.coinmarketcap.com/static/img/coins/32x32/bitcore.png) | Bitcore | BTX2 | 
-![GXShares](https://files.coinmarketcap.com/static/img/coins/32x32/gxshares.png) | GXShares | GXS | 
-![IOStoken](https://files.coinmarketcap.com/static/img/coins/32x32/iostoken.png) | IOStoken | IOST | 
-![Power Ledger](https://files.coinmarketcap.com/static/img/coins/32x32/power-ledger.png) | Power Ledger | POWR | 
-![Simple Token](https://files.coinmarketcap.com/static/img/coins/32x32/simple-token.png) | Simple Token | ST | 
-![SALT](https://files.coinmarketcap.com/static/img/coins/32x32/salt.png) | SALT | SALT | 
-![Factom](https://files.coinmarketcap.com/static/img/coins/32x32/factom.png) | Factom | FCT | 
-![Aion](https://files.coinmarketcap.com/static/img/coins/32x32/aion.png) | Aion | AION | 
-![SmartCash](https://files.coinmarketcap.com/static/img/coins/32x32/smartcash.png) | SmartCash | SMART | 
-![MonaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/monacoin.png) | MonaCoin | MONA | 
-![Kin](https://files.coinmarketcap.com/static/img/coins/32x32/kin.png) | Kin | KIN | 
-![ZCoin](https://files.coinmarketcap.com/static/img/coins/32x32/zcoin.png) | ZCoin | XZC | 
-![Particl](https://files.coinmarketcap.com/static/img/coins/32x32/particl.png) | Particl | PART | 
-![Bancor](https://files.coinmarketcap.com/static/img/coins/32x32/bancor.png) | Bancor | BNT | 
-![Quantstamp](https://files.coinmarketcap.com/static/img/coins/32x32/quantstamp.png) | Quantstamp | QSP | 
-![SingularityNET](https://files.coinmarketcap.com/static/img/coins/32x32/singularitynet.png) | SingularityNET | AGI | 
-![Enigma](https://files.coinmarketcap.com/static/img/coins/32x32/enigma.png) | Enigma | ENG | 
-![XPlay](https://files.coinmarketcap.com/static/img/coins/32x32/xplay.png) | XPlay | XPA | 
-![Nxt](https://files.coinmarketcap.com/static/img/coins/32x32/nxt.png) | Nxt | NXT | 
-![MaidSafeCoin](https://files.coinmarketcap.com/static/img/coins/32x32/maidsafecoin.png) | MaidSafeCoin | MAID | 
-![Request Network](https://files.coinmarketcap.com/static/img/coins/32x32/request-network.png) | Request Network | REQ | 
-![ReddCoin](https://files.coinmarketcap.com/static/img/coins/32x32/reddcoin.png) | ReddCoin | RDD | 
-![Nexus](https://files.coinmarketcap.com/static/img/coins/32x32/nexus.png) | Nexus | NXS | 
-![TenX](https://files.coinmarketcap.com/static/img/coins/32x32/tenx.png) | TenX | PAY | 
-![Ignis](https://files.coinmarketcap.com/static/img/coins/32x32/ignis.png) | Ignis | IGNIS | 
-![Iconomi](https://files.coinmarketcap.com/static/img/coins/32x32/iconomi.png) | Iconomi | ICN | 
-![Experience Po...](https://files.coinmarketcap.com/static/img/coins/32x32/experience-points.png) | Experience Points | XP | 
-![Emercoin](https://files.coinmarketcap.com/static/img/coins/32x32/emercoin.png) | Emercoin | EMC | 
-![Civic](https://files.coinmarketcap.com/static/img/coins/32x32/civic.png) | Civic | CVC | 
-![Gnosis](https://files.coinmarketcap.com/static/img/coins/32x32/gnosis.png) | Gnosis | GNO | 
-![WAX](https://files.coinmarketcap.com/static/img/coins/32x32/wax.png) | WAX | WAX | 
-![GameCredits](https://files.coinmarketcap.com/static/img/coins/32x32/gamecredits.png) | GameCredits | GAME | 
-![Neblio](https://files.coinmarketcap.com/static/img/coins/32x32/neblio.png) | Neblio | NEBL | 
-![Substratum](https://files.coinmarketcap.com/static/img/coins/32x32/substratum.png) | Substratum | SUB | 
-![Bitquence](https://files.coinmarketcap.com/static/img/coins/32x32/bitquence.png) | Bitquence | BQX | 
-![ChainLink](https://files.coinmarketcap.com/static/img/coins/32x32/chainlink.png) | ChainLink | LINK | 
-![Raiden Networ...](https://files.coinmarketcap.com/static/img/coins/32x32/raiden-network-token.png) | Raiden Network Token | RDN | 
-![High Performa...](https://files.coinmarketcap.com/static/img/coins/32x32/high-performance-blockchain.png) | High Performance Blockchain | HPB | 
-![Vertcoin](https://files.coinmarketcap.com/static/img/coins/32x32/vertcoin.png) | Vertcoin | VTC | 
-![BitcoinDark](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoindark.png) | BitcoinDark | BTCD | 
-![Blocknet](https://files.coinmarketcap.com/static/img/coins/32x32/blocknet.png) | Blocknet | BLOCK | 
-![Storj](https://files.coinmarketcap.com/static/img/coins/32x32/storj.png) | Storj | STORJ | 
-![MediBloc](https://files.coinmarketcap.com/static/img/coins/32x32/medibloc.png) | MediBloc | MED | 
-![PayPie](https://files.coinmarketcap.com/static/img/coins/32x32/paypie.png) | PayPie | PPP | 
-![SuperNET](https://files.coinmarketcap.com/static/img/coins/32x32/supernet.png) | SuperNET | UNITY | 
-![ZenCash](https://files.coinmarketcap.com/static/img/coins/32x32/zencash.png) | ZenCash | ZEN | 
-![Achain](https://files.coinmarketcap.com/static/img/coins/32x32/achain.png) | Achain | ACT | 
-![Aragon](https://files.coinmarketcap.com/static/img/coins/32x32/aragon.png) | Aragon | ANT | 
-![Po.et](https://files.coinmarketcap.com/static/img/coins/32x32/poet.png) | Po.et | POE | 
-![Decentraland](https://files.coinmarketcap.com/static/img/coins/32x32/decentraland.png) | Decentraland | MANA | 
-![DigitalNote](https://files.coinmarketcap.com/static/img/coins/32x32/digitalnote.png) | DigitalNote | XDN | 
-![DEW](https://files.coinmarketcap.com/static/img/coins/32x32/dew.png) | DEW | DEW | 
-![Skycoin](https://files.coinmarketcap.com/static/img/coins/32x32/skycoin.png) | Skycoin | SKY | 
-![Enjin Coin](https://files.coinmarketcap.com/static/img/coins/32x32/enjin-coin.png) | Enjin Coin | ENJ | 
-![HTMLCOIN](https://files.coinmarketcap.com/static/img/coins/32x32/htmlcoin.png) | HTMLCOIN | HTML | 
-![Time New Bank](https://files.coinmarketcap.com/static/img/coins/32x32/time-new-bank.png) | Time New Bank | TNB | 
-![Dynamic Tradi...](https://files.coinmarketcap.com/static/img/coins/32x32/dynamic-trading-rights.png) | Dynamic Trading Rights | DTR | 
-![Red Pulse](https://files.coinmarketcap.com/static/img/coins/32x32/red-pulse.png) | Red Pulse | RPX | 
-![iExec RLC](https://files.coinmarketcap.com/static/img/coins/32x32/rlc.png) | iExec RLC | RLC | 
-![Ubiq](https://files.coinmarketcap.com/static/img/coins/32x32/ubiq.png) | Ubiq | UBQ | 
-![SIRIN LABS Token](https://files.coinmarketcap.com/static/img/coins/32x32/sirin-labs-token.png) | SIRIN LABS Token | SRN | 
-![Santiment Net...](https://files.coinmarketcap.com/static/img/coins/32x32/santiment.png) | Santiment Network Token | SAN | 
-![BLOCKv](https://files.coinmarketcap.com/static/img/coins/32x32/blockv.png) | BLOCKv | VEE | 
-![Agoras Tokens](https://files.coinmarketcap.com/static/img/coins/32x32/agoras-tokens.png) | Agoras Tokens | AGRS | 
-![BridgeCoin](https://files.coinmarketcap.com/static/img/coins/32x32/bridgecoin.png) | BridgeCoin | BCO | 
-![808Coin](https://files.coinmarketcap.com/static/img/coins/32x32/808coin.png) | 808Coin | 808 | 
-![VIBE](https://files.coinmarketcap.com/static/img/coins/32x32/vibe.png) | VIBE | VIBE | 
-![AirSwap](https://files.coinmarketcap.com/static/img/coins/32x32/airswap.png) | AirSwap | AST | 
-![IoT Chain](https://files.coinmarketcap.com/static/img/coins/32x32/iot-chain.png) | IoT Chain | ITC | 
-![NAV Coin](https://files.coinmarketcap.com/static/img/coins/32x32/nav-coin.png) | NAV Coin | NAV | 
-![Monaco](https://files.coinmarketcap.com/static/img/coins/32x32/monaco.png) | Monaco | MCO | 
-![Storm](https://files.coinmarketcap.com/static/img/coins/32x32/storm.png) | Storm | STORM | 
-![ETHLend](https://files.coinmarketcap.com/static/img/coins/32x32/ethlend.png) | ETHLend | LEND | 
-![Asch](https://files.coinmarketcap.com/static/img/coins/32x32/asch.png) | Asch | XAS | 
-![Bibox Token](https://files.coinmarketcap.com/static/img/coins/32x32/bibox-token.png) | Bibox Token | BIX | 
-![SophiaTX](https://files.coinmarketcap.com/static/img/coins/32x32/sophiatx.png) | SophiaTX | SPHTX | 
-![Cobinhood](https://files.coinmarketcap.com/static/img/coins/32x32/cobinhood.png) | Cobinhood | COB | 
-![Ripio Credit ...](https://files.coinmarketcap.com/static/img/coins/32x32/ripio-credit-network.png) | Ripio Credit Network | RCN | 
-![SingularDTV](https://files.coinmarketcap.com/static/img/coins/32x32/singulardtv.png) | SingularDTV | SNGLS | 
-![Peercoin](https://files.coinmarketcap.com/static/img/coins/32x32/peercoin.png) | Peercoin | PPC | 
-![MediShares](https://files.coinmarketcap.com/static/img/coins/32x32/medishares.png) | MediShares | MDS | 
-![DeepBrain Chain](https://files.coinmarketcap.com/static/img/coins/32x32/deepbrain-chain.png) | DeepBrain Chain | DBC | 
-![XTRABYTES](https://files.coinmarketcap.com/static/img/coins/32x32/xtrabytes.png) | XTRABYTES | XBY | 
-![Metal](https://files.coinmarketcap.com/static/img/coins/32x32/metal.png) | Metal | MTL | 
-![Simple Token](https://files.coinmarketcap.com/static/img/coins/32x32/simple-token.png) | Simple Token | OST | 
-![Ambrosus](https://files.coinmarketcap.com/static/img/coins/32x32/amber.png) | Ambrosus | AMB | 
-![CyberMiles](https://files.coinmarketcap.com/static/img/coins/32x32/cybermiles.png) | CyberMiles | CMT | 
-![UTRUST](https://files.coinmarketcap.com/static/img/coins/32x32/utrust.png) | UTRUST | UTK | 
-![SONM](https://files.coinmarketcap.com/static/img/coins/32x32/sonm.png) | SONM | SNM | 
-![Einsteinium](https://files.coinmarketcap.com/static/img/coins/32x32/einsteinium.png) | Einsteinium | EMC2 | 
-![Quantum Resis...](https://files.coinmarketcap.com/static/img/coins/32x32/quantum-resistant-ledger.png) | Quantum Resistan Ledger | QRL | 
-![Theta Token](https://files.coinmarketcap.com/static/img/coins/32x32/theta-token.png) | Theta Token | THETA | 
-![Telcoin](https://files.coinmarketcap.com/static/img/coins/32x32/telcoin.png) | Telcoin | TEL | 
-![Nuls](https://files.coinmarketcap.com/static/img/coins/32x32/nuls.png) | Nuls | NULS | 
-![WaBi](https://files.coinmarketcap.com/static/img/coins/32x32/wabi.png) | WaBi | WABI | 
-![Trinity Netwo...](https://files.coinmarketcap.com/static/img/coins/32x32/trinity-network-credit.png) | Trinity Network Credit | TNC | 
-![Centra](https://files.coinmarketcap.com/static/img/coins/32x32/centra.png) | Centra | CTR | 
-![BitBay](https://files.coinmarketcap.com/static/img/coins/32x32/bitbay.png) | BitBay | BAY | 
-![Counterparty](https://files.coinmarketcap.com/static/img/coins/32x32/counterparty.png) | Counterparty | XCP | 
-![AdEx](https://files.coinmarketcap.com/static/img/coins/32x32/adex.png) | AdEx | ADX | 
-![Edgeless](https://files.coinmarketcap.com/static/img/coins/32x32/edgeless.png) | Edgeless | EDG | 
-![Gulden](https://files.coinmarketcap.com/static/img/coins/32x32/gulden.png) | Gulden | NLG | 
-![INS Ecosystem](https://files.coinmarketcap.com/static/img/coins/32x32/ins-ecosystem.png) | INS Ecosystem | INS | 
-![Melon](https://files.coinmarketcap.com/static/img/coins/32x32/melon.png) | Melon | MLN | 
-![Viacoin](https://files.coinmarketcap.com/static/img/coins/32x32/viacoin.png) | Viacoin | VIA | 
-![PACcoin](https://files.coinmarketcap.com/static/img/coins/32x32/paccoin.png) | PACcoin | PAC | 
-![MobileGo](https://files.coinmarketcap.com/static/img/coins/32x32/mobilego.png) | MobileGo | MGO | 
-![AppCoins](https://files.coinmarketcap.com/static/img/coins/32x32/appcoins.png) | AppCoins | APPC | 
-![ATMChain](https://files.coinmarketcap.com/static/img/coins/32x32/attention-token-of-media.png) | ATMChain | ATM | 
-![Streamr DATAcoin](https://files.coinmarketcap.com/static/img/coins/32x32/streamr-datacoin.png) | Streamr DATAcoin | DATA | 
-![Electra](https://files.coinmarketcap.com/static/img/coins/32x32/electra.png) | Electra | ECA | 
-![SpankChain](https://files.coinmarketcap.com/static/img/coins/32x32/spankchain.png) | SpankChain | SPANK | 
-![Eidoo](https://files.coinmarketcap.com/static/img/coins/32x32/eidoo.png) | Eidoo | EDO | 
-![Wagerr](https://files.coinmarketcap.com/static/img/coins/32x32/wagerr.png) | Wagerr | WGR | 
-![ION](https://files.coinmarketcap.com/static/img/coins/32x32/ion.png) | ION | ION | 
-![Etherparty](https://files.coinmarketcap.com/static/img/coins/32x32/etherparty.png) | Etherparty | FUEL | 
-![Tierion](https://files.coinmarketcap.com/static/img/coins/32x32/tierion.png) | Tierion | TNT | 
-![Modum](https://files.coinmarketcap.com/static/img/coins/32x32/modum.png) | Modum | MOD | 
-![Unikoin Gold](https://files.coinmarketcap.com/static/img/coins/32x32/unikoin-gold.png) | Unikoin Gold | UKG | 
-![Presearch](https://files.coinmarketcap.com/static/img/coins/32x32/presearch.png) | Presearch | PRS | 
-![Wings](https://files.coinmarketcap.com/static/img/coins/32x32/wings.png) | Wings | WINGS | 
-![NAGA](https://files.coinmarketcap.com/static/img/coins/32x32/naga.png) | NAGA | NGC | 
-![Metaverse ETP](https://files.coinmarketcap.com/static/img/coins/32x32/metaverse.png) | Metaverse ETP | ETP | 
-![indaHash](https://files.coinmarketcap.com/static/img/coins/32x32/indahash.png) | indaHash | IDH | 
-![LBRY Credits](https://files.coinmarketcap.com/static/img/coins/32x32/library-credit.png) | LBRY Credits | LBC | 
-![Internet Node...](https://files.coinmarketcap.com/static/img/coins/32x32/internet-node-token.png) | Internet Node Token | INT | 
-![OriginTrail](https://files.coinmarketcap.com/static/img/coins/32x32/origintrail.png) | OriginTrail | TRAC | 
-![Triggers](https://files.coinmarketcap.com/static/img/coins/32x32/triggers.png) | Triggers | TRIG | 
-![Genesis Vision](https://files.coinmarketcap.com/static/img/coins/32x32/genesis-vision.png) | Genesis Vision | GVT | 
-![Bread](https://files.coinmarketcap.com/static/img/coins/32x32/bread.png) | Bread | BRD | 
-![Decision Token](https://files.coinmarketcap.com/static/img/coins/32x32/decision-token.png) | Decision Token | HST | 
-![HTML5COIN](https://files.coinmarketcap.com/static/img/coins/32x32/htmlcoin.png) | HTML5COIN | HTML5 | 
-![QLINK](https://files.coinmarketcap.com/static/img/coins/32x32/qlink.png) | QLINK | QLC | 
-![ECC](https://files.coinmarketcap.com/static/img/coins/32x32/eccoin.png) | ECC | ECC | 
-![DeepOnion](https://files.coinmarketcap.com/static/img/coins/32x32/deeponion.png) | DeepOnion | ONION | 
-![CloakCoin](https://files.coinmarketcap.com/static/img/coins/32x32/cloakcoin.png) | CloakCoin | CLOAK | 
-![MinexCoin](https://files.coinmarketcap.com/static/img/coins/32x32/minexcoin.png) | MinexCoin | MNX | 
-![CoinDash](https://files.coinmarketcap.com/static/img/coins/32x32/coindash.png) | CoinDash | CDT | 
-![Burst](https://files.coinmarketcap.com/static/img/coins/32x32/burst.png) | Burst | BURST | 
-![Paypex](https://files.coinmarketcap.com/static/img/coins/32x32/paypex.png) | Paypex | PAYX | 
-![Aeon](https://files.coinmarketcap.com/static/img/coins/32x32/aeon.png) | Aeon | AEON | 
-![Odyssey](https://files.coinmarketcap.com/static/img/coins/32x32/odyssey.png) | Odyssey | OCN | 
-![district0x](https://files.coinmarketcap.com/static/img/coins/32x32/district0x.png) | district0x | DNT | 
-![Oyster](https://files.coinmarketcap.com/static/img/coins/32x32/oyster.png) | Oyster | PRL | 
-![Lykke](https://files.coinmarketcap.com/static/img/coins/32x32/lykke.png) | Lykke | LKK | 
-![adToken](https://files.coinmarketcap.com/static/img/coins/32x32/adtoken.png) | adToken | ADT | 
-![Cappasity](https://files.coinmarketcap.com/static/img/coins/32x32/cappasity.png) | Cappasity | CAPP | 
-![DECENT](https://files.coinmarketcap.com/static/img/coins/32x32/decent.png) | DECENT | DCT | 
-![Mercury](https://files.coinmarketcap.com/static/img/coins/32x32/mercury.png) | Mercury | MER | 
-![Compcoin](https://files.coinmarketcap.com/static/img/coins/32x32/compcoin.png) | Compcoin | CMP | 
-![Datum](https://files.coinmarketcap.com/static/img/coins/32x32/datum.png) | Datum | DAT | 
-![Gifto](https://files.coinmarketcap.com/static/img/coins/32x32/gifto.png) | Gifto | GTO | 
-![carVertical](https://files.coinmarketcap.com/static/img/coins/32x32/carvertical.png) | carVertical | CV | 
-![COSS](https://files.coinmarketcap.com/static/img/coins/32x32/coss.png) | COSS | COSS | 
-![SaluS](https://files.coinmarketcap.com/static/img/coins/32x32/salus.png) | SaluS | SLS | 
-![OctoCoin](https://files.coinmarketcap.com/static/img/coins/32x32/octocoin.png) | OctoCoin | 888 | 
-![Presearch](https://files.coinmarketcap.com/static/img/coins/32x32/presearch.png) | Presearch | PRE | 
-![Jinn](https://files.coinmarketcap.com/static/img/coins/32x32/jinn.png) | Jinn | JINN | 
-![All Sports](https://files.coinmarketcap.com/static/img/coins/32x32/all-sports.png) | All Sports | SOC | 
-![BitDegree](https://files.coinmarketcap.com/static/img/coins/32x32/bitdegree.png) | BitDegree | BDG | 
-![TokenCard](https://files.coinmarketcap.com/static/img/coins/32x32/tokencard.png) | TokenCard | TKN | 
-![Crown](https://files.coinmarketcap.com/static/img/coins/32x32/crown.png) | Crown | CRW | 
-![Groestlcoin](https://files.coinmarketcap.com/static/img/coins/32x32/groestlcoin.png) | Groestlcoin | GRS | 
-![Lunyr](https://files.coinmarketcap.com/static/img/coins/32x32/lunyr.png) | Lunyr | LUN | 
-![Hive](https://files.coinmarketcap.com/static/img/coins/32x32/hive.png) | Hive | HVN | 
-![Viberate](https://files.coinmarketcap.com/static/img/coins/32x32/viberate.png) | Viberate | VIB | 
-![Grid+](https://files.coinmarketcap.com/static/img/coins/32x32/grid.png) | Grid+ | GRID | 
-![TaaS](https://files.coinmarketcap.com/static/img/coins/32x32/taas.png) | TaaS | TAAS | 
-![Spectre.ai Di...](https://files.coinmarketcap.com/static/img/coins/32x32/spectre-dividend.png) | Spectre.ai Dividend Token | SXDT | 
-![Pura](https://files.coinmarketcap.com/static/img/coins/32x32/pura.png) | Pura | PURA | 
-![FirstBlood](https://files.coinmarketcap.com/static/img/coins/32x32/firstblood.png) | FirstBlood | 1ST | 
-![Qbao](https://files.coinmarketcap.com/static/img/coins/32x32/qbao.png) | Qbao | QBT | 
-![Delphy](https://files.coinmarketcap.com/static/img/coins/32x32/delphy.png) | Delphy | DPY | 
-![Ink](https://files.coinmarketcap.com/static/img/coins/32x32/ink.png) | Ink | INK | 
-![HempCoin](https://files.coinmarketcap.com/static/img/coins/32x32/hempcoin.png) | HempCoin | THC | 
-![Safe Exchange...](https://files.coinmarketcap.com/static/img/coins/32x32/safe-exchange-coin.png) | Safe Exchange Coin | SAFEX | 
-![Namecoin](https://files.coinmarketcap.com/static/img/coins/32x32/namecoin.png) | Namecoin | NMC | 
-![bitCNY](https://files.coinmarketcap.com/static/img/coins/32x32/bitcny.png) | bitCNY | BITCNY | 
-![Feathercoin](https://files.coinmarketcap.com/static/img/coins/32x32/feathercoin.png) | Feathercoin | FTC | 
-![I/O Coin](https://files.coinmarketcap.com/static/img/coins/32x32/iocoin.png) | I/O Coin | IOC | 
-![WeTrust](https://files.coinmarketcap.com/static/img/coins/32x32/trust.png) | WeTrust | TRST | 
-![Cofound.it](https://files.coinmarketcap.com/static/img/coins/32x32/cofound-it.png) | Cofound.it | CFI | 
-![Spectrecoin](https://files.coinmarketcap.com/static/img/coins/32x32/spectrecoin.png) | Spectrecoin | XSPEC | 
-![Mooncoin](https://files.coinmarketcap.com/static/img/coins/32x32/mooncoin.png) | Mooncoin | MOON | 
-![InsurePal](https://files.coinmarketcap.com/static/img/coins/32x32/insurepal.png) | InsurePal | IPL | 
-![Diamond](https://files.coinmarketcap.com/static/img/coins/32x32/diamond.png) | Diamond | DMD | 
-![PotCoin](https://files.coinmarketcap.com/static/img/coins/32x32/potcoin.png) | PotCoin | POT | 
-![Voxels](https://files.coinmarketcap.com/static/img/coins/32x32/voxels.png) | Voxels | VOX | 
-![Shift](https://files.coinmarketcap.com/static/img/coins/32x32/shift.png) | Shift | SHIFT | 
-![SwftCoin](https://files.coinmarketcap.com/static/img/coins/32x32/swftcoin.png) | SwftCoin | SWFTC | 
-![SixEleven](https://files.coinmarketcap.com/static/img/coins/32x32/sixeleven.png) | SixEleven | 611 | 
-![Pepe Cash](https://files.coinmarketcap.com/static/img/coins/32x32/pepe-cash.png) | Pepe Cash | PEPECASH | 
-![Monetha](https://files.coinmarketcap.com/static/img/coins/32x32/monetha.png) | Monetha | MTH | 
-![Energo](https://files.coinmarketcap.com/static/img/coins/32x32/energo.png) | Energo | TSL | 
-![Bloom](https://files.coinmarketcap.com/static/img/coins/32x32/bloomtoken.png) | Bloom | BLT | 
-![Nimiq](https://files.coinmarketcap.com/static/img/coins/32x32/nimiq.png) | Nimiq | NET | 
-![Zeusshield](https://files.coinmarketcap.com/static/img/coins/32x32/zeusshield.png) | Zeusshield | ZSC | 
-![YOYOW](https://files.coinmarketcap.com/static/img/coins/32x32/yoyow.png) | YOYOW | YOYOW | 
-![Dimecoin](https://files.coinmarketcap.com/static/img/coins/32x32/dimecoin.png) | Dimecoin | DIME | 
-![Blocktix](https://files.coinmarketcap.com/static/img/coins/32x32/blocktix.png) | Blocktix | TIX | 
-![ColossusCoinXT](https://files.coinmarketcap.com/static/img/coins/32x32/colossuscoinxt.png) | ColossusCoinXT | COLX | 
-![SIBCoin](https://files.coinmarketcap.com/static/img/coins/32x32/sibcoin.png) | SIBCoin | SIB | 
-![Steem Dollars](https://files.coinmarketcap.com/static/img/coins/32x32/steem-dollars.png) | Steem Dollars | SBD | 
-![Everex](https://files.coinmarketcap.com/static/img/coins/32x32/everex.png) | Everex | EVX | 
-![Maecenas](https://files.coinmarketcap.com/static/img/coins/32x32/maecenas.png) | Maecenas | ART | 
-![Humaniq](https://files.coinmarketcap.com/static/img/coins/32x32/humaniq.png) | Humaniq | HMQ | 
-![Trade Token](https://files.coinmarketcap.com/static/img/coins/32x32/trade-token.png) | Trade Token | TIO | 
-![Selfkey](https://files.coinmarketcap.com/static/img/coins/32x32/selfkey.png) | Selfkey | KEY | 
-![eBoost](https://files.coinmarketcap.com/static/img/coins/32x32/eboostcoin.png) | eBoost | EBST | 
-![WhiteCoin](https://files.coinmarketcap.com/static/img/coins/32x32/whitecoin.png) | WhiteCoin | XWC | 
-![Synereo](https://files.coinmarketcap.com/static/img/coins/32x32/synereo.png) | Synereo | AMP | 
-![Agrello](https://files.coinmarketcap.com/static/img/coins/32x32/agrello-delta.png) | Agrello | DLT | 
-![Karma](https://files.coinmarketcap.com/static/img/coins/32x32/karma.png) | Karma | KRM | 
-![SunContract](https://files.coinmarketcap.com/static/img/coins/32x32/suncontract.png) | SunContract | SNC | 
-![Worldcore](https://files.coinmarketcap.com/static/img/coins/32x32/worldcore.png) | Worldcore | WRC | 
-![CanYaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/canyacoin.png) | CanYaCoin | CAN | 
-![iXledger](https://files.coinmarketcap.com/static/img/coins/32x32/ixledger.png) | iXledger | IXT | 
-![Pascal Coin](https://files.coinmarketcap.com/static/img/coins/32x32/pascal-coin.png) | Pascal Coin | PASC | 
-![FairCoin](https://files.coinmarketcap.com/static/img/coins/32x32/faircoin.png) | FairCoin | FAIR | 
-![LAToken](https://files.coinmarketcap.com/static/img/coins/32x32/latoken.png) | LAToken | LA | 
-![Flash](https://files.coinmarketcap.com/static/img/coins/32x32/flash.png) | Flash | FLASH | 
-![LEOcoin](https://files.coinmarketcap.com/static/img/coins/32x32/leocoin.png) | LEOcoin | LEO | 
-![Lamden](https://files.coinmarketcap.com/static/img/coins/32x32/lamden.png) | Lamden | TAU | 
-![VeriCoin](https://files.coinmarketcap.com/static/img/coins/32x32/vericoin.png) | VeriCoin | VRC | 
-![NoLimitCoin](https://files.coinmarketcap.com/static/img/coins/32x32/nolimitcoin.png) | NoLimitCoin | NLC2 | 
-![Unobtanium](https://files.coinmarketcap.com/static/img/coins/32x32/unobtanium.png) | Unobtanium | UNO | 
-![Olympus Labs](https://files.coinmarketcap.com/static/img/coins/32x32/olympus-labs.png) | Olympus Labs | MOT | 
-![SHIELD](https://files.coinmarketcap.com/static/img/coins/32x32/shield.png) | SHIELD | XSH | 
-![BCAP](https://files.coinmarketcap.com/static/img/coins/32x32/bcap.png) | BCAP | BCAP | 
-![Moeda Loyalty...](https://files.coinmarketcap.com/static/img/coins/32x32/moeda-loyalty-points.png) | Moeda Loyalty Points| MDA | 
-![Bodhi](https://files.coinmarketcap.com/static/img/coins/32x32/bodhi.png) | Bodhi | BOT | 
-![Elastic](https://files.coinmarketcap.com/static/img/coins/32x32/elastic.png) | Elastic | XEL | 
-![300 Token](https://files.coinmarketcap.com/static/img/coins/32x32/300-token.png) | 300 Token | 300 | 
-![Propy](https://files.coinmarketcap.com/static/img/coins/32x32/propy.png) | Propy | PRO | 
-![Peerplays](https://files.coinmarketcap.com/static/img/coins/32x32/peerplays.png) | Peerplays | PPY | 
-![Playkey](https://files.coinmarketcap.com/static/img/coins/32x32/playkey.png) | Playkey | PKT | 
-![Matchpool](https://files.coinmarketcap.com/static/img/coins/32x32/guppy.png) | Matchpool | GUP | 
-![Ormeus Coin](https://files.coinmarketcap.com/static/img/coins/32x32/ormeus-coin.png) | Ormeus Coin | ORME | 
-![GridCoin](https://files.coinmarketcap.com/static/img/coins/32x32/gridcoin.png) | GridCoin | GRC | 
-![Phore](https://files.coinmarketcap.com/static/img/coins/32x32/phore.png) | Phore | PHR | 
-![Rise](https://files.coinmarketcap.com/static/img/coins/32x32/rise.png) | Rise | RISE | 
-![BlackCoin](https://files.coinmarketcap.com/static/img/coins/32x32/blackcoin.png) | BlackCoin | BLK | 
-![Expanse](https://files.coinmarketcap.com/static/img/coins/32x32/expanse.png) | Expanse | EXP | 
-![EncrypGen](https://files.coinmarketcap.com/static/img/coins/32x32/encrypgen.png) | EncrypGen | DNA | 
-![Bean Cash](https://files.coinmarketcap.com/static/img/coins/32x32/bean-cash.png) | Bean Cash | BITB | 
-![QunQun](https://files.coinmarketcap.com/static/img/coins/32x32/qunqun.png) | QunQun | QUN | 
-![PoSW Coin](https://files.coinmarketcap.com/static/img/coins/32x32/posw-coin.png) | PoSW Coin | POSW | 
-![Neumark](https://files.coinmarketcap.com/static/img/coins/32x32/neumark.png) | Neumark | NEU | 
-![Soarcoin](https://files.coinmarketcap.com/static/img/coins/32x32/soarcoin.png) | Soarcoin | SOAR | 
-![Target Coin](https://files.coinmarketcap.com/static/img/coins/32x32/target-coin.png) | Target Coin | TGT | 
-![Aeron](https://files.coinmarketcap.com/static/img/coins/32x32/aeron.png) | Aeron | ARN | 
-![BlockMason Cr...](https://files.coinmarketcap.com/static/img/coins/32x32/blockmason.png) | BlockMason Credit Protocol | BCPT | 
-![Covesting](https://files.coinmarketcap.com/static/img/coins/32x32/covesting.png) | Covesting | COV | 
-![Mothership](https://files.coinmarketcap.com/static/img/coins/32x32/mothership.png) | Mothership | MSP | 
-![HelloGold](https://files.coinmarketcap.com/static/img/coins/32x32/hellogold.png) | HelloGold | HGT | 
-![Boolberry](https://files.coinmarketcap.com/static/img/coins/32x32/boolberry.png) | Boolberry | BBR | 
-![Universal Cur...](https://files.coinmarketcap.com/static/img/coins/32x32/universal-currency.png) | Universal Currency | UNIT | 
-![MyBit Token](https://files.coinmarketcap.com/static/img/coins/32x32/mybit-token.png) | MyBit Token | MYB | 
-![Numeraire](https://files.coinmarketcap.com/static/img/coins/32x32/numeraire.png) | Numeraire | NMR | 
-![Hacken](https://files.coinmarketcap.com/static/img/coins/32x32/hacken.png) | Hacken | HKN | 
-![SolarCoin](https://files.coinmarketcap.com/static/img/coins/32x32/solarcoin.png) | SolarCoin | SLR | 
-![Virtacoin](https://files.coinmarketcap.com/static/img/coins/32x32/virtacoin.png) | Virtacoin | VTA | 
-![OKCash](https://files.coinmarketcap.com/static/img/coins/32x32/okcash.png) | OKCash | OK | 
-![Radium](https://files.coinmarketcap.com/static/img/coins/32x32/radium.png) | Radium | RADS | 
-![Open Trading ...](https://files.coinmarketcap.com/static/img/coins/32x32/open-trading-network.png) | Open Trading Network | OTN | 
-![DomRaider](https://files.coinmarketcap.com/static/img/coins/32x32/domraider.png) | DomRaider | DRT | 
-![Omni](https://files.coinmarketcap.com/static/img/coins/32x32/omni.png) | Omni | OMNI | 
-![NVO](https://files.coinmarketcap.com/static/img/coins/32x32/nvo.png) | NVO | NVST | 
-![Swarm City](https://files.coinmarketcap.com/static/img/coins/32x32/swarm-city.png) | Swarm City | SWT | 
-![Stox](https://files.coinmarketcap.com/static/img/coins/32x32/stox.png) | Stox | STX | 
-![AirToken](https://files.coinmarketcap.com/static/img/coins/32x32/airtoken.png) | AirToken | AIR | 
-![MonetaryUnit](https://files.coinmarketcap.com/static/img/coins/32x32/monetaryunit.png) | MonetaryUnit | MUE | 
-![eBitcoin](https://files.coinmarketcap.com/static/img/coins/32x32/ebtcnew.png) | eBitcoin | EBTC | 
-![LIFE](https://files.coinmarketcap.com/static/img/coins/32x32/life.png) | LIFE | LIFE | 
-![KickCoin](https://files.coinmarketcap.com/static/img/coins/32x32/kickico.png) | KickCoin | KICK | 
-![Rubycoin](https://files.coinmarketcap.com/static/img/coins/32x32/rubycoin.png) | Rubycoin | RBY | 
-![Energycoin](https://files.coinmarketcap.com/static/img/coins/32x32/energycoin.png) | Energycoin | ENRG | 
-![Snovio](https://files.coinmarketcap.com/static/img/coins/32x32/snovio.png) | Snovio | SNOV | 
-![Etheroll](https://files.coinmarketcap.com/static/img/coins/32x32/etheroll.png) | Etheroll | DICE | 
-![DecentBet](https://files.coinmarketcap.com/static/img/coins/32x32/decent-bet.png) | DecentBet | DBET | 
-![OAX](https://files.coinmarketcap.com/static/img/coins/32x32/oax.png) | OAX | OAX | 
-![Aurora DAO](https://files.coinmarketcap.com/static/img/coins/32x32/aurora-dao.png) | Aurora DAO | AURA | 
-![Myriad](https://files.coinmarketcap.com/static/img/coins/32x32/myriad.png) | Myriad | XMY | 
-![GET Protocol](https://files.coinmarketcap.com/static/img/coins/32x32/guts-tickets.png) | GET Protocol | GET | 
-![BitSend](https://files.coinmarketcap.com/static/img/coins/32x32/bitsend.png) | BitSend | BSD | 
-![bitUSD](https://files.coinmarketcap.com/static/img/coins/32x32/bitusd.png) | bitUSD | BITUSD | 
-![Arcade Token](https://files.coinmarketcap.com/static/img/coins/32x32/arcade-token.png) | Arcade Token | ARC2 | 
-![Gambit](https://files.coinmarketcap.com/static/img/coins/32x32/gambit.png) | Gambit | GAM | 
-![Starbase](https://files.coinmarketcap.com/static/img/coins/32x32/starbase.png) | Starbase | STAR | 
-![Blackmoon](https://files.coinmarketcap.com/static/img/coins/32x32/blackmoon.png) | Blackmoon | BMC | 
-![ALIS](https://files.coinmarketcap.com/static/img/coins/32x32/alis.png) | ALIS | ALIS | 
-![Xenon](https://files.coinmarketcap.com/static/img/coins/32x32/xenon.png) | Xenon | XNN | 
-![Profile Utili...](https://files.coinmarketcap.com/static/img/coins/32x32/profile-utility-token.png) | Profile Utility Token | PUT | 
-![Golos](https://files.coinmarketcap.com/static/img/coins/32x32/golos.png) | Golos | GOLOS | 
-![Primas](https://files.coinmarketcap.com/static/img/coins/32x32/primas.png) | Primas | PST | 
-![Viuly](https://files.coinmarketcap.com/static/img/coins/32x32/viuly.png) | Viuly | VIU | 
-![GoByte](https://files.coinmarketcap.com/static/img/coins/32x32/gobyte.png) | GoByte | GBX | 
-![BLUE](https://files.coinmarketcap.com/static/img/coins/32x32/ethereum-blue.png) | BLUE | BLUE | 
-![Bounty0x](https://files.coinmarketcap.com/static/img/coins/32x32/bounty0x.png) | Bounty0x | BNTY | 
-![Waves Communi...](https://files.coinmarketcap.com/static/img/coins/32x32/waves-community-token.png) | Waves Community Token | WCT | 
-![SportyFi](https://files.coinmarketcap.com/static/img/coins/32x32/sportyfi.png) | SportyFi | SPF | 
-![Xaurum](https://files.coinmarketcap.com/static/img/coins/32x32/xaurum.png) | Xaurum | XAUR | 
-![NuShares](https://files.coinmarketcap.com/static/img/coins/32x32/nushares.png) | NuShares | NSR | 
-![OracleChain](https://files.coinmarketcap.com/static/img/coins/32x32/oraclechain.png) | OracleChain | OCT | 
-![Uquid Coin](https://files.coinmarketcap.com/static/img/coins/32x32/uquid-coin.png) | Uquid Coin | UQC | 
-![NeosCoin](https://files.coinmarketcap.com/static/img/coins/32x32/neoscoin.png) | NeosCoin | NEOS | 
-![LoMoCoin](https://files.coinmarketcap.com/static/img/coins/32x32/lomocoin.png) | LoMoCoin | LMC | 
-![Clams](https://files.coinmarketcap.com/static/img/coins/32x32/clams.png) | Clams | CLAM | 
-![ProChain](https://files.coinmarketcap.com/static/img/coins/32x32/prochain.png) | ProChain | PRA | 
-![Zoin](https://files.coinmarketcap.com/static/img/coins/32x32/zoin.png) | Zoin | ZOI | 
-![Credo](https://files.coinmarketcap.com/static/img/coins/32x32/credo.png) | Credo | CREDO | 
-![BitDice](https://files.coinmarketcap.com/static/img/coins/32x32/bitdice.png) | BitDice | CSNO | 
-![Nexium](https://files.coinmarketcap.com/static/img/coins/32x32/nexium.png) | Nexium | NXC | 
-![Oxycoin](https://files.coinmarketcap.com/static/img/coins/32x32/oxycoin.png) | Oxycoin | OXY | 
-![LockChain](https://files.coinmarketcap.com/static/img/coins/32x32/lockchain.png) | LockChain | LOC | 
-![Polybius](https://files.coinmarketcap.com/static/img/coins/32x32/polybius.png) | Polybius | PLBT | 
-![ATBCoin](https://files.coinmarketcap.com/static/img/coins/32x32/atbcoin.png) | ATBCoin | ATB | 
-![Circuits of V...](https://files.coinmarketcap.com/static/img/coins/32x32/circuits-of-value.png) | Circuits of Value | COVAL | 
-![Pandacoin](https://files.coinmarketcap.com/static/img/coins/32x32/pandacoin-pnd.png) | Pandacoin | PND | 
-![CoinMeet](https://files.coinmarketcap.com/static/img/coins/32x32/coinmeet.png) | CoinMeet | MEE | 
-![Databits](https://files.coinmarketcap.com/static/img/coins/32x32/databits.png) | Databits | DTB | 
-![Ecobit](https://files.coinmarketcap.com/static/img/coins/32x32/ecobit.png) | Ecobit | ECOB | 
-![Hedge](https://files.coinmarketcap.com/static/img/coins/32x32/hedge.png) | Hedge | HDG | 
-![Gatcoin](https://files.coinmarketcap.com/static/img/coins/32x32/gatcoin.png) | Gatcoin | GAT | 
-![Blockport](https://files.coinmarketcap.com/static/img/coins/32x32/blockport.png) | Blockport | BPT | 
-![LUXCoin](https://files.coinmarketcap.com/static/img/coins/32x32/luxcoin.png) | LUXCoin | LUX | 
-![Primecoin](https://files.coinmarketcap.com/static/img/coins/32x32/primecoin.png) | Primecoin | XPM | 
-![Rivetz](https://files.coinmarketcap.com/static/img/coins/32x32/rivetz.png) | Rivetz | RVT | 
-![Mintcoin](https://files.coinmarketcap.com/static/img/coins/32x32/mintcoin.png) | Mintcoin | MINT | 
-![Auroracoin](https://files.coinmarketcap.com/static/img/coins/32x32/auroracoin.png) | Auroracoin | AUR | 
-![Aventus](https://files.coinmarketcap.com/static/img/coins/32x32/aventus.png) | Aventus | AVT | 
-![FlorinCoin](https://files.coinmarketcap.com/static/img/coins/32x32/florincoin.png) | FlorinCoin | FLO | 
-![OneRoot Network](https://files.coinmarketcap.com/static/img/coins/32x32/oneroot-network.png) | OneRoot Network | RNT | 
-![Paragon](https://files.coinmarketcap.com/static/img/coins/32x32/paragon.png) | Paragon | PRG | 
-![AICHAIN](https://files.coinmarketcap.com/static/img/coins/32x32/aichain.png) | AICHAIN | AIT | 
-![Chronobank](https://files.coinmarketcap.com/static/img/coins/32x32/chronobank.png) | Chronobank | TIME | 
-![FoldingCoin](https://files.coinmarketcap.com/static/img/coins/32x32/foldingcoin.png) | FoldingCoin | FLDC | 
-![Hubii Network](https://files.coinmarketcap.com/static/img/coins/32x32/hubii-network.png) | Hubii Network | HBT | 
-![GeoCoin](https://files.coinmarketcap.com/static/img/coins/32x32/geocoin.png) | GeoCoin | GEO | 
-![DubaiCoin](https://files.coinmarketcap.com/static/img/coins/32x32/dubaicoin.png) | DubaiCoin | DBIX | 
-![Exchange Union](https://files.coinmarketcap.com/static/img/coins/32x32/exchange-union.png) | Exchange Union | XUC | 
-![PRIZM](https://files.coinmarketcap.com/static/img/coins/32x32/prizm.png) | PRIZM | PZM | 
-![ERC20](https://files.coinmarketcap.com/static/img/coins/32x32/erc20.png) | ERC20 | ERC20 | 
-![ICOS](https://files.coinmarketcap.com/static/img/coins/32x32/icos.png) | ICOS | ICOS | 
-![Dai](https://files.coinmarketcap.com/static/img/coins/32x32/dai.png) | Dai | DAI | 
-![NewYorkCoin](https://files.coinmarketcap.com/static/img/coins/32x32/newyorkcoin.png) | NewYorkCoin | NYC | 
-![Quantum](https://files.coinmarketcap.com/static/img/coins/32x32/quantum.png) | Quantum | QAU | 
-![Pirl](https://files.coinmarketcap.com/static/img/coins/32x32/pirl.png) | Pirl | PIRL | 
-![Divi](https://files.coinmarketcap.com/static/img/coins/32x32/divi.png) | Divi | DIVX | 
-![Rialto](https://files.coinmarketcap.com/static/img/coins/32x32/rialto.png) | Rialto | XRL | 
-![Patientory](https://files.coinmarketcap.com/static/img/coins/32x32/patientory.png) | Patientory | PTOY | 
-![bitqy](https://files.coinmarketcap.com/static/img/coins/32x32/bitqy.png) | bitqy | BQ | 
-![ClearPoll](https://files.coinmarketcap.com/static/img/coins/32x32/clearpoll.png) | ClearPoll | POLL | 
-![E-Dinar Coin](https://files.coinmarketcap.com/static/img/coins/32x32/e-dinar-coin.png) | E-Dinar Coin | EDR | 
-![InvestFeed](https://files.coinmarketcap.com/static/img/coins/32x32/investfeed.png) | InvestFeed | IFT | 
-![Voise](https://files.coinmarketcap.com/static/img/coins/32x32/voise.png) | Voise | VOISE | 
-![Elixir](https://files.coinmarketcap.com/static/img/coins/32x32/elixir.png) | Elixir | ELIX | 
-![Syndicate](https://files.coinmarketcap.com/static/img/coins/32x32/syndicate.png) | Syndicate | SYNX | 
-![Solaris](https://files.coinmarketcap.com/static/img/coins/32x32/solaris.png) | Solaris | XLR | 
-![Dovu](https://files.coinmarketcap.com/static/img/coins/32x32/dovu.png) | Dovu | DOVU | 
-![Obsidian](https://files.coinmarketcap.com/static/img/coins/32x32/obsidian.png) | Obsidian | ODN | 
-![Pluton](https://files.coinmarketcap.com/static/img/coins/32x32/pluton.png) | Pluton | PLU | 
-![DCORP](https://files.coinmarketcap.com/static/img/coins/32x32/dcorp.png) | DCORP | DRP | 
-![Russian Miner...](https://files.coinmarketcap.com/static/img/coins/32x32/russian-mining-coin.png) | Russian Miner Coint | RMC | 
-![Mysterium](https://files.coinmarketcap.com/static/img/coins/32x32/mysterium.png) | Mysterium | MYST | 
-![OBITS](https://files.coinmarketcap.com/static/img/coins/32x32/obits.png) | OBITS | OBITS | 
-![Prospectors Gold](https://files.coinmarketcap.com/static/img/coins/32x32/prospectors-gold.png) | Prospectors Gold | PGL | 
-![Espers](https://files.coinmarketcap.com/static/img/coins/32x32/espers.png) | Espers | ESP | 
-![Flixxo](https://files.coinmarketcap.com/static/img/coins/32x32/flixxo.png) | Flixxo | FLIXX | 
-![Change](https://files.coinmarketcap.com/static/img/coins/32x32/change.png) | Change | CAG | 
-![Linda](https://files.coinmarketcap.com/static/img/coins/32x32/linda.png) | Linda | LINDA | 
-![Incent](https://files.coinmarketcap.com/static/img/coins/32x32/incent.png) | Incent | INCNT | 
-![Bitcrystals](https://files.coinmarketcap.com/static/img/coins/32x32/bitcrystals.png) | Bitcrystals | BCY | 
-![Musicoin](https://files.coinmarketcap.com/static/img/coins/32x32/musicoin.png) | Musicoin | MUSIC | 
-![Hackspace Cap...](https://files.coinmarketcap.com/static/img/coins/32x32/hackspace-capital.png) | Hackspace Capital| HAC | 
-![Global Curren...](https://files.coinmarketcap.com/static/img/coins/32x32/global-currency-reserve.png) | Global Currency Reserve | GCR | 
-![Polis](https://files.coinmarketcap.com/static/img/coins/32x32/polis.png) | Polis | POLIS | 
-![Neutron](https://files.coinmarketcap.com/static/img/coins/32x32/neutron.png) | Neutron | NTRN | 
-![Leverj](https://files.coinmarketcap.com/static/img/coins/32x32/leverj.png) | Leverj | LEV | 
-![Mercury Protocol](https://files.coinmarketcap.com/static/img/coins/32x32/mercury-protocol.png) | Mercury Protocol | GMT | 
-![NuBits](https://files.coinmarketcap.com/static/img/coins/32x32/nubits.png) | NuBits | USNBT | 
-![Dynamic](https://files.coinmarketcap.com/static/img/coins/32x32/dynamic.png) | Dynamic | DYN | 
-![Autonio](https://files.coinmarketcap.com/static/img/coins/32x32/autonio.png) | Autonio | NIO | 
-![Iungo](https://files.coinmarketcap.com/static/img/coins/32x32/iungo.png) | Iungo | ING | 
-![Sequence](https://files.coinmarketcap.com/static/img/coins/32x32/sequence.png) | Sequence | SEQ | 
-![HEAT](https://files.coinmarketcap.com/static/img/coins/32x32/heat.png) | HEAT | HEAT | 
-![Hawala.Today](https://files.coinmarketcap.com/static/img/coins/32x32/hawala-today.png) | Hawala.Today | HAT | 
-![Block Array](https://files.coinmarketcap.com/static/img/coins/32x32/block-array.png) | Block Array | ARY | 
-![CVCoin](https://files.coinmarketcap.com/static/img/coins/32x32/cvcoin.png) | CVCoin | CVCOIN | 
-![RussiaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/russiacoin.png) | RussiaCoin | RC | 
-![Stealthcoin](https://files.coinmarketcap.com/static/img/coins/32x32/stealthcoin.png) | Stealthcoin | XST | 
-![DopeCoin](https://files.coinmarketcap.com/static/img/coins/32x32/dopecoin.png) | DopeCoin | DOPE | 
-![BlockCAT](https://files.coinmarketcap.com/static/img/coins/32x32/blockcat.png) | BlockCAT | CAT | 
-![BitcoinZ](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoinz.png) | BitcoinZ | BTCZ | 
-![EarthCoin](https://files.coinmarketcap.com/static/img/coins/32x32/earthcoin.png) | EarthCoin | EAC | 
-![PinkCoin](https://files.coinmarketcap.com/static/img/coins/32x32/pinkcoin.png) | PinkCoin | PINK | 
-![Curecoin](https://files.coinmarketcap.com/static/img/coins/32x32/curecoin.png) | Curecoin | CURE | 
-![Internet of P...](https://files.coinmarketcap.com/static/img/coins/32x32/internet-of-people.png) | Internet of People | IOP | 
-![Monoeci](https://files.coinmarketcap.com/static/img/coins/32x32/monacocoin.png) | Monoeci | XMCC | 
-![Sphere](https://files.coinmarketcap.com/static/img/coins/32x32/sphere.png) | Sphere | SPHR | 
-![Aigang](https://files.coinmarketcap.com/static/img/coins/32x32/aigang.png) | Aigang | AIX | 
-![Bulwark](https://files.coinmarketcap.com/static/img/coins/32x32/bulwark.png) | Bulwark | BWK | 
-![Publica](https://files.coinmarketcap.com/static/img/coins/32x32/publica.png) | Publica | PBL | 
-![Tao](https://files.coinmarketcap.com/static/img/coins/32x32/tao.png) | Tao | XTO | 
-![AsiaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/asiacoin.png) | AsiaCoin | AC | 
-![ALQO](https://files.coinmarketcap.com/static/img/coins/32x32/alqo.png) | ALQO | ALQO | 
-![B2B](https://files.coinmarketcap.com/static/img/coins/32x32/b2bx.png) | B2B | B2B | 
-![ArtByte](https://files.coinmarketcap.com/static/img/coins/32x32/artbyte.png) | ArtByte | ABY | 
-![Astro](https://files.coinmarketcap.com/static/img/coins/32x32/astro.png) | Astro | ASTRO | 
-![Sprouts](https://files.coinmarketcap.com/static/img/coins/32x32/sprouts.png) | Sprouts | SPRTS | 
-![Lampix](https://files.coinmarketcap.com/static/img/coins/32x32/lampix.png) | Lampix | PIX | 
-![Hush](https://files.coinmarketcap.com/static/img/coins/32x32/hush.png) | Hush | HUSH | 
-![EventChain](https://files.coinmarketcap.com/static/img/coins/32x32/eventchain.png) | EventChain | EVC | 
-![Payfair](https://files.coinmarketcap.com/static/img/coins/32x32/payfair.png) | Payfair | PFR | 
-![The ChampCoin](https://files.coinmarketcap.com/static/img/coins/32x32/the-champcoin.png) | The ChampCoin | TCC | 
-![Spectre.ai Ut...](https://files.coinmarketcap.com/static/img/coins/32x32/spectre-utility.png) | Spectre.ai Utility Token | SXUT | 
-![ToaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/toacoin.png) | ToaCoin | TOA | 
-![Ethorse](https://files.coinmarketcap.com/static/img/coins/32x32/ethorse.png) | Ethorse | HORSE | 
-![Pareto Network](https://files.coinmarketcap.com/static/img/coins/32x32/pareto-network.png) | Pareto Network | PARETO | 
-![Vcash](https://files.coinmarketcap.com/static/img/coins/32x32/vcash.png) | Vcash | XVC | 
-![Sumokoin](https://files.coinmarketcap.com/static/img/coins/32x32/sumokoin.png) | Sumokoin | SUMO | 
-![UFO Coin](https://files.coinmarketcap.com/static/img/coins/32x32/ufo-coin.png) | UFO Coin | UFO | 
-![TIES Network](https://files.coinmarketcap.com/static/img/coins/32x32/ties-network.png) | TIES Network | TIE | 
-![Eroscoin](https://files.coinmarketcap.com/static/img/coins/32x32/eroscoin.png) | Eroscoin | ERO | 
-![HyperStake](https://files.coinmarketcap.com/static/img/coins/32x32/hyperstake.png) | HyperStake | HYP | 
-![Novacoin](https://files.coinmarketcap.com/static/img/coins/32x32/novacoin.png) | Novacoin | NVC | 
-![Memetic / Pep...](https://files.coinmarketcap.com/static/img/coins/32x32/memetic.png) | Memetic / PepeCoin | MEME | 
-![FedoraCoin](https://files.coinmarketcap.com/static/img/coins/32x32/fedoracoin.png) | FedoraCoin | TIPS | 
-![Everus](https://files.coinmarketcap.com/static/img/coins/32x32/everus.png) | Everus | EVR | 
-![Global Jobcoin](https://files.coinmarketcap.com/static/img/coins/32x32/global-jobcoin.png) | Global Jobcoin | GJC | 
-![VeriumReserve](https://files.coinmarketcap.com/static/img/coins/32x32/veriumreserve.png) | VeriumReserve | VRM | 
-![onG.social](https://files.coinmarketcap.com/static/img/coins/32x32/ongsocial.png) | onG.social | ONG | 
-![Cryptopay](https://files.coinmarketcap.com/static/img/coins/32x32/cryptopay.png) | Cryptopay | CPAY | 
-![Coinlancer](https://files.coinmarketcap.com/static/img/coins/32x32/coinlancer.png) | Coinlancer | CL | 
-![Verify](https://files.coinmarketcap.com/static/img/coins/32x32/verify.png) | Verify | CRED | 
-![Wild Crypto](https://files.coinmarketcap.com/static/img/coins/32x32/wild-crypto.png) | Wild Crypto | WILD | 
-![Bitmark](https://files.coinmarketcap.com/static/img/coins/32x32/bitmark.png) | Bitmark | BTM2 | 
-![Social](https://files.coinmarketcap.com/static/img/coins/32x32/social.png) | Social | SCL | 
-![CHIPS](https://files.coinmarketcap.com/static/img/coins/32x32/chips.png) | CHIPS | CHIPS | 
-![Bitswift](https://files.coinmarketcap.com/static/img/coins/32x32/bitswift.png) | Bitswift | SWIFT | 
-![Innova](https://files.coinmarketcap.com/static/img/coins/32x32/innova.png) | Innova | INN | 
-![Atmos](https://files.coinmarketcap.com/static/img/coins/32x32/atmos.png) | Atmos | ATMS | 
-![Qwark](https://files.coinmarketcap.com/static/img/coins/32x32/qwark.png) | Qwark | QWARK | 
-![Dotcoin](https://files.coinmarketcap.com/static/img/coins/32x32/dotcoin.png) | Dotcoin | DOT | 
-![Internxt](https://files.coinmarketcap.com/static/img/coins/32x32/internxt.png) | Internxt | INXT | 
-![AdShares](https://files.coinmarketcap.com/static/img/coins/32x32/adshares.png) | AdShares | ADST | 
-![vTorrent](https://files.coinmarketcap.com/static/img/coins/32x32/vtorrent.png) | vTorrent | VTR | 
-![HEROcoin](https://files.coinmarketcap.com/static/img/coins/32x32/herocoin.png) | HEROcoin | PLAY | 
-![EuropeCoin](https://files.coinmarketcap.com/static/img/coins/32x32/europecoin.png) | EuropeCoin | ERC | 
-![Starta](https://files.coinmarketcap.com/static/img/coins/32x32/starta.png) | Starta | STA | 
-![Bitdeal](https://files.coinmarketcap.com/static/img/coins/32x32/bitdeal.png) | Bitdeal | BDL | 
-![FLiK](https://files.coinmarketcap.com/static/img/coins/32x32/flik.png) | FLiK | FLIK | 
-![DAO.Casino](https://files.coinmarketcap.com/static/img/coins/32x32/dao-casino.png) | DAO.Casino | BET | 
-![BitBoost](https://files.coinmarketcap.com/static/img/coins/32x32/bitboost.png) | BitBoost | BBT | 
-![Sharechain](https://files.coinmarketcap.com/static/img/coins/32x32/sharechain.png) | Sharechain | SSS | 
-![Riecoin](https://files.coinmarketcap.com/static/img/coins/32x32/riecoin.png) | Riecoin | RIC | 
-![TransferCoin](https://files.coinmarketcap.com/static/img/coins/32x32/transfercoin.png) | TransferCoin | TX | 
-![Bitcloud](https://files.coinmarketcap.com/static/img/coins/32x32/bitcloud.png) | Bitcloud | BTDX | 
-![Pesetacoin](https://files.coinmarketcap.com/static/img/coins/32x32/pesetacoin.png) | Pesetacoin | PTC | 
-![Devery](https://files.coinmarketcap.com/static/img/coins/32x32/devery.png) | Devery | EVE | 
-![DigiPulse](https://files.coinmarketcap.com/static/img/coins/32x32/digipulse.png) | DigiPulse | DGPT | 
-![ATLANT](https://files.coinmarketcap.com/static/img/coins/32x32/atlant.png) | ATLANT | ATL | 
-![Breakout Stake](https://files.coinmarketcap.com/static/img/coins/32x32/breakout-stake.png) | Breakout Stake | BRX | 
-![The Cypherfunks](https://files.coinmarketcap.com/static/img/coins/32x32/the-cypherfunks.png) | The Cypherfunks | FUNK | 
-![Bitcoin Plus](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoin-plus.png) | Bitcoin Plus | XBC | 
-![CannabisCoin](https://files.coinmarketcap.com/static/img/coins/32x32/cannabiscoin.png) | CannabisCoin | CANN | 
-![Kore](https://files.coinmarketcap.com/static/img/coins/32x32/korecoin.png) | Kore | KORE | 
-![GoldCoin](https://files.coinmarketcap.com/static/img/coins/32x32/goldcoin.png) | GoldCoin | GLD | 
-![MyWish](https://files.coinmarketcap.com/static/img/coins/32x32/mywish.png) | MyWish | WISH | 
-![Crave](https://files.coinmarketcap.com/static/img/coins/32x32/crave.png) | Crave | CRAVE | 
-![Synergy](https://files.coinmarketcap.com/static/img/coins/32x32/synergy.png) | Synergy | SNRG | 
-![Creditbit](https://files.coinmarketcap.com/static/img/coins/32x32/creditbit.png) | Creditbit | CRB | 
-![CrowdCoin](https://files.coinmarketcap.com/static/img/coins/32x32/crowdcoin.png) | CrowdCoin | CRC | 
-![Blitzcash](https://files.coinmarketcap.com/static/img/coins/32x32/blitzcash.png) | Blitzcash | BLITZ | 
-![Breakout](https://files.coinmarketcap.com/static/img/coins/32x32/breakout.png) | Breakout | BRK | 
-![TrueFlip](https://files.coinmarketcap.com/static/img/coins/32x32/trueflip.png) | TrueFlip | TFL | 
-![TrezarCoin](https://files.coinmarketcap.com/static/img/coins/32x32/trezarcoin.png) | TrezarCoin | TZC | 
-![Magnet](https://files.coinmarketcap.com/static/img/coins/32x32/magnet.png) | Magnet | MAG | 
-![Zeitcoin](https://files.coinmarketcap.com/static/img/coins/32x32/zeitcoin.png) | Zeitcoin | ZEIT | 
-![REX](https://files.coinmarketcap.com/static/img/coins/32x32/real-estate-tokens.png) | REX | REX | 
-![Bitzeny](https://files.coinmarketcap.com/static/img/coins/32x32/bitzeny.png) | Bitzeny | ZNY | 
-![AudioCoin](https://files.coinmarketcap.com/static/img/coins/32x32/audiocoin.png) | AudioCoin | ADC | 
-![KiloCoin](https://files.coinmarketcap.com/static/img/coins/32x32/kilocoin.png) | KiloCoin | KLC | 
-![2GIVE](https://files.coinmarketcap.com/static/img/coins/32x32/2give.png) | 2GIVE | 2GIVE | 
-![BuzzCoin](https://files.coinmarketcap.com/static/img/coins/32x32/buzzcoin.png) | BuzzCoin | BUZZ | 
-![FlypMe](https://files.coinmarketcap.com/static/img/coins/32x32/flypme.png) | FlypMe | FYP | 
-![HollyWoodCoin](https://files.coinmarketcap.com/static/img/coins/32x32/hollywoodcoin.png) | HollyWoodCoin | HWC | 
-![Bonpay](https://files.coinmarketcap.com/static/img/coins/32x32/bonpay.png) | Bonpay | BON | 
-![Bela](https://files.coinmarketcap.com/static/img/coins/32x32/belacoin.png) | Bela | BELA | 
-![Social Send](https://files.coinmarketcap.com/static/img/coins/32x32/social-send.png) | Social Send | SEND | 
-![Masternodecoin](https://files.coinmarketcap.com/static/img/coins/32x32/masternodecoin.png) | Masternodecoin | MTNC | 
-![ZrCoin](https://files.coinmarketcap.com/static/img/coins/32x32/zrcoin.png) | ZrCoin | ZRC | 
-![GCN Coin](https://files.coinmarketcap.com/static/img/coins/32x32/gcn-coin.png) | GCN Coin | GCN | 
-![Blockpool](https://files.coinmarketcap.com/static/img/coins/32x32/blockpool.png) | Blockpool | BPL | 
-![Rupee](https://files.coinmarketcap.com/static/img/coins/32x32/rupee.png) | Rupee | RUP | 
-![MagicCoin](https://files.coinmarketcap.com/static/img/coins/32x32/magiccoin.png) | MagicCoin | MAGE | 
-![SmartBillions](https://files.coinmarketcap.com/static/img/coins/32x32/smartbillions.png) | SmartBillions | SMART2 | 
-![ExclusiveCoin](https://files.coinmarketcap.com/static/img/coins/32x32/exclusivecoin.png) | ExclusiveCoin | EXCL | 
-![XGOX](https://files.coinmarketcap.com/static/img/coins/32x32/xgox.png) | XGOX | XGOX | 
-![B3Coin](https://files.coinmarketcap.com/static/img/coins/32x32/b3coin.png) | B3Coin | B3 | 
-![Pylon Network](https://files.coinmarketcap.com/static/img/coins/32x32/pylon-network.png) | Pylon Network | PYLNT | 
-![Upfiring](https://files.coinmarketcap.com/static/img/coins/32x32/upfiring.png) | Upfiring | UFR | 
-![Anoncoin](https://files.coinmarketcap.com/static/img/coins/32x32/anoncoin.png) | Anoncoin | ANC | 
-![IncaKoin](https://files.coinmarketcap.com/static/img/coins/32x32/incakoin.png) | IncaKoin | NKA | 
-![Tokes](https://files.coinmarketcap.com/static/img/coins/32x32/tokes.png) | Tokes | TKS | 
-![MicroMoney](https://files.coinmarketcap.com/static/img/coins/32x32/micromoney.png) | MicroMoney | AMM | 
-![Interstellar ...](https://files.coinmarketcap.com/static/img/coins/32x32/interstellar-holdings.png) | Interstellar Holdings | HOLD | 
-![Karbo](https://files.coinmarketcap.com/static/img/coins/32x32/karbowanec.png) | Karbo | KRB | 
-![Creativecoin](https://files.coinmarketcap.com/static/img/coins/32x32/creativecoin.png) | Creativecoin | CREA | 
-![SpreadCoin](https://files.coinmarketcap.com/static/img/coins/32x32/spreadcoin.png) | SpreadCoin | SPR | 
-![Qvolta](https://files.coinmarketcap.com/static/img/coins/32x32/qvolta.png) | Qvolta | QVT | 
-![MCAP](https://files.coinmarketcap.com/static/img/coins/32x32/mcap.png) | MCAP | MCAP | 
-![Privatix](https://files.coinmarketcap.com/static/img/coins/32x32/privatix.png) | Privatix | PRIX | 
-![ChainCoin](https://files.coinmarketcap.com/static/img/coins/32x32/chaincoin.png) | ChainCoin | CHC | 
-![DNotes](https://files.coinmarketcap.com/static/img/coins/32x32/dnotes.png) | DNotes | NOTE | 
-![IntenseCoin](https://files.coinmarketcap.com/static/img/coins/32x32/intensecoin.png) | IntenseCoin | ITNS | 
-![vSlice](https://files.coinmarketcap.com/static/img/coins/32x32/vslice.png) | vSlice | VSL | 
-![ProCurrency](https://files.coinmarketcap.com/static/img/coins/32x32/procurrency.png) | ProCurrency | PROC | 
-![Vsync](https://files.coinmarketcap.com/static/img/coins/32x32/vsync.png) | Vsync | VSX | 
-![REAL](https://files.coinmarketcap.com/static/img/coins/32x32/real.png) | REAL | REAL | 
-![HomeBlockCoin](https://files.coinmarketcap.com/static/img/coins/32x32/homeblockcoin.png) | HomeBlockCoin | HBC | 
-![APX](https://files.coinmarketcap.com/static/img/coins/32x32/apx.png) | APX | APX | 
-![TeslaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/teslacoin.png) | TeslaCoin | TES | 
-![BunnyCoin](https://files.coinmarketcap.com/static/img/coins/32x32/bunnycoin.png) | BunnyCoin | BUN | 
-![Indorse Token](https://files.coinmarketcap.com/static/img/coins/32x32/indorse-token.png) | Indorse Token | IND | 
-![STRAKS](https://files.coinmarketcap.com/static/img/coins/32x32/straks.png) | STRAKS | STAK | 
-![Tracto](https://files.coinmarketcap.com/static/img/coins/32x32/tracto.png) | Tracto | TRCT | 
-![Opus](https://files.coinmarketcap.com/static/img/coins/32x32/opus.png) | Opus | OPT | 
-![Bowhead](https://files.coinmarketcap.com/static/img/coins/32x32/bowhead.png) | Bowhead | AHT | 
-![Goodomy](https://files.coinmarketcap.com/static/img/coins/32x32/goodomy.png) | Goodomy | GOOD | 
-![VIVO](https://files.coinmarketcap.com/static/img/coins/32x32/vivo.png) | VIVO | VIVO | 
-![Altcoin](https://files.coinmarketcap.com/static/img/coins/32x32/altcoin.png) | Altcoin | ALT | 
-![Terracoin](https://files.coinmarketcap.com/static/img/coins/32x32/terracoin.png) | Terracoin | TRC | 
-![Project Decorum](https://files.coinmarketcap.com/static/img/coins/32x32/project-decorum.png) | Project Decorum | PDC | 
-![Greencoin](https://files.coinmarketcap.com/static/img/coins/32x32/greencoin.png) | Greencoin | GRE | 
-![Denarius](https://files.coinmarketcap.com/static/img/coins/32x32/denarius.png) | Denarius | DNR | 
-![TrustPlus](https://files.coinmarketcap.com/static/img/coins/32x32/trustplus.png) | TrustPlus | TRUST | 
-![InPay](https://files.coinmarketcap.com/static/img/coins/32x32/inpay.png) | InPay | INPAY | 
-![Farad](https://files.coinmarketcap.com/static/img/coins/32x32/farad.png) | Farad | FRD | 
-![Rustbits](https://files.coinmarketcap.com/static/img/coins/32x32/rustbits.png) | Rustbits | RUSTBITS | 
-![Startcoin](https://files.coinmarketcap.com/static/img/coins/32x32/startcoin.png) | Startcoin | START | 
-![HunterCoin](https://files.coinmarketcap.com/static/img/coins/32x32/huntercoin.png) | HunterCoin | HUC | 
-![Unity Ingot](https://files.coinmarketcap.com/static/img/coins/32x32/unity-ingot.png) | Unity Ingot | UNY | 
-![Sexcoin](https://files.coinmarketcap.com/static/img/coins/32x32/sexcoin.png) | Sexcoin | SXC | 
-![WandX](https://files.coinmarketcap.com/static/img/coins/32x32/wandx.png) | WandX | WAND | 
-![ParkByte](https://files.coinmarketcap.com/static/img/coins/32x32/parkbyte.png) | ParkByte | PKB | 
-![Monkey Project](https://files.coinmarketcap.com/static/img/coins/32x32/monkey-project.png) | Monkey Project | MONK | 
-![EverGreenCoin](https://files.coinmarketcap.com/static/img/coins/32x32/evergreencoin.png) | EverGreenCoin | EGC | 
-![MarteXcoin](https://files.coinmarketcap.com/static/img/coins/32x32/martexcoin.png) | MarteXcoin | MXT | 
-![Regalcoin](https://files.coinmarketcap.com/static/img/coins/32x32/regalcoin.png) | Regalcoin | REC | 
-![DraftCoin](https://files.coinmarketcap.com/static/img/coins/32x32/draftcoin.png) | DraftCoin | DFT | 
-![Condensate](https://files.coinmarketcap.com/static/img/coins/32x32/condensate.png) | Condensate | RAIN | 
-![FirstCoin](https://files.coinmarketcap.com/static/img/coins/32x32/firstcoin.png) | FirstCoin | FRST | 
-![Adelphoi](https://files.coinmarketcap.com/static/img/coins/32x32/adelphoi.png) | Adelphoi | ADL | 
-![Embers](https://files.coinmarketcap.com/static/img/coins/32x32/embers.png) | Embers | MBRS | 
-![e-Gulden](https://files.coinmarketcap.com/static/img/coins/32x32/e-gulden.png) | e-Gulden | EFL | 
-![Pure](https://files.coinmarketcap.com/static/img/coins/32x32/pure.png) | Pure | PURE | 
-![Zero](https://files.coinmarketcap.com/static/img/coins/32x32/zero.png) | Zero | ZER | 
-![Magi](https://files.coinmarketcap.com/static/img/coins/32x32/magi.png) | Magi | XMG | 
-![SmileyCoin](https://files.coinmarketcap.com/static/img/coins/32x32/smileycoin.png) | SmileyCoin | SMLY | 
-![Ixcoin](https://files.coinmarketcap.com/static/img/coins/32x32/ixcoin.png) | Ixcoin | IXC | 
-![Commodity Ad ...](https://files.coinmarketcap.com/static/img/coins/32x32/commodity-ad-network.png) | Commodity Ad Network | CDX | 
-![YashCoin](https://files.coinmarketcap.com/static/img/coins/32x32/yashcoin.png) | YashCoin | YASH | 
-![EncryptoTel](https://files.coinmarketcap.com/static/img/coins/32x32/encryptotel.png) | EncryptoTel | ETT | 
-![BlueCoin](https://files.coinmarketcap.com/static/img/coins/32x32/bluecoin.png) | BlueCoin | BLU | 
-![FORCE](https://files.coinmarketcap.com/static/img/coins/32x32/force.png) | FORCE | FOR | 
-![Chronologic](https://files.coinmarketcap.com/static/img/coins/32x32/chronologic.png) | Chronologic | DAY | 
-![Crypto Bullion](https://files.coinmarketcap.com/static/img/coins/32x32/cryptogenic-bullion.png) | Crypto Bullion | CBX | 
-![CryptoPing](https://files.coinmarketcap.com/static/img/coins/32x32/cryptoping.png) | CryptoPing | PING | 
-![TheGCCcoin](https://files.coinmarketcap.com/static/img/coins/32x32/thegcccoin.png) | TheGCCcoin | GCC | 
-![Zephyr](https://files.coinmarketcap.com/static/img/coins/32x32/zephyr.png) | Zephyr | ZEPH | 
-![FundYourselfNow](https://files.coinmarketcap.com/static/img/coins/32x32/fundyourselfnow.png) | FundYourselfNow | FYN | 
-![Yocoin](https://files.coinmarketcap.com/static/img/coins/32x32/yocoin.png) | Yocoin | YOC | 
-![FIMKrypto](https://files.coinmarketcap.com/static/img/coins/32x32/fimkrypto.png) | FIMKrypto | FIMK | 
-![Intelligent T...](https://files.coinmarketcap.com/static/img/coins/32x32/intelligent-trading-tech.png) | Intelligent Trading Tech | ITT | 
-![Primalbase Token](https://files.coinmarketcap.com/static/img/coins/32x32/primalbase.png) | Primalbase Token | PBT | 
-![Ellaism](https://files.coinmarketcap.com/static/img/coins/32x32/ellaism.png) | Ellaism | ELLA | 
-![LiteDoge](https://files.coinmarketcap.com/static/img/coins/32x32/litedoge.png) | LiteDoge | LDOGE | 
-![Footy Cash](https://files.coinmarketcap.com/static/img/coins/32x32/footy-cash.png) | Footy Cash | XFT | 
-![LuckChain](https://files.coinmarketcap.com/static/img/coins/32x32/luckchain.png) | LuckChain | BASH | 
-![Ergo](https://files.coinmarketcap.com/static/img/coins/32x32/ergo.png) | Ergo | EFYT | 
-![Oceanlab](https://files.coinmarketcap.com/static/img/coins/32x32/oceanlab.png) | Oceanlab | OCL | 
-![Ethbits](https://files.coinmarketcap.com/static/img/coins/32x32/ethbits.png) | Ethbits | ETBS | 
-![Version](https://files.coinmarketcap.com/static/img/coins/32x32/version.png) | Version | V | 
-![CampusCoin](https://files.coinmarketcap.com/static/img/coins/32x32/campuscoin.png) | CampusCoin | CMPCO | 
-![Quark](https://files.coinmarketcap.com/static/img/coins/32x32/quark.png) | Quark | QRK | 
-![Adzcoin](https://files.coinmarketcap.com/static/img/coins/32x32/adzcoin.png) | Adzcoin | ADZ | 
-![ArcticCoin](https://files.coinmarketcap.com/static/img/coins/32x32/arcticcoin.png) | ArcticCoin | ARC | 
-![bitJob](https://files.coinmarketcap.com/static/img/coins/32x32/student-coin.png) | bitJob | STU | 
-![ELTCOIN](https://files.coinmarketcap.com/static/img/coins/32x32/eltcoin.png) | ELTCOIN | ELTCOIN | 
-![Carboncoin](https://files.coinmarketcap.com/static/img/coins/32x32/carboncoin.png) | Carboncoin | CARBON | 
-![PlusCoin](https://files.coinmarketcap.com/static/img/coins/32x32/pluscoin.png) | PlusCoin | PLC | 
-![CorgiCoin](https://files.coinmarketcap.com/static/img/coins/32x32/corgicoin.png) | CorgiCoin | CORG | 
-![OP Coin](https://files.coinmarketcap.com/static/img/coins/32x32/op-coin.png) | OP Coin | OPC | 
-![Unitus](https://files.coinmarketcap.com/static/img/coins/32x32/unitus.png) | Unitus | UIS | 
-![DigitalPrice](https://files.coinmarketcap.com/static/img/coins/32x32/digitalprice.png) | DigitalPrice | DP | 
-![Cream](https://files.coinmarketcap.com/static/img/coins/32x32/cream.png) | Cream | CRM | 
-![EquiTrader](https://files.coinmarketcap.com/static/img/coins/32x32/equitrader.png) | EquiTrader | EQT | 
-![Bitcoin 21](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoin-21.png) | Bitcoin 21 | XBTC21 | 
-![Darcrus](https://files.coinmarketcap.com/static/img/coins/32x32/darcrus.png) | Darcrus | DAR | 
-![ICO OpenLedger](https://files.coinmarketcap.com/static/img/coins/32x32/ico-openledger.png) | ICO OpenLedger | ICOO | 
-![Ultimate Secu...](https://files.coinmarketcap.com/static/img/coins/32x32/ultimate-secure-cash.png) | Ultimate Secure Cash | USC | 
-![Moin](https://files.coinmarketcap.com/static/img/coins/32x32/moin.png) | Moin | MOIN | 
-![InflationCoin](https://files.coinmarketcap.com/static/img/coins/32x32/inflationcoin.png) | InflationCoin | IFLT | 
-![Gimli](https://files.coinmarketcap.com/static/img/coins/32x32/gimli.png) | Gimli | GIM | 
-![NEVERDIE](https://files.coinmarketcap.com/static/img/coins/32x32/neverdie.png) | NEVERDIE | NDC | 
-![Dinastycoin](https://files.coinmarketcap.com/static/img/coins/32x32/dinastycoin.png) | Dinastycoin | DCY | 
-![Qbic](https://files.coinmarketcap.com/static/img/coins/32x32/qbic.png) | Qbic | QBIC | 
-![Canada eCoin](https://files.coinmarketcap.com/static/img/coins/32x32/canada-ecoin.png) | Canada eCoin | CDN | 
-![Abjcoin](https://files.coinmarketcap.com/static/img/coins/32x32/abjcoin.png) | Abjcoin | ABJ | 
-![LendConnect](https://files.coinmarketcap.com/static/img/coins/32x32/lendconnect.png) | LendConnect | LCT | 
-![NobleCoin](https://files.coinmarketcap.com/static/img/coins/32x32/noblecoin.png) | NobleCoin | NOBL | 
-![UnbreakableCoin](https://files.coinmarketcap.com/static/img/coins/32x32/unbreakablecoin.png) | UnbreakableCoin | UNB | 
-![Linx](https://files.coinmarketcap.com/static/img/coins/32x32/linx.png) | Linx | LINX | 
-![Fastcoin](https://files.coinmarketcap.com/static/img/coins/32x32/fastcoin.png) | Fastcoin | FST | 
-![FlutterCoin](https://files.coinmarketcap.com/static/img/coins/32x32/fluttercoin.png) | FlutterCoin | FLT | 
-![Bata](https://files.coinmarketcap.com/static/img/coins/32x32/bata.png) | Bata | BTA | 
-![Elementrem](https://files.coinmarketcap.com/static/img/coins/32x32/elementrem.png) | Elementrem | ELE | 
-![FuckToken](https://files.coinmarketcap.com/static/img/coins/32x32/fucktoken.png) | FuckToken | FUCK | 
-![Etheriya](https://files.coinmarketcap.com/static/img/coins/32x32/etheriya.png) | Etheriya | RIYA | 
-![AurumCoin](https://files.coinmarketcap.com/static/img/coins/32x32/aurumcoin.png) | AurumCoin | AU | 
-![InsaneCoin](https://files.coinmarketcap.com/static/img/coins/32x32/insanecoin.png) | InsaneCoin | INSN | 
-![Kubera Coin](https://files.coinmarketcap.com/static/img/coins/32x32/kubera-coin.png) | Kubera Coin | KBR | 
-![Unify](https://files.coinmarketcap.com/static/img/coins/32x32/unify.png) | Unify | UNIFY | 
-![ShadowCash](https://files.coinmarketcap.com/static/img/coins/32x32/shadowcash.png) | ShadowCash | SDC | 
-![FujiCoin](https://files.coinmarketcap.com/static/img/coins/32x32/fujicoin.png) | FujiCoin | FJC | 
-![MAZA](https://files.coinmarketcap.com/static/img/coins/32x32/mazacoin.png) | MAZA | MZC | 
-![HitCoin](https://files.coinmarketcap.com/static/img/coins/32x32/hitcoin.png) | HitCoin | HTC | 
-![Renos](https://files.coinmarketcap.com/static/img/coins/32x32/renos.png) | Renos | RNS | 
-![EthBet](https://files.coinmarketcap.com/static/img/coins/32x32/ethbet.png) | EthBet | EBET | 
-![KekCoin](https://files.coinmarketcap.com/static/img/coins/32x32/kekcoin.png) | KekCoin | KEK | 
-![WorldCoin](https://files.coinmarketcap.com/static/img/coins/32x32/worldcoin.png) | WorldCoin | WDC | 
-![LeviarCoin](https://files.coinmarketcap.com/static/img/coins/32x32/leviarcoin.png) | LeviarCoin | XLC | 
-![Photon](https://files.coinmarketcap.com/static/img/coins/32x32/photon.png) | Photon | PHO | 
-![Copico](https://files.coinmarketcap.com/static/img/coins/32x32/copico.png) | Copico | XCPO | 
-![Skeincoin](https://files.coinmarketcap.com/static/img/coins/32x32/skeincoin.png) | Skeincoin | SKC | 
-![Bitradio](https://files.coinmarketcap.com/static/img/coins/32x32/bitradio.png) | Bitradio | BRO | 
-![Bytecent](https://files.coinmarketcap.com/static/img/coins/32x32/bytecent.png) | Bytecent | BYC | 
-![SkinCoin](https://files.coinmarketcap.com/static/img/coins/32x32/skincoin.png) | SkinCoin | SKIN | 
-![LottoCoin](https://files.coinmarketcap.com/static/img/coins/32x32/lottocoin.png) | LottoCoin | LOT | 
-![Influxcoin](https://files.coinmarketcap.com/static/img/coins/32x32/influxcoin.png) | Influxcoin | INFX | 
-![Royal Kingdom...](https://files.coinmarketcap.com/static/img/coins/32x32/royal-kingdom-coin.png) | Royal Kingdom Coin | RKC | 
-![Jetcoin](https://files.coinmarketcap.com/static/img/coins/32x32/jetcoin.png) | Jetcoin | JET | 
-![Suretly](https://files.coinmarketcap.com/static/img/coins/32x32/suretly.png) | Suretly | SUR | 
-![Rasputin Onli...](https://files.coinmarketcap.com/static/img/coins/32x32/rasputin-online-coin.png) | Rasputin Online Coin | ROC | 
-![PopularCoin](https://files.coinmarketcap.com/static/img/coins/32x32/popularcoin.png) | PopularCoin | POP | 
-![CarTaxi Token](https://files.coinmarketcap.com/static/img/coins/32x32/cartaxi-token.png) | CarTaxi Token | CTX | 
-![Miners' Rewar...](https://files.coinmarketcap.com/static/img/coins/32x32/miners-reward-token.png) | Miners' Reward Coin | MRT | 
-![Bitcurrency](https://files.coinmarketcap.com/static/img/coins/32x32/bitcurrency.png) | Bitcurrency | BTCR | 
-![Legends Room](https://files.coinmarketcap.com/static/img/coins/32x32/legends-room.png) | Legends Room | LGD | 
-![Scorecoin](https://files.coinmarketcap.com/static/img/coins/32x32/scorecoin.png) | Scorecoin | SCORE | 
-![LanaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/lanacoin.png) | LanaCoin | LANA | 
-![Cryptonite](https://files.coinmarketcap.com/static/img/coins/32x32/cryptonite.png) | Cryptonite | XCN | 
-![Authorship](https://files.coinmarketcap.com/static/img/coins/32x32/authorship.png) | Authorship | ATS | 
-![Bitcoin Scrypt](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoin-scrypt.png) | Bitcoin Scrypt | BTCS | 
-![Link Platform](https://files.coinmarketcap.com/static/img/coins/32x32/link-platform.png) | Link Platform | LNK | 
-![PiplCoin](https://files.coinmarketcap.com/static/img/coins/32x32/piplcoin.png) | PiplCoin | PIPL | 
-![Ethereum Cash](https://files.coinmarketcap.com/static/img/coins/32x32/ethereumcash.png) | Ethereum Cash | ECASH | 
-![SmartCoin](https://files.coinmarketcap.com/static/img/coins/32x32/smartcoin.png) | SmartCoin | SMC | 
-![Growers Inter...](https://files.coinmarketcap.com/static/img/coins/32x32/growers-international.png) | Growers International | GRWI | 
-![Smart Investm...](https://files.coinmarketcap.com/static/img/coins/32x32/smart-investment-fund-token.png) | Smart Investment Fund Token | SIFT | 
-![Soma](https://files.coinmarketcap.com/static/img/coins/32x32/soma.png) | Soma | SCT | 
-![Ace](https://files.coinmarketcap.com/static/img/coins/32x32/ace.png) | Ace | ACE | 
-![MetalCoin](https://files.coinmarketcap.com/static/img/coins/32x32/metalcoin.png) | MetalCoin | METAL | 
-![CryptoCarbon](https://files.coinmarketcap.com/static/img/coins/32x32/cryptocarbon.png) | CryptoCarbon | CCRB | 
-![Ethereum Movi...](https://files.coinmarketcap.com/static/img/coins/32x32/ethereum-movie-venture.png) | Ethereum Movie Venture | EMV | 
-![Zetacoin](https://files.coinmarketcap.com/static/img/coins/32x32/zetacoin.png) | Zetacoin | ZET | 
-![Megacoin](https://files.coinmarketcap.com/static/img/coins/32x32/megacoin.png) | Megacoin | MEC | 
-![NetCoin](https://files.coinmarketcap.com/static/img/coins/32x32/netcoin.png) | NetCoin | NET2 | 
-![I0Coin](https://files.coinmarketcap.com/static/img/coins/32x32/i0coin.png) | I0Coin | I0C | 
-![Zennies](https://files.coinmarketcap.com/static/img/coins/32x32/zennies.png) | Zennies | ZENI | 
-![StarCredits](https://files.coinmarketcap.com/static/img/coins/32x32/starcredits.png) | StarCredits | STRC | 
-![Centurion](https://files.coinmarketcap.com/static/img/coins/32x32/centurion.png) | Centurion | CNT | 
-![Stress](https://files.coinmarketcap.com/static/img/coins/32x32/stress.png) | Stress | STS | 
-![HOdlcoin](https://files.coinmarketcap.com/static/img/coins/32x32/hodlcoin.png) | HOdlcoin | HODL | 
-![AmberCoin](https://files.coinmarketcap.com/static/img/coins/32x32/ambercoin.png) | AmberCoin | AMBER | 
-![Kolion](https://files.coinmarketcap.com/static/img/coins/32x32/kolion.png) | Kolion | KLN | 
-![Emphy](https://files.coinmarketcap.com/static/img/coins/32x32/emphy.png) | Emphy | EPY | 
-![Cryptojacks](https://files.coinmarketcap.com/static/img/coins/32x32/cryptojacks.png) | Cryptojacks | CJ | 
-![TittieCoin](https://files.coinmarketcap.com/static/img/coins/32x32/tittiecoin.png) | TittieCoin | TTC | 
-![BitTokens](https://files.coinmarketcap.com/static/img/coins/32x32/bittokens.png) | BitTokens | BXT | 
-![Desire](https://files.coinmarketcap.com/static/img/coins/32x32/desire.png) | Desire | DSR | 
-![Eternity](https://files.coinmarketcap.com/static/img/coins/32x32/eternity.png) | Eternity | ENT | 
-![Interzone](https://files.coinmarketcap.com/static/img/coins/32x32/interzone.png) | Interzone | ITZ | 
-![Ethereum Gold](https://files.coinmarketcap.com/static/img/coins/32x32/ethereum-gold.png) | Ethereum Gold | ETG | 
-![Orbitcoin](https://files.coinmarketcap.com/static/img/coins/32x32/orbitcoin.png) | Orbitcoin | ORB | 
-![Digitalcoin](https://files.coinmarketcap.com/static/img/coins/32x32/digitalcoin.png) | Digitalcoin | DGC | 
-![Monster Byte](https://files.coinmarketcap.com/static/img/coins/32x32/monster-byte.png) | Monster Byte | MBI | 
-![Machinecoin](https://files.coinmarketcap.com/static/img/coins/32x32/machinecoin.png) | Machinecoin | MAC | 
-![Guncoin](https://files.coinmarketcap.com/static/img/coins/32x32/guncoin.png) | Guncoin | GUN | 
-![Netko](https://files.coinmarketcap.com/static/img/coins/32x32/netko.png) | Netko | NETKO | 
-![CryptoForecast](https://files.coinmarketcap.com/static/img/coins/32x32/cryptoforecast.png) | CryptoForecast | CFT | 
-![CoinonatX](https://files.coinmarketcap.com/static/img/coins/32x32/coinonatx.png) | CoinonatX | XCXT | 
-![PetroDollar](https://files.coinmarketcap.com/static/img/coins/32x32/petrodollar.png) | PetroDollar | XPD | 
-![Capricoin](https://files.coinmarketcap.com/static/img/coins/32x32/capricoin.png) | Capricoin | CPC | 
-![Fantomcoin](https://files.coinmarketcap.com/static/img/coins/32x32/fantomcoin.png) | Fantomcoin | FCN | 
-![Crypto](https://files.coinmarketcap.com/static/img/coins/32x32/crypto.png) | Crypto | CTO | 
-![Piggycoin](https://files.coinmarketcap.com/static/img/coins/32x32/piggycoin.png) | Piggycoin | PIGGY | 
-![Aricoin](https://files.coinmarketcap.com/static/img/coins/32x32/aricoin.png) | Aricoin | ARI | 
-![Triangles](https://files.coinmarketcap.com/static/img/coins/32x32/triangles.png) | Triangles | TRI | 
-![eBitcoinCash](https://files.coinmarketcap.com/static/img/coins/32x32/ebitcoin-cash.png) | eBitcoinCash | EBCH | 
-![Giga Watt Token](https://files.coinmarketcap.com/static/img/coins/32x32/giga-watt-token.png) | Giga Watt Token | WTT | 
-![ChanCoin](https://files.coinmarketcap.com/static/img/coins/32x32/chancoin.png) | ChanCoin | 4CHN | 
-![DROXNE](https://files.coinmarketcap.com/static/img/coins/32x32/droxne.png) | DROXNE | DRXNE | 
-![DFSCoin](https://files.coinmarketcap.com/static/img/coins/32x32/dfscoin.png) | DFSCoin | DFS | 
-![Blakecoin](https://files.coinmarketcap.com/static/img/coins/32x32/blakecoin.png) | Blakecoin | BLC | 
-![BlazeCoin](https://files.coinmarketcap.com/static/img/coins/32x32/blazecoin.png) | BlazeCoin | BLZ | 
-![BitBar](https://files.coinmarketcap.com/static/img/coins/32x32/bitbar.png) | BitBar | BTB | 
-![BlakeStar](https://files.coinmarketcap.com/static/img/coins/32x32/blakestar.png) | BlakeStar | BLAS | 
-![Kobocoin](https://files.coinmarketcap.com/static/img/coins/32x32/kobocoin.png) | Kobocoin | KOBO | 
-![QubitCoin](https://files.coinmarketcap.com/static/img/coins/32x32/qubitcoin.png) | QubitCoin | Q2C | 
-![Trollcoin](https://files.coinmarketcap.com/static/img/coins/32x32/trollcoin.png) | Trollcoin | TROLL | 
-![BiblePay](https://files.coinmarketcap.com/static/img/coins/32x32/biblepay.png) | BiblePay | BBP | 
-![Universe](https://files.coinmarketcap.com/static/img/coins/32x32/universe.png) | Universe | UNI | 
-![Sovereign Hero](https://files.coinmarketcap.com/static/img/coins/32x32/sovereign-hero.png) | Sovereign Hero | HERO | 
-![Octanox](https://files.coinmarketcap.com/static/img/coins/32x32/octanox.png) | Octanox | OTX | 
-![CryptoInsight](https://files.coinmarketcap.com/static/img/coins/32x32/trackr.png) | CryptoInsight | TKR | 
-![BigUp](https://files.coinmarketcap.com/static/img/coins/32x32/bigup.png) | BigUp | BIGUP | 
-![Nimfamoney](https://files.coinmarketcap.com/static/img/coins/32x32/nimfamoney.png) | Nimfamoney | NIMFA | 
-![TOKYO](https://files.coinmarketcap.com/static/img/coins/32x32/tokyo.png) | TOKYO | TOKC | 
-![GAIA](https://files.coinmarketcap.com/static/img/coins/32x32/gaia.png) | GAIA | GAIA | 
-![Deutsche eMark](https://files.coinmarketcap.com/static/img/coins/32x32/deutsche-emark.png) | Deutsche eMark | DEM | 
-![Halcyon](https://files.coinmarketcap.com/static/img/coins/32x32/halcyon.png) | Halcyon | HAL | 
-![Billionaire T...](https://files.coinmarketcap.com/static/img/coins/32x32/billionaire-token.png) | Billionaire Token | XBL | 
-![TrumpCoin](https://files.coinmarketcap.com/static/img/coins/32x32/trumpcoin.png) | TrumpCoin | TRUMP | 
-![Bitstar](https://files.coinmarketcap.com/static/img/coins/32x32/bitstar.png) | Bitstar | BITS | 
-![Bitpark Coin](https://files.coinmarketcap.com/static/img/coins/32x32/bitpark-coin.png) | Bitpark Coin | BPC | 
-![Steneum Coin](https://files.coinmarketcap.com/static/img/coins/32x32/steneum-coin.png) | Steneum Coin | STN | 
-![UniCoin](https://files.coinmarketcap.com/static/img/coins/32x32/unicoin.png) | UniCoin | UNIC | 
-![FuelCoin](https://files.coinmarketcap.com/static/img/coins/32x32/fuelcoin.png) | FuelCoin | FC2 | 
-![Minereum](https://files.coinmarketcap.com/static/img/coins/32x32/minereum.png) | Minereum | MNE | 
-![Woodcoin](https://files.coinmarketcap.com/static/img/coins/32x32/woodcoin.png) | Woodcoin | LOG | 
-![iTicoin](https://files.coinmarketcap.com/static/img/coins/32x32/iticoin.png) | iTicoin | ITI | 
-![Elcoin](https://files.coinmarketcap.com/static/img/coins/32x32/elcoin.png) | Elcoin | EL | 
-![Wyvern](https://files.coinmarketcap.com/static/img/coins/32x32/wyvern.png) | Wyvern | WYV | 
-![UltraCoin](https://files.coinmarketcap.com/static/img/coins/32x32/ultracoin.png) | UltraCoin | UTC | 
-![GanjaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/ganjacoin.png) | GanjaCoin | MRJA | 
-![Visio](https://files.coinmarketcap.com/static/img/coins/32x32/visio.png) | Visio | VISIO | 
-![Signatum](https://files.coinmarketcap.com/static/img/coins/32x32/signatum.png) | Signatum | SIGT | 
-![PlatinumBAR](https://files.coinmarketcap.com/static/img/coins/32x32/platinumbar.png) | PlatinumBAR | XPTX | 
-![Rimbit](https://files.coinmarketcap.com/static/img/coins/32x32/rimbit.png) | Rimbit | RBT | 
-![Madcoin](https://files.coinmarketcap.com/static/img/coins/32x32/madcoin.png) | Madcoin | MDC | 
-![Happycoin](https://files.coinmarketcap.com/static/img/coins/32x32/happycoin.png) | Happycoin | HPC | 
-![RouletteToken](https://files.coinmarketcap.com/static/img/coins/32x32/roulettetoken.png) | RouletteToken | RLT | 
-![HoboNickels](https://files.coinmarketcap.com/static/img/coins/32x32/hobonickels.png) | HoboNickels | HBN | 
-![WhaleCoin](https://files.coinmarketcap.com/static/img/coins/32x32/whalecoin.png) | WhaleCoin | WHL | 
-![MACRON](https://files.coinmarketcap.com/static/img/coins/32x32/macron.png) | MACRON | MCRN | 
-![Bit20](https://files.coinmarketcap.com/static/img/coins/32x32/bit20.png) | Bit20 | BTWTY | 
-![Confido](https://files.coinmarketcap.com/static/img/coins/32x32/confido.png) | Confido | CFD | 
-![Prototanium](https://files.coinmarketcap.com/static/img/coins/32x32/prototanium.png) | Prototanium | PR | 
-![Bitcoin Red](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoin-red.png) | Bitcoin Red | BTCRED | 
-![Opal](https://files.coinmarketcap.com/static/img/coins/32x32/opal.png) | Opal | OPAL | 
-![Kurrent](https://files.coinmarketcap.com/static/img/coins/32x32/kurrent.png) | Kurrent | KURT | 
-![WavesGo](https://files.coinmarketcap.com/static/img/coins/32x32/wavesgo.png) | WavesGo | WGO | 
-![GoldBlocks](https://files.coinmarketcap.com/static/img/coins/32x32/goldblocks.png) | GoldBlocks | GB | 
-![Nyancoin](https://files.coinmarketcap.com/static/img/coins/32x32/nyancoin.png) | Nyancoin | NYAN | 
-![Flycoin](https://files.coinmarketcap.com/static/img/coins/32x32/flycoin.png) | Flycoin | FLY | 
-![BTCtalkcoin](https://files.coinmarketcap.com/static/img/coins/32x32/btctalkcoin.png) | BTCtalkcoin | TALK | 
-![iEthereum](https://files.coinmarketcap.com/static/img/coins/32x32/iethereum.png) | iEthereum | IETH | 
-![Janus](https://files.coinmarketcap.com/static/img/coins/32x32/janus.png) | Janus | JNS | 
-![FUNCoin](https://files.coinmarketcap.com/static/img/coins/32x32/funcoin.png) | FUNCoin | FUNC | 
-![PureVidz](https://files.coinmarketcap.com/static/img/coins/32x32/purevidz.png) | PureVidz | VIDZ | 
-![PayCoin](https://files.coinmarketcap.com/static/img/coins/32x32/paycoin.png) | PayCoin | XPY | 
-![Titcoin](https://files.coinmarketcap.com/static/img/coins/32x32/titcoin.png) | Titcoin | TIT | 
-![Joulecoin](https://files.coinmarketcap.com/static/img/coins/32x32/joulecoin.png) | Joulecoin | XJO | 
-![GlobalCoin](https://files.coinmarketcap.com/static/img/coins/32x32/globalcoin.png) | GlobalCoin | GLC | 
-![MaxCoin](https://files.coinmarketcap.com/static/img/coins/32x32/maxcoin.png) | MaxCoin | MAX | 
-![BritCoin](https://files.coinmarketcap.com/static/img/coins/32x32/britcoin.png) | BritCoin | BRIT | 
-![OsmiumCoin](https://files.coinmarketcap.com/static/img/coins/32x32/osmiumcoin.png) | OsmiumCoin | OS76 | 
-![Pakcoin](https://files.coinmarketcap.com/static/img/coins/32x32/pakcoin.png) | Pakcoin | PAK | 
-![Valorbit](https://files.coinmarketcap.com/static/img/coins/32x32/valorbit.png) | Valorbit | VAL | 
-![Shadow Token](https://files.coinmarketcap.com/static/img/coins/32x32/shadow-token.png) | Shadow Token | SHDW | 
-![Phoenixcoin](https://files.coinmarketcap.com/static/img/coins/32x32/phoenixcoin.png) | Phoenixcoin | PXC | 
-![MojoCoin](https://files.coinmarketcap.com/static/img/coins/32x32/mojocoin.png) | MojoCoin | MOJO | 
-![GlobalToken](https://files.coinmarketcap.com/static/img/coins/32x32/globaltoken.png) | GlobalToken | GLT | 
-![Pascal Lite](https://files.coinmarketcap.com/static/img/coins/32x32/pascal-lite.png) | Pascal Lite | PASL | 
-![SwagBucks](https://files.coinmarketcap.com/static/img/coins/32x32/swagbucks.png) | SwagBucks | BUCKS | 
-![iCoin](https://files.coinmarketcap.com/static/img/coins/32x32/icoin.png) | iCoin | ICN2 | 
-![Argentum](https://files.coinmarketcap.com/static/img/coins/32x32/argentum.png) | Argentum | ARG | 
-![Sterlingcoin](https://files.coinmarketcap.com/static/img/coins/32x32/sterlingcoin.png) | Sterlingcoin | SLG | 
-![AdCoin](https://files.coinmarketcap.com/static/img/coins/32x32/adcoin.png) | AdCoin | ACC | 
-![Newbium](https://files.coinmarketcap.com/static/img/coins/32x32/newbium.png) | Newbium | NEWB | 
-![HiCoin](https://files.coinmarketcap.com/static/img/coins/32x32/hicoin.png) | HiCoin | XHI | 
-![SagaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/sagacoin.png) | SagaCoin | SAGA | 
-![DigitalDevelo...](https://files.coinmarketcap.com/static/img/coins/32x32/digital-developers-fund.png) | DigitalDevelopers Fund | DDF | 
-![AmsterdamCoin](https://files.coinmarketcap.com/static/img/coins/32x32/amsterdamcoin.png) | AmsterdamCoin | AMS | 
-![DaxxCoin](https://files.coinmarketcap.com/static/img/coins/32x32/daxxcoin.png) | DaxxCoin | DAXX | 
-![Joincoin](https://files.coinmarketcap.com/static/img/coins/32x32/joincoin.png) | Joincoin | J | 
-![Cashcoin](https://files.coinmarketcap.com/static/img/coins/32x32/cashcoin.png) | Cashcoin | CASH | 
-![Motocoin](https://files.coinmarketcap.com/static/img/coins/32x32/motocoin.png) | Motocoin | MOTO | 
-![Tigercoin](https://files.coinmarketcap.com/static/img/coins/32x32/tigercoin.png) | Tigercoin | TGC | 
-![Truckcoin](https://files.coinmarketcap.com/static/img/coins/32x32/truckcoin.png) | Truckcoin | TRK | 
-![DigiCube](https://files.coinmarketcap.com/static/img/coins/32x32/digicube.png) | DigiCube | CUBE | 
-![Crystal Clear](https://files.coinmarketcap.com/static/img/coins/32x32/crystal-clear.png) | Crystal Clear | CCT | 
-![VirtualCoin](https://files.coinmarketcap.com/static/img/coins/32x32/virtualcoin.png) | VirtualCoin | VC | 
-![Grantcoin](https://files.coinmarketcap.com/static/img/coins/32x32/grantcoin.png) | Grantcoin | GRT | 
-![Sugar Exchange](https://files.coinmarketcap.com/static/img/coins/32x32/sugar-exchange.png) | Sugar Exchange | SGR | 
-![Ammo Reloaded](https://files.coinmarketcap.com/static/img/coins/32x32/ammo-rewards.png) | Ammo Reloaded | AMMO | 
-![Bitz](https://files.coinmarketcap.com/static/img/coins/32x32/bitz.png) | Bitz | BITZ | 
-![SecureCoin](https://files.coinmarketcap.com/static/img/coins/32x32/securecoin.png) | SecureCoin | SRC | 
-![Mutual Coin](https://files.coinmarketcap.com/static/img/coins/32x32/mutual-coin.png) | Mutual Coin | MUT | 
-![LiteBar](https://files.coinmarketcap.com/static/img/coins/32x32/litebar.png) | LiteBar | LTB | 
-![8Bit](https://files.coinmarketcap.com/static/img/coins/32x32/8bit.png) | 8Bit | 8BIT | 
-![Coin(O)](https://files.coinmarketcap.com/static/img/coins/32x32/coin.png) | Coin(O) | CNO | 
-![Senderon](https://files.coinmarketcap.com/static/img/coins/32x32/senderon.png) | Senderon | SDRN | 
-![Prime-XI](https://files.coinmarketcap.com/static/img/coins/32x32/prime-xi.png) | Prime-XI | PXI | 
-![SuperCoin](https://files.coinmarketcap.com/static/img/coins/32x32/supercoin.png) | SuperCoin | SUPER | 
-![Mineum](https://files.coinmarketcap.com/static/img/coins/32x32/mineum.png) | Mineum | MNM | 
-![KushCoin](https://files.coinmarketcap.com/static/img/coins/32x32/kushcoin.png) | KushCoin | KUSH | 
-![Ratecoin](https://files.coinmarketcap.com/static/img/coins/32x32/ratecoin.png) | Ratecoin | XRA | 
-![Sativacoin](https://files.coinmarketcap.com/static/img/coins/32x32/sativacoin.png) | Sativacoin | STV | 
-![Ethereum Dark](https://files.coinmarketcap.com/static/img/coins/32x32/ethereum-dark.png) | Ethereum Dark | ETHD | 
-![ChanCoin](https://files.coinmarketcap.com/static/img/coins/32x32/chancoin.png) | ChanCoin | CHAN | 
-![Pioneer Coin](https://files.coinmarketcap.com/static/img/coins/32x32/pioneer-coin.png) | Pioneer Coin | PCOIN | 
-![Tattoocoin](https://files.coinmarketcap.com/static/img/coins/32x32/tattoocoin.png) | Tattoocoin | TSE | 
-![Garlicoin](https://files.coinmarketcap.com/static/img/coins/32x32/garlicoin.png) | Garlicoin | GRLC | 
-![Colossuscoin V2](https://files.coinmarketcap.com/static/img/coins/32x32/colossuscoin-v2.png) | Colossuscoin V2 | CV2 | 
-![KibiCoin](https://files.coinmarketcap.com/static/img/coins/32x32/kibicoin.png) | KibiCoin | KIC | 
-![C-Bit](https://files.coinmarketcap.com/static/img/coins/32x32/c-bit.png) | C-Bit | XCT | 
-![Ccore](https://files.coinmarketcap.com/static/img/coins/32x32/ccore.png) | Ccore | CCO | 
-![Marscoin](https://files.coinmarketcap.com/static/img/coins/32x32/marscoin.png) | Marscoin | MARS | 
-![ZoZoCoin](https://files.coinmarketcap.com/static/img/coins/32x32/zozocoin.png) | ZoZoCoin | ZZC | 
-![SecretCoin](https://files.coinmarketcap.com/static/img/coins/32x32/secretcoin.png) | SecretCoin | SCRT | 
-![WayGuide](https://files.coinmarketcap.com/static/img/coins/32x32/wayguide.png) | WayGuide | WAY | 
-![BERNcash](https://files.coinmarketcap.com/static/img/coins/32x32/berncash.png) | BERNcash | BERN | 
-![Nekonium](https://files.coinmarketcap.com/static/img/coins/32x32/nekonium.png) | Nekonium | NUKO | 
-![Fujinto](https://files.coinmarketcap.com/static/img/coins/32x32/fujinto.png) | Fujinto | NTO | 
-![Grimcoin](https://files.coinmarketcap.com/static/img/coins/32x32/grimcoin.png) | Grimcoin | GRIM | 
-![TEKcoin](https://files.coinmarketcap.com/static/img/coins/32x32/tekcoin.png) | TEKcoin | TEK | 
-![PX](https://files.coinmarketcap.com/static/img/coins/32x32/px.png) | PX | PX | 
-![BlockPay](https://files.coinmarketcap.com/static/img/coins/32x32/blockpay.png) | BlockPay | BLOCKPAY | 
-![RedCoin](https://files.coinmarketcap.com/static/img/coins/32x32/redcoin.png) | RedCoin | RED | 
-![Dix Asset](https://files.coinmarketcap.com/static/img/coins/32x32/dix-asset.png) | Dix Asset | DIX | 
-![IslaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/islacoin.png) | IslaCoin | ISL | 
-![BTSR](https://files.coinmarketcap.com/static/img/coins/32x32/btsr.png) | BTSR | BTSR | 
-![Philosopher S...](https://files.coinmarketcap.com/static/img/coins/32x32/philosopher-stones.png) | Philosopher Stone | PHS | 
-![RevolverCoin](https://files.coinmarketcap.com/static/img/coins/32x32/revolvercoin.png) | RevolverCoin | XRE | 
-![VoteCoin](https://files.coinmarketcap.com/static/img/coins/32x32/votecoin.png) | VoteCoin | VOT | 
-![Atomic Coin](https://files.coinmarketcap.com/static/img/coins/32x32/atomic-coin.png) | Atomic Coin | ATOM | 
-![Emerald Crypto](https://files.coinmarketcap.com/static/img/coins/32x32/emerald.png) | Emerald Crypto | EMD | 
-![FinCoin](https://files.coinmarketcap.com/static/img/coins/32x32/fincoin.png) | FinCoin | FNC | 
-![AllSafe](https://files.coinmarketcap.com/static/img/coins/32x32/allsafe.png) | AllSafe | ASAFE2 | 
-![bitSilver](https://files.coinmarketcap.com/static/img/coins/32x32/bitsilver.png) | bitSilver | BITSILVER | 
-![Sling](https://files.coinmarketcap.com/static/img/coins/32x32/sling.png) | Sling | SLING | 
-![Metal Music Coin](https://files.coinmarketcap.com/static/img/coins/32x32/metal-music-coin.png) | Metal Music Coin | MTLMC3 | 
-![Chronos](https://files.coinmarketcap.com/static/img/coins/32x32/chronos.png) | Chronos | CRX | 
-![Evil Coin](https://files.coinmarketcap.com/static/img/coins/32x32/evil-coin.png) | Evil Coin | EVIL | 
-![Gapcoin](https://files.coinmarketcap.com/static/img/coins/32x32/gapcoin.png) | Gapcoin | GAP | 
-![Rupaya](https://files.coinmarketcap.com/static/img/coins/32x32/rupaya.png) | Rupaya | RUPX | 
-![Cypher](https://files.coinmarketcap.com/static/img/coins/32x32/cypher.png) | Cypher | CYP | 
-![Bitcoin Fast](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoinfast.png) | Bitcoin Fast | BCF | 
-![Swing](https://files.coinmarketcap.com/static/img/coins/32x32/swing.png) | Swing | SWING | 
-![Bolivarcoin](https://files.coinmarketcap.com/static/img/coins/32x32/bolivarcoin.png) | Bolivarcoin | BOLI | 
-![Zlancer](https://files.coinmarketcap.com/static/img/coins/32x32/zcash-gold.png) | Zlancer | ZCG | 
-![TajCoin](https://files.coinmarketcap.com/static/img/coins/32x32/tajcoin.png) | TajCoin | TAJ | 
-![AquariusCoin](https://files.coinmarketcap.com/static/img/coins/32x32/aquariuscoin.png) | AquariusCoin | ARCO | 
-![Helleniccoin](https://files.coinmarketcap.com/static/img/coins/32x32/helleniccoin.png) | Helleniccoin | HNC | 
-![BoostCoin](https://files.coinmarketcap.com/static/img/coins/32x32/boostcoin.png) | BoostCoin | BOST | 
-![PostCoin](https://files.coinmarketcap.com/static/img/coins/32x32/postcoin.png) | PostCoin | POST | 
-![EOT Token](https://files.coinmarketcap.com/static/img/coins/32x32/eot-token.png) | EOT Token | EOT | 
-![Bitgem](https://files.coinmarketcap.com/static/img/coins/32x32/bitgem.png) | Bitgem | BTG2 | 
-![Yellow Token](https://files.coinmarketcap.com/static/img/coins/32x32/yellow-token.png) | Yellow Token | YEL | 
-![Dollarcoin](https://files.coinmarketcap.com/static/img/coins/32x32/dollarcoin.png) | Dollarcoin | DLC | 
-![Destiny](https://files.coinmarketcap.com/static/img/coins/32x32/destiny.png) | Destiny | DES | 
-![SoonCoin](https://files.coinmarketcap.com/static/img/coins/32x32/sooncoin.png) | SoonCoin | SOON | 
-![bitGold](https://files.coinmarketcap.com/static/img/coins/32x32/bitgold.png) | bitGold | BITGOLD | 
-![Zurcoin](https://files.coinmarketcap.com/static/img/coins/32x32/zurcoin.png) | Zurcoin | ZUR | 
-![LeaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/leacoin.png) | LeaCoin | LEA | 
-![Enigma](https://files.coinmarketcap.com/static/img/coins/32x32/enigma.png) | Enigma | XNG | 
-![GlobalBoost-Y](https://files.coinmarketcap.com/static/img/coins/32x32/globalboost-y.png) | GlobalBoost-Y | BSTY | 
-![Wild Beast Block](https://files.coinmarketcap.com/static/img/coins/32x32/wild-beast-block.png) | Wild Beast Block | WBB | 
-![Eurocoin](https://files.coinmarketcap.com/static/img/coins/32x32/eurocoin.png) | Eurocoin | EUC | 
-![Onix](https://files.coinmarketcap.com/static/img/coins/32x32/onix.png) | Onix | ONX | 
-![Xios](https://files.coinmarketcap.com/static/img/coins/32x32/xios.png) | Xios | XIOS | 
-![Franko](https://files.coinmarketcap.com/static/img/coins/32x32/franko.png) | Franko | FRK | 
-![CannaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/cannacoin.png) | CannaCoin | CCN | 
-![SproutsExtreme](https://files.coinmarketcap.com/static/img/coins/32x32/sproutsextreme.png) | SproutsExtreme | SPEX | 
-![GoldReserve](https://files.coinmarketcap.com/static/img/coins/32x32/goldreserve.png) | GoldReserve | XGR | 
-![BumbaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/bumbacoin.png) | BumbaCoin | BUMBA | 
-![Litecoin Plus](https://files.coinmarketcap.com/static/img/coins/32x32/litecoin-plus.png) | Litecoin Plus | LCP | 
-![Yacoin](https://files.coinmarketcap.com/static/img/coins/32x32/yacoin.png) | Yacoin | YAC | 
-![SatoshiMadness](https://files.coinmarketcap.com/static/img/coins/32x32/satoshimadness.png) | SatoshiMadness | MAD | 
-![Independent M...](https://files.coinmarketcap.com/static/img/coins/32x32/independent-money-system.png) | Independent Money System | IMS | 
-![LiteBitcoin](https://files.coinmarketcap.com/static/img/coins/32x32/litebitcoin.png) | LiteBitcoin | LBTC | 
-![ChessCoin](https://files.coinmarketcap.com/static/img/coins/32x32/chesscoin.png) | ChessCoin | CHESS | 
-![Hexx](https://files.coinmarketcap.com/static/img/coins/32x32/hexx.png) | Hexx | HXX | 
-![Artex Coin](https://files.coinmarketcap.com/static/img/coins/32x32/artex-coin.png) | Artex Coin | ATX | 
-![Rubies](https://files.coinmarketcap.com/static/img/coins/32x32/rubies.png) | Rubies | RBIES | 
-![Coimatic 2.0](https://files.coinmarketcap.com/static/img/coins/32x32/coimatic-2.png) | Coimatic 2.0 | CTIC2 | 
-![Freicoin](https://files.coinmarketcap.com/static/img/coins/32x32/freicoin.png) | Freicoin | FRC | 
-![SACoin](https://files.coinmarketcap.com/static/img/coins/32x32/sacoin.png) | SACoin | SAC | 
-![Coin2.1](https://files.coinmarketcap.com/static/img/coins/32x32/coin2-1.png) | Coin2.1 | C2 | 
-![BitQuark](https://files.coinmarketcap.com/static/img/coins/32x32/bitquark.png) | BitQuark | BTQ | 
-![BitCoal](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoal.png) | BitCoal | COAL | 
-![Catcoin](https://files.coinmarketcap.com/static/img/coins/32x32/catcoin.png) | Catcoin | CAT2 | 
-![SpaceCoin](https://files.coinmarketcap.com/static/img/coins/32x32/spacecoin.png) | SpaceCoin | SPACE | 
-![Trident Group](https://files.coinmarketcap.com/static/img/coins/32x32/trident.png) | Trident Group | TRDT | 
-![YENTEN](https://files.coinmarketcap.com/static/img/coins/32x32/yenten.png) | YENTEN | YTN | 
-![QuazarCoin](https://files.coinmarketcap.com/static/img/coins/32x32/quazarcoin.png) | QuazarCoin | QCN | 
-![ParallelCoin](https://files.coinmarketcap.com/static/img/coins/32x32/parallelcoin.png) | ParallelCoin | DUO | 
-![Kayicoin](https://files.coinmarketcap.com/static/img/coins/32x32/kayicoin.png) | Kayicoin | KAYI | 
-![MustangCoin](https://files.coinmarketcap.com/static/img/coins/32x32/mustangcoin.png) | MustangCoin | MST | 
-![VectorAI](https://files.coinmarketcap.com/static/img/coins/32x32/vector.png) | VectorAI | VEC2 | 
-![Jin Coin](https://files.coinmarketcap.com/static/img/coins/32x32/jin-coin.png) | Jin Coin | JIN | 
-![BriaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/briacoin.png) | BriaCoin | BRIA | 
-![Printerium](https://files.coinmarketcap.com/static/img/coins/32x32/printerium.png) | Printerium | PRX | 
-![Virtacoinplus](https://files.coinmarketcap.com/static/img/coins/32x32/virtacoinplus.png) | Virtacoinplus | XVP | 
-![WMCoin](https://files.coinmarketcap.com/static/img/coins/32x32/wmcoin.png) | WMCoin | WMC | 
-![Dalecoin](https://files.coinmarketcap.com/static/img/coins/32x32/dalecoin.png) | Dalecoin | DALC | 
-![PoSToken](https://files.coinmarketcap.com/static/img/coins/32x32/postoken.png) | PoSToken | POS | 
-![Global Tour Coin](https://files.coinmarketcap.com/static/img/coins/32x32/global-tour-coin.png) | Global Tour Coin | GTC | 
-![CageCoin](https://files.coinmarketcap.com/static/img/coins/32x32/cagecoin.png) | CageCoin | CAGE | 
-![Mao Zedong](https://files.coinmarketcap.com/static/img/coins/32x32/mao-zedong.png) | Mao Zedong | MAO | 
-![PonziCoin](https://files.coinmarketcap.com/static/img/coins/32x32/ponzicoin.png) | PonziCoin | PONZI | 
-![GameUnits](https://files.coinmarketcap.com/static/img/coins/32x32/gameunits.png) | GameUnits | UNITS | 
-![BROTHER](https://files.coinmarketcap.com/static/img/coins/32x32/brat.png) | BROTHER | BRAT | 
-![Sojourn](https://files.coinmarketcap.com/static/img/coins/32x32/sojourn.png) | Sojourn | SOJ | 
-![USDe](https://files.coinmarketcap.com/static/img/coins/32x32/usde.png) | USDe | USDE | 
-![Honey](https://files.coinmarketcap.com/static/img/coins/32x32/honey.png) | Honey | HONEY | 
-![DIBCOIN](https://files.coinmarketcap.com/static/img/coins/32x32/dibcoin.png) | DIBCOIN | DIBC | 
-![Virta Unique ...](https://files.coinmarketcap.com/static/img/coins/32x32/virta-unique-coin.png) | Virta Unique Coin | VUC | 
-![RonPaulCoin](https://files.coinmarketcap.com/static/img/coins/32x32/ronpaulcoin.png) | RonPaulCoin | RPC | 
-![Advanced Inte...](https://files.coinmarketcap.com/static/img/coins/32x32/advanced-internet-blocks.png) | Advanced Internet Blocks | AIB | 
-![WARP](https://files.coinmarketcap.com/static/img/coins/32x32/warp.png) | WARP | WARP | 
-![Darsek](https://files.coinmarketcap.com/static/img/coins/32x32/darsek.png) | Darsek | KED | 
-![Slimcoin](https://files.coinmarketcap.com/static/img/coins/32x32/slimcoin.png) | Slimcoin | SLM | 
-![Quatloo](https://files.coinmarketcap.com/static/img/coins/32x32/quatloo.png) | Quatloo | QTL | 
-![ARbit](https://files.coinmarketcap.com/static/img/coins/32x32/arbit.png) | ARbit | ARB | 
-![ReeCoin](https://files.coinmarketcap.com/static/img/coins/32x32/reecoin.png) | ReeCoin | REE | 
-![Slevin](https://files.coinmarketcap.com/static/img/coins/32x32/slevin.png) | Slevin | SLEVIN | 
-![Eryllium](https://files.coinmarketcap.com/static/img/coins/32x32/eryllium.png) | Eryllium | ERY | 
-![HealthyWormCoin](https://files.coinmarketcap.com/static/img/coins/32x32/healthywormcoin.png) | HealthyWormCoin | WORM | 
-![Blackstar](https://files.coinmarketcap.com/static/img/coins/32x32/blackstar.png) | Blackstar | BSTAR | 
-![HempCoin](https://files.coinmarketcap.com/static/img/coins/32x32/hempcoin.png) | HempCoin | HMP | 
-![TagCoin](https://files.coinmarketcap.com/static/img/coins/32x32/tagcoin.png) | TagCoin | TAG | 
-![ICOBID](https://files.coinmarketcap.com/static/img/coins/32x32/icobid.png) | ICOBID | ICOB | 
-![Uro](https://files.coinmarketcap.com/static/img/coins/32x32/uro.png) | Uro | URO | 
-![NevaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/nevacoin.png) | NevaCoin | NEVA | 
-![eREAL](https://files.coinmarketcap.com/static/img/coins/32x32/ereal.png) | eREAL | EREAL | 
-![PIECoin](https://files.coinmarketcap.com/static/img/coins/32x32/piecoin.png) | PIECoin | PIE | 
-![CacheCoin](https://files.coinmarketcap.com/static/img/coins/32x32/cachecoin.png) | CacheCoin | CACH | 
-![Evotion](https://files.coinmarketcap.com/static/img/coins/32x32/evotion.png) | Evotion | EVO | 
-![JavaScript Token](https://files.coinmarketcap.com/static/img/coins/32x32/javascript-token.png) | JavaScript Token | JS | 
-![CoExistCoin](https://files.coinmarketcap.com/static/img/coins/32x32/coexistcoin.png) | CoExistCoin | COXST | 
-![EagleCoin](https://files.coinmarketcap.com/static/img/coins/32x32/eaglecoin.png) | EagleCoin | EAGLE | 
-![AntiBitcoin](https://files.coinmarketcap.com/static/img/coins/32x32/antibitcoin.png) | AntiBitcoin | ANTI | 
-![Mincoin](https://files.coinmarketcap.com/static/img/coins/32x32/mincoin.png) | Mincoin | MNC | 
-![BeaverCoin](https://files.coinmarketcap.com/static/img/coins/32x32/beavercoin.png) | BeaverCoin | BVC | 
-![BOAT](https://files.coinmarketcap.com/static/img/coins/32x32/doubloon.png) | BOAT | BOAT | 
-![SocialCoin](https://files.coinmarketcap.com/static/img/coins/32x32/socialcoin.png) | SocialCoin | SOCC | 
-![SwapToken](https://files.coinmarketcap.com/static/img/coins/32x32/swaptoken.png) | SwapToken | TOKEN | 
-![Bitcoin Planet](https://files.coinmarketcap.com/static/img/coins/32x32/bitcoin-planet.png) | Bitcoin Planet | BTPL | 
-![Network Token](https://files.coinmarketcap.com/static/img/coins/32x32/network-token.png) | Network Token | NTWK | 
-![Ripto Bux](https://files.coinmarketcap.com/static/img/coins/32x32/ripto-bux.png) | Ripto Bux | RBX | 
-![Bolenum](https://files.coinmarketcap.com/static/img/coins/32x32/bolenum.png) | Bolenum | BLN | 
-![Neuro](https://files.coinmarketcap.com/static/img/coins/32x32/neuro.png) | Neuro | NRO | 
-![CompuCoin](https://files.coinmarketcap.com/static/img/coins/32x32/compucoin.png) | CompuCoin | CPN | 
-![Marijuanacoin](https://files.coinmarketcap.com/static/img/coins/32x32/marijuanacoin.png) | Marijuanacoin | MAR | 
-![GBCGoldCoin](https://files.coinmarketcap.com/static/img/coins/32x32/gbcgoldcoin.png) | GBCGoldCoin | GBC | 
-![Acoin](https://files.coinmarketcap.com/static/img/coins/32x32/acoin.png) | Acoin | ACOIN | 
-![Cannation](https://files.coinmarketcap.com/static/img/coins/32x32/cannation.png) | Cannation | CNNC | 
-![Impact](https://files.coinmarketcap.com/static/img/coins/32x32/impact.png) | Impact | IMX | 
-![Luna Coin](https://files.coinmarketcap.com/static/img/coins/32x32/luna-coin.png) | Luna Coin | LUNA | 
-![Unrealcoin](https://files.coinmarketcap.com/static/img/coins/32x32/unrealcoin.png) | Unrealcoin | URC | 
-![FuzzBalls](https://files.coinmarketcap.com/static/img/coins/32x32/fuzzballs.png) | FuzzBalls | FUZZ | 
-![Pulse](https://files.coinmarketcap.com/static/img/coins/32x32/pulse.png) | Pulse | PULSE | 
-![BitAsean](https://files.coinmarketcap.com/static/img/coins/32x32/bitasean.png) | BitAsean | BAS | 
-![Creatio](https://files.coinmarketcap.com/static/img/coins/32x32/creatio.png) | Creatio | XCRE | 
-![Beatcoin](https://files.coinmarketcap.com/static/img/coins/32x32/beatcoin.png) | Beatcoin | XBTS | 
-![Bitcedi](https://files.coinmarketcap.com/static/img/coins/32x32/bitcedi.png) | Bitcedi | BXC | 
-![GoldPieces](https://files.coinmarketcap.com/static/img/coins/32x32/goldpieces.png) | GoldPieces | GP | 
-![PayCon](https://files.coinmarketcap.com/static/img/coins/32x32/paycon.png) | PayCon | CON | 
-![Firecoin](https://files.coinmarketcap.com/static/img/coins/32x32/firecoin.png) | Firecoin | FIRE | 
-![CryptoWorldX ...](https://files.coinmarketcap.com/static/img/coins/32x32/cryptoworldx-token.png) | CryptoWorldX Token | CWXT | 
-![Spots](https://files.coinmarketcap.com/static/img/coins/32x32/spots.png) | Spots | SPT | 
-![GPU Coin](https://files.coinmarketcap.com/static/img/coins/32x32/gpu-coin.png) | GPU Coin | GPU | 
-![MiloCoin](https://files.coinmarketcap.com/static/img/coins/32x32/milocoin.png) | MiloCoin | MILO | 
-![EcoCoin](https://files.coinmarketcap.com/static/img/coins/32x32/ecocoin.png) | EcoCoin | ECO | 
-![Californium](https://files.coinmarketcap.com/static/img/coins/32x32/californium.png) | Californium | CF | 
-![StarCash Network](https://files.coinmarketcap.com/static/img/coins/32x32/starcash-network.png) | StarCash Network | STARS | 
-![X-Coin](https://files.coinmarketcap.com/static/img/coins/32x32/x-coin.png) | X-Coin | XCO | 
-![Digital Rupees](https://files.coinmarketcap.com/static/img/coins/32x32/digital-rupees.png) | Digital Rupees | DRS | 
-![Roofs](https://files.coinmarketcap.com/static/img/coins/32x32/roofs.png) | Roofs | ROOFS | 
-![bitEUR](https://files.coinmarketcap.com/static/img/coins/32x32/biteur.png) | bitEUR | BITEUR | 
-![ETHGAS](https://files.coinmarketcap.com/static/img/coins/32x32/ethgas.png) | ETHGAS | EGAS | 
-![Veltor](https://files.coinmarketcap.com/static/img/coins/32x32/veltor.png) | Veltor | VLT | 
-![CryptoEscudo](https://files.coinmarketcap.com/static/img/coins/32x32/cryptoescudo.png) | CryptoEscudo | CESC | 
-![Gold Pressed ...](https://files.coinmarketcap.com/static/img/coins/32x32/gold-pressed-latinum.png) | Gold Pressed Latinum | GPL | 
-![Cthulhu Offer...](https://files.coinmarketcap.com/static/img/coins/32x32/cthulhu-offerings.png) | Cthulhu Offerings | OFF | 
-![Flaxscript](https://files.coinmarketcap.com/static/img/coins/32x32/flaxscript.png) | Flaxscript | FLAX | 
-![BipCoin](https://files.coinmarketcap.com/static/img/coins/32x32/bipcoin.png) | BipCoin | BIP | 
-![Quebecoin](https://files.coinmarketcap.com/static/img/coins/32x32/quebecoin.png) | Quebecoin | QBC | 
-![Debitcoin](https://files.coinmarketcap.com/static/img/coins/32x32/debitcoin.png) | Debitcoin | DBTC | 
-![SOILcoin](https://files.coinmarketcap.com/static/img/coins/32x32/soilcoin.png) | SOILcoin | SOIL | 
-![VapersCoin](https://files.coinmarketcap.com/static/img/coins/32x32/vaperscoin.png) | VapersCoin | VPRC | 
-![BillaryCoin](https://files.coinmarketcap.com/static/img/coins/32x32/billarycoin.png) | BillaryCoin | BLRY | 
-![Allion](https://files.coinmarketcap.com/static/img/coins/32x32/allion.png) | Allion | ALL | 
-![Solarflarecoin](https://files.coinmarketcap.com/static/img/coins/32x32/solarflarecoin.png) | Solarflarecoin | SFC | 
-![SongCoin](https://files.coinmarketcap.com/static/img/coins/32x32/songcoin.png) | SongCoin | SONG | 
-![Kronecoin](https://files.coinmarketcap.com/static/img/coins/32x32/kronecoin.png) | Kronecoin | KRONE | 
-![Braincoin](https://files.coinmarketcap.com/static/img/coins/32x32/braincoin.png) | Braincoin | BRAIN | 
-![BenjiRolls](https://files.coinmarketcap.com/static/img/coins/32x32/benjirolls.png) | BenjiRolls | BENJI | 
-![Coinonat](https://files.coinmarketcap.com/static/img/coins/32x32/coinonat.png) | Coinonat | CXT | 
-![SONO](https://files.coinmarketcap.com/static/img/coins/32x32/altcommunity-coin.png) | SONO | ALTCOM | 
-![BnrtxCoin](https://files.coinmarketcap.com/static/img/coins/32x32/bnrtxcoin.png) | BnrtxCoin | BNX | 
-![Useless Ether...](https://files.coinmarketcap.com/static/img/coins/32x32/useless-ethereum-token.png) | Useless Ethereum Token | UET | 
-![iDice](https://files.coinmarketcap.com/static/img/coins/32x32/idice.png) | iDice | ICE | 
-![Tychocoin](https://files.coinmarketcap.com/static/img/coins/32x32/tychocoin.png) | Tychocoin | TYCHO | 
-![Theresa May Coin](https://files.coinmarketcap.com/static/img/coins/32x32/theresa-may-coin.png) | Theresa May Coin | MAY | 
-![Francs](https://files.coinmarketcap.com/static/img/coins/32x32/francs.png) | Francs | FRN | 
-![Steps](https://files.coinmarketcap.com/static/img/coins/32x32/steps.png) | Steps | STEPS | 
-![LiteCoin Ultra](https://files.coinmarketcap.com/static/img/coins/32x32/litecoin-ultra.png) | LiteCoin Ultra | LTCU | 
-![Speedcash](https://files.coinmarketcap.com/static/img/coins/32x32/speedcash.png) | Speedcash | SCS | 
-![Ride My Car](https://files.coinmarketcap.com/static/img/coins/32x32/ride-my-car.png) | Ride My Car | RIDE | 
-![Asiadigicoin](https://files.coinmarketcap.com/static/img/coins/32x32/asiadigicoin.png) | Asiadigicoin | ADCN | 
-![Remicoin](https://files.coinmarketcap.com/static/img/coins/32x32/remicoin.png) | Remicoin | RMC2 | 
-![Master Swiscoin](https://files.coinmarketcap.com/static/img/coins/32x32/master-swiscoin.png) | Master Swiscoin | MSCN | 
-![Torcoin](https://files.coinmarketcap.com/static/img/coins/32x32/torcoin.png) | Torcoin | TOR | 
-![ZetaMicron](https://files.coinmarketcap.com/static/img/coins/32x32/zetamicron.png) | ZetaMicron | ZMC | 
-![Shilling](https://files.coinmarketcap.com/static/img/coins/32x32/shilling.png) | Shilling | SH | 
-![Dreamcoin](https://files.coinmarketcap.com/static/img/coins/32x32/dreamcoin.png) | Dreamcoin | DRM | 
-![Litecred](https://files.coinmarketcap.com/static/img/coins/32x32/litecred.png) | Litecred | LTCR | 
-![PlayerCoin](https://files.coinmarketcap.com/static/img/coins/32x32/playercoin.png) | PlayerCoin | PLACO | 
-![VIP Tokens](https://files.coinmarketcap.com/static/img/coins/32x32/vip-tokens.png) | VIP Tokens | VIP | 
-![Zayedcoin](https://files.coinmarketcap.com/static/img/coins/32x32/zayedcoin.png) | Zayedcoin | ZYD | 
-![Iconic](https://files.coinmarketcap.com/static/img/coins/32x32/iconic.png) | Iconic | ICON | 
-![MindCoin](https://files.coinmarketcap.com/static/img/coins/32x32/mindcoin.png) | MindCoin | MND | 
-![BowsCoin](https://files.coinmarketcap.com/static/img/coins/32x32/bowscoin.png) | BowsCoin | BSC | 
-![DAPPSTER](https://files.coinmarketcap.com/static/img/coins/32x32/dappster.png) | DAPPSTER | DLISK | 
-![G3N](https://files.coinmarketcap.com/static/img/coins/32x32/genstake.png) | G3N | G3N | 
-![MTMGaming](https://files.coinmarketcap.com/static/img/coins/32x32/mtmgaming.png) | MTMGaming | MTM | 
-![CRTCoin](https://files.coinmarketcap.com/static/img/coins/32x32/crtcoin.png) | CRTCoin | CRT | 
-![AnarchistsPrime](https://files.coinmarketcap.com/static/img/coins/32x32/anarchistsprime.png) | AnarchistsPrime | ACP | 
-![GeertCoin](https://files.coinmarketcap.com/static/img/coins/32x32/geertcoin.png) | GeertCoin | GEERT | 
-![ImpulseCoin](https://files.coinmarketcap.com/static/img/coins/32x32/impulsecoin.png) | ImpulseCoin | IMPS | 
-![EGO](https://files.coinmarketcap.com/static/img/coins/32x32/ego.png) | EGO | EGO | 
-![Credence Coin](https://files.coinmarketcap.com/static/img/coins/32x32/credence-coin.png) | Credence Coin | CRDNC | 
-![PosEx](https://files.coinmarketcap.com/static/img/coins/32x32/posex.png) | PosEx | PEX | 
-![Zonecoin](https://files.coinmarketcap.com/static/img/coins/32x32/zonecoin.png) | Zonecoin | ZNE | 
-![FlavorCoin](https://files.coinmarketcap.com/static/img/coins/32x32/flavorcoin.png) | FlavorCoin | FLVR | 
-![ExchangeN](https://files.coinmarketcap.com/static/img/coins/32x32/exchangen.png) | ExchangeN | EXN | 
-![TAGRcoin](https://files.coinmarketcap.com/static/img/coins/32x32/tagrcoin.png) | TAGRcoin | TAGR | 
-![PRCoin](https://files.coinmarketcap.com/static/img/coins/32x32/prcoin.png) | PRCoin | PRC | 
-![WomenCoin](https://files.coinmarketcap.com/static/img/coins/32x32/women.png) | WomenCoin | WOMEN | 
-![Veros](https://files.coinmarketcap.com/static/img/coins/32x32/veros.png) | Veros | VRS | 
-![BBQCoin](https://files.coinmarketcap.com/static/img/coins/32x32/bbqcoin.png) | BBQCoin | BQC | 
-![Tristar Coin](https://files.coinmarketcap.com/static/img/coins/32x32/tristar-coin.png) | Tristar Coin | TSTR | 
-![DAS](https://files.coinmarketcap.com/static/img/coins/32x32/das.png) | DAS | DAS | 
-![High Voltage](https://files.coinmarketcap.com/static/img/coins/32x32/high-voltage.png) | High Voltage | HVCO | 
-![AgrolifeCoin](https://files.coinmarketcap.com/static/img/coins/32x32/agrolifecoin.png) | AgrolifeCoin | AGLC | 
-![Elysium](https://files.coinmarketcap.com/static/img/coins/32x32/elysium.png) | Elysium | ELS | 
-![LetItRide](https://files.coinmarketcap.com/static/img/coins/32x32/letitride.png) | LetItRide | LIR | 
-![Corethum](https://files.coinmarketcap.com/static/img/coins/32x32/corethum.png) | Corethum | CRTM | 
-![BiosCrypto](https://files.coinmarketcap.com/static/img/coins/32x32/bios-crypto.png) | BiosCrypto | BIOS | 
-![FuturXe](https://files.coinmarketcap.com/static/img/coins/32x32/futurexe.png) | FuturXe | FXE | 
-![Frazcoin](https://files.coinmarketcap.com/static/img/coins/32x32/frazcoin.png) | Frazcoin | FRAZ | 
-![Coupecoin](https://files.coinmarketcap.com/static/img/coins/32x32/coupecoin.png) | Coupecoin | COUPE | 
-![KingN Coin](https://files.coinmarketcap.com/static/img/coins/32x32/kingn-coin.png) | KingN Coin | KNC2 | 
-![Orlycoin](https://files.coinmarketcap.com/static/img/coins/32x32/orlycoin.png) | Orlycoin | ORLY | 
-![JobsCoin](https://files.coinmarketcap.com/static/img/coins/32x32/jobscoin.png) | JobsCoin | JOBS | 
-![Magnum](https://files.coinmarketcap.com/static/img/coins/32x32/magnum.png) | Magnum | MGM | 
-![PLNcoin](https://files.coinmarketcap.com/static/img/coins/32x32/plncoin.png) | PLNcoin | PLNC | 
-![RSGPcoin](https://files.coinmarketcap.com/static/img/coins/32x32/rsgpcoin.png) | RSGPcoin | RSGP | 
-![Argus](https://files.coinmarketcap.com/static/img/coins/32x32/argus.png) | Argus | ARGUS | 
-![CybCSec](https://files.coinmarketcap.com/static/img/coins/32x32/cybcsec.png) | CybCSec | XCS | 
-![Xonecoin](https://files.coinmarketcap.com/static/img/coins/32x32/xonecoin.png) | Xonecoin | XOC | 
-![NeuroDAO](https://files.coinmarketcap.com/static/img/coins/32x32/neurodao.png) | NeuroDAO | NDAO | 
-![Rawcoin](https://files.coinmarketcap.com/static/img/coins/32x32/rawcoin.png) | Rawcoin | XRC | 
-![Dollar Online](https://files.coinmarketcap.com/static/img/coins/32x32/dollar-online.png) | Dollar Online | DOLLAR | 
-![Bitvolt](https://files.coinmarketcap.com/static/img/coins/32x32/bitvolt.png) | Bitvolt | VOLT | 
-![Antilitecoin](https://files.coinmarketcap.com/static/img/coins/32x32/antilitecoin.png) | Antilitecoin | ALTC | 
-![iBank](https://files.coinmarketcap.com/static/img/coins/32x32/ibank.png) | iBank | IBANK | 
-![Coimatic 3.0](https://files.coinmarketcap.com/static/img/coins/32x32/coimatic-3.png) | Coimatic 3.0 | CTIC3 | 
-![Selfiecoin](https://files.coinmarketcap.com/static/img/coins/32x32/selfiecoin.png) | Selfiecoin | SLFI | 
-![Cabbage](https://files.coinmarketcap.com/static/img/coins/32x32/cabbage.png) | Cabbage | CAB | 
-![LevoPlus](https://files.coinmarketcap.com/static/img/coins/32x32/levoplus.png) | LevoPlus | LVPS | 
-![SydPak](https://files.coinmarketcap.com/static/img/coins/32x32/sydpak.png) | SydPak | SDP | 
-![BioBar](https://files.coinmarketcap.com/static/img/coins/32x32/biobar.png) | BioBar | BIOB | 
-![Aerium](https://files.coinmarketcap.com/static/img/coins/32x32/aerium.png) | Aerium | AERM | 
-![CrevaCoin](https://files.coinmarketcap.com/static/img/coins/32x32/crevacoin.png) | CrevaCoin | CREVA | 
-![NodeCoin](https://files.coinmarketcap.com/static/img/coins/32x32/nodecoin.png) | NodeCoin | NODC | 
-![Ulatech](https://files.coinmarketcap.com/static/img/coins/32x32/ulatech.png) | Ulatech | ULA | 
-![P7Coin](https://files.coinmarketcap.com/static/img/coins/32x32/p7coin.png) | P7Coin | P7C | 
-![Save and Gain](https://files.coinmarketcap.com/static/img/coins/32x32/save-and-gain.png) | Save and Gain | SANDG | 
-![GeyserCoin](https://files.coinmarketcap.com/static/img/coins/32x32/geysercoin.png) | GeyserCoin | GSR | 
-![Revenu](https://files.coinmarketcap.com/static/img/coins/32x32/revenu.png) | Revenu | REV | 
-![Ebittree Coin](https://files.coinmarketcap.com/static/img/coins/32x32/ebittree-coin.png) | Ebittree Coin | EBT | 
-![Concoin](https://files.coinmarketcap.com/static/img/coins/32x32/concoin.png) | Concoin | CONX | 
-![EXRNchain](https://files.coinmarketcap.com/static/img/coins/32x32/exrnchain.png) | EXRNchain | EXRN | 
-![Vault Coin](https://files.coinmarketcap.com/static/img/coins/32x32/vault-coin.png) | Vault Coin | VLTC | 
-![BigBoobsCoin](https://files.coinmarketcap.com/static/img/coins/32x32/bigboobscoin.png) | BigBoobsCoin | BBC | 
-![HarmonyCoin](https://files.coinmarketcap.com/static/img/coins/32x32/harmonycoin.png) | HarmonyCoin | HMC | 
-![Digital Credits](https://files.coinmarketcap.com/static/img/coins/32x32/digital-credits.png) | Digital Credits | DGCS | 
-![Digital Money...](https://files.coinmarketcap.com/static/img/coins/32x32/digital-money-bits.png) | Digital Money Bits | DMB | 
-![Abncoin](https://files.coinmarketcap.com/static/img/coins/32x32/abncoin.png) | Abncoin | ABN | 
-![CaliphCoin](https://files.coinmarketcap.com/static/img/coins/32x32/caliphcoin.png) | CaliphCoin | CALC | 
-![Falcoin](https://files.coinmarketcap.com/static/img/coins/32x32/falcoin.png) | Falcoin | FAL | 
-![AppleCoin](https://files.coinmarketcap.com/static/img/coins/32x32/applecoin.png) | AppleCoin | APW | 
+![Bitcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoin.png) | Bitcoin | BTC | 
+![Ethereum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethereum.png) | Ethereum | ETH | 
+![Ripple](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ripple.png) | Ripple | XRP | 
+![Bitcoin Cash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoin-cash.png) | Bitcoin Cash | BCH | 
+![Cardano](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cardano.png) | Cardano | ADA | 
+![Litecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/litecoin.png) | Litecoin | LTC | 
+![NEO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/neo.png) | NEO | NEO | 
+![Stellar](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/stellar.png) | Stellar | XLM | 
+![EOS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eos.png) | EOS | EOS | 
+![IOTA](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/iota.png) | IOTA | IOT | 
+![NEM](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nem.png) | NEM | XEM | 
+![Dash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dash.png) | Dash | DASH | 
+![Monero](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/monero.png) | Monero | XMR | 
+![Lisk](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/lisk.png) | Lisk | LSK | 
+![RaiBlocks](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/raiblocks.png) | RaiBlocks | XRB | 
+![Ethereum Classic](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethereum-classic.png) | Ethereum Classic | ETC | 
+![TRON](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tron.png) | TRON | TRX | 
+![Tether](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tether.png) | Tether | USDT | 
+![Qtum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/qtum.png) | Qtum | QTUM | 
+![VeChain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vechain.png) | VeChain | VEN | 
+![Bitcoin Gold](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoin-gold.png) | Bitcoin Gold | BTG | 
+![ICON](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/icon.png) | ICON | ICX | 
+![Zcash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zcash.png) | Zcash | ZEC | 
+![Populous](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/populous.png) | Populous | PPT | 
+![OmiseGO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/omisego.png) | OmiseGO | OMG | 
+![Steem](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/steem.png) | Steem | STEEM | 
+![CRYPTO20](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/c20.png) | CRYPTO20 | C20 | 
+![Binance Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/binance-coin.png) | Binance Coin | BNB | 
+![Bytecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bytecoin.png) | Bytecoin | BCN | 
+![Verge](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/verge.png) | Verge | XVG | 
+![Status](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/status.png) | Status | SNT | 
+![Stratis](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/stratis.png) | Stratis | STRAT | 
+![Siacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/siacoin.png) | Siacoin | SC | 
+![Aeternity](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aeternity.png) | Aeternity | AE | 
+![Maker](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/maker.png) | Maker | MKR | 
+![BitShares](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitshares.png) | BitShares | BTS | 
+![DigixDAO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digixdao.png) | DigixDAO | DGD | 
+![Augur](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/augur.png) | Augur | REP | 
+![Veritaseum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/veritaseum.png) | Veritaseum | VERI | 
+![Walton](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/walton.png) | Walton | WTC | 
+![Waves](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/waves.png) | Waves | WAVES | 
+![0x](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/0x.png) | 0x | ZRX | 
+![Dogecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dogecoin.png) | Dogecoin | DOGE | 
+![Decred](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/decred.png) | Decred | DCR | 
+![VeChain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vechain.png) | VeChain | VET | 
+![KuCoin Shares](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kucoin-shares.png) | KuCoin Shares | KCS | 
+![RChain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rchain.png) | RChain | RHOC | 
+![Ardor](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ardor.png) | Ardor | ARDR | 
+![Hshare](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hshare.png) | Hshare | HSR | 
+![Komodo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/komodo.png) | Komodo | KMD | 
+![Revain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/revain.png) | Revain | R | 
+![Ark](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ark.png) | Ark | ARK | 
+![Kyber Network](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kyber-network.png) | Kyber Network | KNC | 
+![Electroneum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/electroneum.png) | Electroneum | ETN | 
+![E-coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/e-coin.png) | E-coin | ECN | 
+![Gas](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gas.png) | Gas | GAS | 
+![Zilliqa](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zilliqa.png) | Zilliqa | ZIL | 
+![Basic Attenti...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/basic-attention-token.png) | Basic Attention Token | BAT | 
+![Loopring](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/loopring.png) | Loopring | LRC | 
+![Dragonchain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dragonchain.png) | Dragonchain | DRGN | 
+![Dentacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dentacoin.png) | Dentacoin | DCN | 
+![Bytom](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bytom.png) | Bytom | BTM | 
+![DigiByte](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digibyte.png) | DigiByte | DGB | 
+![PIVX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pivx.png) | PIVX | PIVX | 
+![ZClassic](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zclassic.png) | ZClassic | ZCL | 
+![Ethos](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethos.png) | Ethos | ETHOS | 
+![Pillar](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pillar.png) | Pillar | PLR | 
+![aelf](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aelf.png) | aelf | ELF | 
+![Byteball Bytes](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/byteball.png) | Byteball Bytes | GBYTE | 
+![QASH](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/qash.png) | QASH | QASH | 
+![Cryptonex](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cryptonex.png) | Cryptonex | CNX | 
+![Nebulas](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nebulas-token.png) | Nebulas | NAS | 
+![FunFair](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/funfair.png) | FunFair | FUN | 
+![Syscoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/syscoin.png) | Syscoin | SYS | 
+![Cindicator](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cindicator.png) | Cindicator | CND | 
+![Dent](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dent.png) | Dent | DENT | 
+![Golem](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/golem-network-tokens.png) | Golem | GNT | 
+![Bitcore](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcore.png) | Bitcore | BTX2 | 
+![GXShares](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gxshares.png) | GXShares | GXS | 
+![IOStoken](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/iostoken.png) | IOStoken | IOST | 
+![Power Ledger](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/power-ledger.png) | Power Ledger | POWR | 
+![Simple Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/simple-token.png) | Simple Token | ST | 
+![SALT](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/salt.png) | SALT | SALT | 
+![Factom](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/factom.png) | Factom | FCT | 
+![Aion](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aion.png) | Aion | AION | 
+![SmartCash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/smartcash.png) | SmartCash | SMART | 
+![MonaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/monacoin.png) | MonaCoin | MONA | 
+![Kin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kin.png) | Kin | KIN | 
+![ZCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zcoin.png) | ZCoin | XZC | 
+![Particl](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/particl.png) | Particl | PART | 
+![Bancor](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bancor.png) | Bancor | BNT | 
+![Quantstamp](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/quantstamp.png) | Quantstamp | QSP | 
+![SingularityNET](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/singularitynet.png) | SingularityNET | AGI | 
+![Enigma](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/enigma.png) | Enigma | ENG | 
+![XPlay](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/xplay.png) | XPlay | XPA | 
+![Nxt](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nxt.png) | Nxt | NXT | 
+![MaidSafeCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/maidsafecoin.png) | MaidSafeCoin | MAID | 
+![Request Network](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/request-network.png) | Request Network | REQ | 
+![ReddCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/reddcoin.png) | ReddCoin | RDD | 
+![Nexus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nexus.png) | Nexus | NXS | 
+![TenX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tenx.png) | TenX | PAY | 
+![Ignis](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ignis.png) | Ignis | IGNIS | 
+![Iconomi](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/iconomi.png) | Iconomi | ICN | 
+![Experience Po...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/experience-points.png) | Experience Points | XP | 
+![Emercoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/emercoin.png) | Emercoin | EMC | 
+![Civic](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/civic.png) | Civic | CVC | 
+![Gnosis](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gnosis.png) | Gnosis | GNO | 
+![WAX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wax.png) | WAX | WAX | 
+![GameCredits](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gamecredits.png) | GameCredits | GAME | 
+![Neblio](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/neblio.png) | Neblio | NEBL | 
+![Substratum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/substratum.png) | Substratum | SUB | 
+![Bitquence](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitquence.png) | Bitquence | BQX | 
+![ChainLink](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/chainlink.png) | ChainLink | LINK | 
+![Raiden Networ...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/raiden-network-token.png) | Raiden Network Token | RDN | 
+![High Performa...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/high-performance-blockchain.png) | High Performance Blockchain | HPB | 
+![Vertcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vertcoin.png) | Vertcoin | VTC | 
+![BitcoinDark](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoindark.png) | BitcoinDark | BTCD | 
+![Blocknet](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blocknet.png) | Blocknet | BLOCK | 
+![Storj](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/storj.png) | Storj | STORJ | 
+![MediBloc](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/medibloc.png) | MediBloc | MED | 
+![PayPie](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/paypie.png) | PayPie | PPP | 
+![SuperNET](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/supernet.png) | SuperNET | UNITY | 
+![ZenCash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zencash.png) | ZenCash | ZEN | 
+![Achain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/achain.png) | Achain | ACT | 
+![Aragon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aragon.png) | Aragon | ANT | 
+![Po.et](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/poet.png) | Po.et | POE | 
+![Decentraland](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/decentraland.png) | Decentraland | MANA | 
+![DigitalNote](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digitalnote.png) | DigitalNote | XDN | 
+![DEW](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dew.png) | DEW | DEW | 
+![Skycoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/skycoin.png) | Skycoin | SKY | 
+![Enjin Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/enjin-coin.png) | Enjin Coin | ENJ | 
+![HTMLCOIN](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/htmlcoin.png) | HTMLCOIN | HTML | 
+![Time New Bank](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/time-new-bank.png) | Time New Bank | TNB | 
+![Dynamic Tradi...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dynamic-trading-rights.png) | Dynamic Trading Rights | DTR | 
+![Red Pulse](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/red-pulse.png) | Red Pulse | RPX | 
+![iExec RLC](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rlc.png) | iExec RLC | RLC | 
+![Ubiq](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ubiq.png) | Ubiq | UBQ | 
+![SIRIN LABS Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sirin-labs-token.png) | SIRIN LABS Token | SRN | 
+![Santiment Net...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/santiment.png) | Santiment Network Token | SAN | 
+![BLOCKv](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blockv.png) | BLOCKv | VEE | 
+![Agoras Tokens](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/agoras-tokens.png) | Agoras Tokens | AGRS | 
+![BridgeCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bridgecoin.png) | BridgeCoin | BCO | 
+![808Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/808coin.png) | 808Coin | 808 | 
+![VIBE](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vibe.png) | VIBE | VIBE | 
+![AirSwap](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/airswap.png) | AirSwap | AST | 
+![IoT Chain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/iot-chain.png) | IoT Chain | ITC | 
+![NAV Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nav-coin.png) | NAV Coin | NAV | 
+![Monaco](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/monaco.png) | Monaco | MCO | 
+![Storm](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/storm.png) | Storm | STORM | 
+![ETHLend](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethlend.png) | ETHLend | LEND | 
+![Asch](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/asch.png) | Asch | XAS | 
+![Bibox Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bibox-token.png) | Bibox Token | BIX | 
+![SophiaTX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sophiatx.png) | SophiaTX | SPHTX | 
+![Cobinhood](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cobinhood.png) | Cobinhood | COB | 
+![Ripio Credit ...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ripio-credit-network.png) | Ripio Credit Network | RCN | 
+![SingularDTV](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/singulardtv.png) | SingularDTV | SNGLS | 
+![Peercoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/peercoin.png) | Peercoin | PPC | 
+![MediShares](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/medishares.png) | MediShares | MDS | 
+![DeepBrain Chain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/deepbrain-chain.png) | DeepBrain Chain | DBC | 
+![XTRABYTES](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/xtrabytes.png) | XTRABYTES | XBY | 
+![Metal](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/metal.png) | Metal | MTL | 
+![Simple Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/simple-token.png) | Simple Token | OST | 
+![Ambrosus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/amber.png) | Ambrosus | AMB | 
+![CyberMiles](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cybermiles.png) | CyberMiles | CMT | 
+![UTRUST](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/utrust.png) | UTRUST | UTK | 
+![SONM](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sonm.png) | SONM | SNM | 
+![Einsteinium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/einsteinium.png) | Einsteinium | EMC2 | 
+![Quantum Resis...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/quantum-resistant-ledger.png) | Quantum Resistan Ledger | QRL | 
+![Theta Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/theta-token.png) | Theta Token | THETA | 
+![Telcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/telcoin.png) | Telcoin | TEL | 
+![Nuls](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nuls.png) | Nuls | NULS | 
+![WaBi](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wabi.png) | WaBi | WABI | 
+![Trinity Netwo...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/trinity-network-credit.png) | Trinity Network Credit | TNC | 
+![Centra](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/centra.png) | Centra | CTR | 
+![BitBay](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitbay.png) | BitBay | BAY | 
+![Counterparty](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/counterparty.png) | Counterparty | XCP | 
+![AdEx](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/adex.png) | AdEx | ADX | 
+![Edgeless](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/edgeless.png) | Edgeless | EDG | 
+![Gulden](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gulden.png) | Gulden | NLG | 
+![INS Ecosystem](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ins-ecosystem.png) | INS Ecosystem | INS | 
+![Melon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/melon.png) | Melon | MLN | 
+![Viacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/viacoin.png) | Viacoin | VIA | 
+![PACcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/paccoin.png) | PACcoin | PAC | 
+![MobileGo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mobilego.png) | MobileGo | MGO | 
+![AppCoins](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/appcoins.png) | AppCoins | APPC | 
+![ATMChain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/attention-token-of-media.png) | ATMChain | ATM | 
+![Streamr DATAcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/streamr-datacoin.png) | Streamr DATAcoin | DATA | 
+![Electra](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/electra.png) | Electra | ECA | 
+![SpankChain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/spankchain.png) | SpankChain | SPANK | 
+![Eidoo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eidoo.png) | Eidoo | EDO | 
+![Wagerr](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wagerr.png) | Wagerr | WGR | 
+![ION](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ion.png) | ION | ION | 
+![Etherparty](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/etherparty.png) | Etherparty | FUEL | 
+![Tierion](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tierion.png) | Tierion | TNT | 
+![Modum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/modum.png) | Modum | MOD | 
+![Unikoin Gold](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/unikoin-gold.png) | Unikoin Gold | UKG | 
+![Presearch](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/presearch.png) | Presearch | PRS | 
+![Wings](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wings.png) | Wings | WINGS | 
+![NAGA](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/naga.png) | NAGA | NGC | 
+![Metaverse ETP](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/metaverse.png) | Metaverse ETP | ETP | 
+![indaHash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/indahash.png) | indaHash | IDH | 
+![LBRY Credits](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/library-credit.png) | LBRY Credits | LBC | 
+![Internet Node...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/internet-node-token.png) | Internet Node Token | INT | 
+![OriginTrail](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/origintrail.png) | OriginTrail | TRAC | 
+![Triggers](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/triggers.png) | Triggers | TRIG | 
+![Genesis Vision](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/genesis-vision.png) | Genesis Vision | GVT | 
+![Bread](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bread.png) | Bread | BRD | 
+![Decision Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/decision-token.png) | Decision Token | HST | 
+![HTML5COIN](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/htmlcoin.png) | HTML5COIN | HTML5 | 
+![QLINK](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/qlink.png) | QLINK | QLC | 
+![ECC](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eccoin.png) | ECC | ECC | 
+![DeepOnion](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/deeponion.png) | DeepOnion | ONION | 
+![CloakCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cloakcoin.png) | CloakCoin | CLOAK | 
+![MinexCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/minexcoin.png) | MinexCoin | MNX | 
+![CoinDash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coindash.png) | CoinDash | CDT | 
+![Burst](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/burst.png) | Burst | BURST | 
+![Paypex](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/paypex.png) | Paypex | PAYX | 
+![Aeon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aeon.png) | Aeon | AEON | 
+![Odyssey](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/odyssey.png) | Odyssey | OCN | 
+![district0x](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/district0x.png) | district0x | DNT | 
+![Oyster](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/oyster.png) | Oyster | PRL | 
+![Lykke](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/lykke.png) | Lykke | LKK | 
+![adToken](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/adtoken.png) | adToken | ADT | 
+![Cappasity](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cappasity.png) | Cappasity | CAPP | 
+![DECENT](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/decent.png) | DECENT | DCT | 
+![Mercury](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mercury.png) | Mercury | MER | 
+![Compcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/compcoin.png) | Compcoin | CMP | 
+![Datum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/datum.png) | Datum | DAT | 
+![Gifto](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gifto.png) | Gifto | GTO | 
+![carVertical](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/carvertical.png) | carVertical | CV | 
+![COSS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coss.png) | COSS | COSS | 
+![SaluS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/salus.png) | SaluS | SLS | 
+![OctoCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/octocoin.png) | OctoCoin | 888 | 
+![Presearch](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/presearch.png) | Presearch | PRE | 
+![Jinn](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/jinn.png) | Jinn | JINN | 
+![All Sports](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/all-sports.png) | All Sports | SOC | 
+![BitDegree](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitdegree.png) | BitDegree | BDG | 
+![TokenCard](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tokencard.png) | TokenCard | TKN | 
+![Crown](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/crown.png) | Crown | CRW | 
+![Groestlcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/groestlcoin.png) | Groestlcoin | GRS | 
+![Lunyr](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/lunyr.png) | Lunyr | LUN | 
+![Hive](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hive.png) | Hive | HVN | 
+![Viberate](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/viberate.png) | Viberate | VIB | 
+![Grid+](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/grid.png) | Grid+ | GRID | 
+![TaaS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/taas.png) | TaaS | TAAS | 
+![Spectre.ai Di...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/spectre-dividend.png) | Spectre.ai Dividend Token | SXDT | 
+![Pura](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pura.png) | Pura | PURA | 
+![FirstBlood](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/firstblood.png) | FirstBlood | 1ST | 
+![Qbao](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/qbao.png) | Qbao | QBT | 
+![Delphy](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/delphy.png) | Delphy | DPY | 
+![Ink](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ink.png) | Ink | INK | 
+![HempCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hempcoin.png) | HempCoin | THC | 
+![Safe Exchange...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/safe-exchange-coin.png) | Safe Exchange Coin | SAFEX | 
+![Namecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/namecoin.png) | Namecoin | NMC | 
+![bitCNY](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcny.png) | bitCNY | BITCNY | 
+![Feathercoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/feathercoin.png) | Feathercoin | FTC | 
+![I/O Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/iocoin.png) | I/O Coin | IOC | 
+![WeTrust](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/trust.png) | WeTrust | TRST | 
+![Cofound.it](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cofound-it.png) | Cofound.it | CFI | 
+![Spectrecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/spectrecoin.png) | Spectrecoin | XSPEC | 
+![Mooncoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mooncoin.png) | Mooncoin | MOON | 
+![InsurePal](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/insurepal.png) | InsurePal | IPL | 
+![Diamond](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/diamond.png) | Diamond | DMD | 
+![PotCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/potcoin.png) | PotCoin | POT | 
+![Voxels](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/voxels.png) | Voxels | VOX | 
+![Shift](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/shift.png) | Shift | SHIFT | 
+![SwftCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/swftcoin.png) | SwftCoin | SWFTC | 
+![SixEleven](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sixeleven.png) | SixEleven | 611 | 
+![Pepe Cash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pepe-cash.png) | Pepe Cash | PEPECASH | 
+![Monetha](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/monetha.png) | Monetha | MTH | 
+![Energo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/energo.png) | Energo | TSL | 
+![Bloom](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bloomtoken.png) | Bloom | BLT | 
+![Nimiq](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nimiq.png) | Nimiq | NET | 
+![Zeusshield](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zeusshield.png) | Zeusshield | ZSC | 
+![YOYOW](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/yoyow.png) | YOYOW | YOYOW | 
+![Dimecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dimecoin.png) | Dimecoin | DIME | 
+![Blocktix](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blocktix.png) | Blocktix | TIX | 
+![ColossusCoinXT](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/colossuscoinxt.png) | ColossusCoinXT | COLX | 
+![SIBCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sibcoin.png) | SIBCoin | SIB | 
+![Steem Dollars](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/steem-dollars.png) | Steem Dollars | SBD | 
+![Everex](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/everex.png) | Everex | EVX | 
+![Maecenas](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/maecenas.png) | Maecenas | ART | 
+![Humaniq](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/humaniq.png) | Humaniq | HMQ | 
+![Trade Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/trade-token.png) | Trade Token | TIO | 
+![Selfkey](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/selfkey.png) | Selfkey | KEY | 
+![eBoost](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eboostcoin.png) | eBoost | EBST | 
+![WhiteCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/whitecoin.png) | WhiteCoin | XWC | 
+![Synereo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/synereo.png) | Synereo | AMP | 
+![Agrello](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/agrello-delta.png) | Agrello | DLT | 
+![Karma](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/karma.png) | Karma | KRM | 
+![SunContract](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/suncontract.png) | SunContract | SNC | 
+![Worldcore](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/worldcore.png) | Worldcore | WRC | 
+![CanYaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/canyacoin.png) | CanYaCoin | CAN | 
+![iXledger](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ixledger.png) | iXledger | IXT | 
+![Pascal Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pascal-coin.png) | Pascal Coin | PASC | 
+![FairCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/faircoin.png) | FairCoin | FAIR | 
+![LAToken](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/latoken.png) | LAToken | LA | 
+![Flash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/flash.png) | Flash | FLASH | 
+![LEOcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/leocoin.png) | LEOcoin | LEO | 
+![Lamden](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/lamden.png) | Lamden | TAU | 
+![VeriCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vericoin.png) | VeriCoin | VRC | 
+![NoLimitCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nolimitcoin.png) | NoLimitCoin | NLC2 | 
+![Unobtanium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/unobtanium.png) | Unobtanium | UNO | 
+![Olympus Labs](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/olympus-labs.png) | Olympus Labs | MOT | 
+![SHIELD](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/shield.png) | SHIELD | XSH | 
+![BCAP](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bcap.png) | BCAP | BCAP | 
+![Moeda Loyalty...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/moeda-loyalty-points.png) | Moeda Loyalty Points| MDA | 
+![Bodhi](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bodhi.png) | Bodhi | BOT | 
+![Elastic](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/elastic.png) | Elastic | XEL | 
+![300 Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/300-token.png) | 300 Token | 300 | 
+![Propy](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/propy.png) | Propy | PRO | 
+![Peerplays](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/peerplays.png) | Peerplays | PPY | 
+![Playkey](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/playkey.png) | Playkey | PKT | 
+![Matchpool](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/guppy.png) | Matchpool | GUP | 
+![Ormeus Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ormeus-coin.png) | Ormeus Coin | ORME | 
+![GridCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gridcoin.png) | GridCoin | GRC | 
+![Phore](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/phore.png) | Phore | PHR | 
+![Rise](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rise.png) | Rise | RISE | 
+![BlackCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blackcoin.png) | BlackCoin | BLK | 
+![Expanse](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/expanse.png) | Expanse | EXP | 
+![EncrypGen](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/encrypgen.png) | EncrypGen | DNA | 
+![Bean Cash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bean-cash.png) | Bean Cash | BITB | 
+![QunQun](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/qunqun.png) | QunQun | QUN | 
+![PoSW Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/posw-coin.png) | PoSW Coin | POSW | 
+![Neumark](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/neumark.png) | Neumark | NEU | 
+![Soarcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/soarcoin.png) | Soarcoin | SOAR | 
+![Target Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/target-coin.png) | Target Coin | TGT | 
+![Aeron](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aeron.png) | Aeron | ARN | 
+![BlockMason Cr...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blockmason.png) | BlockMason Credit Protocol | BCPT | 
+![Covesting](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/covesting.png) | Covesting | COV | 
+![Mothership](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mothership.png) | Mothership | MSP | 
+![HelloGold](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hellogold.png) | HelloGold | HGT | 
+![Boolberry](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/boolberry.png) | Boolberry | BBR | 
+![Universal Cur...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/universal-currency.png) | Universal Currency | UNIT | 
+![MyBit Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mybit-token.png) | MyBit Token | MYB | 
+![Numeraire](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/numeraire.png) | Numeraire | NMR | 
+![Hacken](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hacken.png) | Hacken | HKN | 
+![SolarCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/solarcoin.png) | SolarCoin | SLR | 
+![Virtacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/virtacoin.png) | Virtacoin | VTA | 
+![OKCash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/okcash.png) | OKCash | OK | 
+![Radium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/radium.png) | Radium | RADS | 
+![Open Trading ...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/open-trading-network.png) | Open Trading Network | OTN | 
+![DomRaider](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/domraider.png) | DomRaider | DRT | 
+![Omni](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/omni.png) | Omni | OMNI | 
+![NVO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nvo.png) | NVO | NVST | 
+![Swarm City](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/swarm-city.png) | Swarm City | SWT | 
+![Stox](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/stox.png) | Stox | STX | 
+![AirToken](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/airtoken.png) | AirToken | AIR | 
+![MonetaryUnit](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/monetaryunit.png) | MonetaryUnit | MUE | 
+![eBitcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ebtcnew.png) | eBitcoin | EBTC | 
+![LIFE](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/life.png) | LIFE | LIFE | 
+![KickCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kickico.png) | KickCoin | KICK | 
+![Rubycoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rubycoin.png) | Rubycoin | RBY | 
+![Energycoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/energycoin.png) | Energycoin | ENRG | 
+![Snovio](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/snovio.png) | Snovio | SNOV | 
+![Etheroll](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/etheroll.png) | Etheroll | DICE | 
+![DecentBet](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/decent-bet.png) | DecentBet | DBET | 
+![OAX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/oax.png) | OAX | OAX | 
+![Aurora DAO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aurora-dao.png) | Aurora DAO | AURA | 
+![Myriad](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/myriad.png) | Myriad | XMY | 
+![GET Protocol](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/guts-tickets.png) | GET Protocol | GET | 
+![BitSend](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitsend.png) | BitSend | BSD | 
+![bitUSD](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitusd.png) | bitUSD | BITUSD | 
+![Arcade Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/arcade-token.png) | Arcade Token | ARC2 | 
+![Gambit](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gambit.png) | Gambit | GAM | 
+![Starbase](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/starbase.png) | Starbase | STAR | 
+![Blackmoon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blackmoon.png) | Blackmoon | BMC | 
+![ALIS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/alis.png) | ALIS | ALIS | 
+![Xenon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/xenon.png) | Xenon | XNN | 
+![Profile Utili...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/profile-utility-token.png) | Profile Utility Token | PUT | 
+![Golos](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/golos.png) | Golos | GOLOS | 
+![Primas](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/primas.png) | Primas | PST | 
+![Viuly](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/viuly.png) | Viuly | VIU | 
+![GoByte](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gobyte.png) | GoByte | GBX | 
+![BLUE](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethereum-blue.png) | BLUE | BLUE | 
+![Bounty0x](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bounty0x.png) | Bounty0x | BNTY | 
+![Waves Communi...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/waves-community-token.png) | Waves Community Token | WCT | 
+![SportyFi](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sportyfi.png) | SportyFi | SPF | 
+![Xaurum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/xaurum.png) | Xaurum | XAUR | 
+![NuShares](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nushares.png) | NuShares | NSR | 
+![OracleChain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/oraclechain.png) | OracleChain | OCT | 
+![Uquid Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/uquid-coin.png) | Uquid Coin | UQC | 
+![NeosCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/neoscoin.png) | NeosCoin | NEOS | 
+![LoMoCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/lomocoin.png) | LoMoCoin | LMC | 
+![Clams](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/clams.png) | Clams | CLAM | 
+![ProChain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/prochain.png) | ProChain | PRA | 
+![Zoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zoin.png) | Zoin | ZOI | 
+![Credo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/credo.png) | Credo | CREDO | 
+![BitDice](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitdice.png) | BitDice | CSNO | 
+![Nexium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nexium.png) | Nexium | NXC | 
+![Oxycoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/oxycoin.png) | Oxycoin | OXY | 
+![LockChain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/lockchain.png) | LockChain | LOC | 
+![Polybius](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/polybius.png) | Polybius | PLBT | 
+![ATBCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/atbcoin.png) | ATBCoin | ATB | 
+![Circuits of V...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/circuits-of-value.png) | Circuits of Value | COVAL | 
+![Pandacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pandacoin-pnd.png) | Pandacoin | PND | 
+![CoinMeet](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coinmeet.png) | CoinMeet | MEE | 
+![Databits](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/databits.png) | Databits | DTB | 
+![Ecobit](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ecobit.png) | Ecobit | ECOB | 
+![Hedge](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hedge.png) | Hedge | HDG | 
+![Gatcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gatcoin.png) | Gatcoin | GAT | 
+![Blockport](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blockport.png) | Blockport | BPT | 
+![LUXCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/luxcoin.png) | LUXCoin | LUX | 
+![Primecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/primecoin.png) | Primecoin | XPM | 
+![Rivetz](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rivetz.png) | Rivetz | RVT | 
+![Mintcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mintcoin.png) | Mintcoin | MINT | 
+![Auroracoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/auroracoin.png) | Auroracoin | AUR | 
+![Aventus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aventus.png) | Aventus | AVT | 
+![FlorinCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/florincoin.png) | FlorinCoin | FLO | 
+![OneRoot Network](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/oneroot-network.png) | OneRoot Network | RNT | 
+![Paragon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/paragon.png) | Paragon | PRG | 
+![AICHAIN](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aichain.png) | AICHAIN | AIT | 
+![Chronobank](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/chronobank.png) | Chronobank | TIME | 
+![FoldingCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/foldingcoin.png) | FoldingCoin | FLDC | 
+![Hubii Network](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hubii-network.png) | Hubii Network | HBT | 
+![GeoCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/geocoin.png) | GeoCoin | GEO | 
+![DubaiCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dubaicoin.png) | DubaiCoin | DBIX | 
+![Exchange Union](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/exchange-union.png) | Exchange Union | XUC | 
+![PRIZM](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/prizm.png) | PRIZM | PZM | 
+![ERC20](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/erc20.png) | ERC20 | ERC20 | 
+![ICOS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/icos.png) | ICOS | ICOS | 
+![Dai](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dai.png) | Dai | DAI | 
+![NewYorkCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/newyorkcoin.png) | NewYorkCoin | NYC | 
+![Quantum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/quantum.png) | Quantum | QAU | 
+![Pirl](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pirl.png) | Pirl | PIRL | 
+![Divi](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/divi.png) | Divi | DIVX | 
+![Rialto](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rialto.png) | Rialto | XRL | 
+![Patientory](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/patientory.png) | Patientory | PTOY | 
+![bitqy](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitqy.png) | bitqy | BQ | 
+![ClearPoll](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/clearpoll.png) | ClearPoll | POLL | 
+![E-Dinar Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/e-dinar-coin.png) | E-Dinar Coin | EDR | 
+![InvestFeed](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/investfeed.png) | InvestFeed | IFT | 
+![Voise](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/voise.png) | Voise | VOISE | 
+![Elixir](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/elixir.png) | Elixir | ELIX | 
+![Syndicate](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/syndicate.png) | Syndicate | SYNX | 
+![Solaris](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/solaris.png) | Solaris | XLR | 
+![Dovu](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dovu.png) | Dovu | DOVU | 
+![Obsidian](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/obsidian.png) | Obsidian | ODN | 
+![Pluton](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pluton.png) | Pluton | PLU | 
+![DCORP](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dcorp.png) | DCORP | DRP | 
+![Russian Miner...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/russian-mining-coin.png) | Russian Miner Coint | RMC | 
+![Mysterium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mysterium.png) | Mysterium | MYST | 
+![OBITS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/obits.png) | OBITS | OBITS | 
+![Prospectors Gold](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/prospectors-gold.png) | Prospectors Gold | PGL | 
+![Espers](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/espers.png) | Espers | ESP | 
+![Flixxo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/flixxo.png) | Flixxo | FLIXX | 
+![Change](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/change.png) | Change | CAG | 
+![Linda](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/linda.png) | Linda | LINDA | 
+![Incent](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/incent.png) | Incent | INCNT | 
+![Bitcrystals](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcrystals.png) | Bitcrystals | BCY | 
+![Musicoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/musicoin.png) | Musicoin | MUSIC | 
+![Hackspace Cap...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hackspace-capital.png) | Hackspace Capital| HAC | 
+![Global Curren...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/global-currency-reserve.png) | Global Currency Reserve | GCR | 
+![Polis](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/polis.png) | Polis | POLIS | 
+![Neutron](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/neutron.png) | Neutron | NTRN | 
+![Leverj](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/leverj.png) | Leverj | LEV | 
+![Mercury Protocol](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mercury-protocol.png) | Mercury Protocol | GMT | 
+![NuBits](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nubits.png) | NuBits | USNBT | 
+![Dynamic](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dynamic.png) | Dynamic | DYN | 
+![Autonio](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/autonio.png) | Autonio | NIO | 
+![Iungo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/iungo.png) | Iungo | ING | 
+![Sequence](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sequence.png) | Sequence | SEQ | 
+![HEAT](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/heat.png) | HEAT | HEAT | 
+![Hawala.Today](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hawala-today.png) | Hawala.Today | HAT | 
+![Block Array](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/block-array.png) | Block Array | ARY | 
+![CVCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cvcoin.png) | CVCoin | CVCOIN | 
+![RussiaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/russiacoin.png) | RussiaCoin | RC | 
+![Stealthcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/stealthcoin.png) | Stealthcoin | XST | 
+![DopeCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dopecoin.png) | DopeCoin | DOPE | 
+![BlockCAT](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blockcat.png) | BlockCAT | CAT | 
+![BitcoinZ](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoinz.png) | BitcoinZ | BTCZ | 
+![EarthCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/earthcoin.png) | EarthCoin | EAC | 
+![PinkCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pinkcoin.png) | PinkCoin | PINK | 
+![Curecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/curecoin.png) | Curecoin | CURE | 
+![Internet of P...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/internet-of-people.png) | Internet of People | IOP | 
+![Monoeci](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/monacocoin.png) | Monoeci | XMCC | 
+![Sphere](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sphere.png) | Sphere | SPHR | 
+![Aigang](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aigang.png) | Aigang | AIX | 
+![Bulwark](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bulwark.png) | Bulwark | BWK | 
+![Publica](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/publica.png) | Publica | PBL | 
+![Tao](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tao.png) | Tao | XTO | 
+![AsiaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/asiacoin.png) | AsiaCoin | AC | 
+![ALQO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/alqo.png) | ALQO | ALQO | 
+![B2B](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/b2bx.png) | B2B | B2B | 
+![ArtByte](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/artbyte.png) | ArtByte | ABY | 
+![Astro](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/astro.png) | Astro | ASTRO | 
+![Sprouts](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sprouts.png) | Sprouts | SPRTS | 
+![Lampix](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/lampix.png) | Lampix | PIX | 
+![Hush](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hush.png) | Hush | HUSH | 
+![EventChain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eventchain.png) | EventChain | EVC | 
+![Payfair](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/payfair.png) | Payfair | PFR | 
+![The ChampCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/the-champcoin.png) | The ChampCoin | TCC | 
+![Spectre.ai Ut...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/spectre-utility.png) | Spectre.ai Utility Token | SXUT | 
+![ToaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/toacoin.png) | ToaCoin | TOA | 
+![Ethorse](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethorse.png) | Ethorse | HORSE | 
+![Pareto Network](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pareto-network.png) | Pareto Network | PARETO | 
+![Vcash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vcash.png) | Vcash | XVC | 
+![Sumokoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sumokoin.png) | Sumokoin | SUMO | 
+![UFO Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ufo-coin.png) | UFO Coin | UFO | 
+![TIES Network](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ties-network.png) | TIES Network | TIE | 
+![Eroscoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eroscoin.png) | Eroscoin | ERO | 
+![HyperStake](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hyperstake.png) | HyperStake | HYP | 
+![Novacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/novacoin.png) | Novacoin | NVC | 
+![Memetic / Pep...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/memetic.png) | Memetic / PepeCoin | MEME | 
+![FedoraCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fedoracoin.png) | FedoraCoin | TIPS | 
+![Everus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/everus.png) | Everus | EVR | 
+![Global Jobcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/global-jobcoin.png) | Global Jobcoin | GJC | 
+![VeriumReserve](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/veriumreserve.png) | VeriumReserve | VRM | 
+![onG.social](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ongsocial.png) | onG.social | ONG | 
+![Cryptopay](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cryptopay.png) | Cryptopay | CPAY | 
+![Coinlancer](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coinlancer.png) | Coinlancer | CL | 
+![Verify](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/verify.png) | Verify | CRED | 
+![Wild Crypto](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wild-crypto.png) | Wild Crypto | WILD | 
+![Bitmark](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitmark.png) | Bitmark | BTM2 | 
+![Social](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/social.png) | Social | SCL | 
+![CHIPS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/chips.png) | CHIPS | CHIPS | 
+![Bitswift](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitswift.png) | Bitswift | SWIFT | 
+![Innova](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/innova.png) | Innova | INN | 
+![Atmos](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/atmos.png) | Atmos | ATMS | 
+![Qwark](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/qwark.png) | Qwark | QWARK | 
+![Dotcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dotcoin.png) | Dotcoin | DOT | 
+![Internxt](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/internxt.png) | Internxt | INXT | 
+![AdShares](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/adshares.png) | AdShares | ADST | 
+![vTorrent](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vtorrent.png) | vTorrent | VTR | 
+![HEROcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/herocoin.png) | HEROcoin | PLAY | 
+![EuropeCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/europecoin.png) | EuropeCoin | ERC | 
+![Starta](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/starta.png) | Starta | STA | 
+![Bitdeal](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitdeal.png) | Bitdeal | BDL | 
+![FLiK](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/flik.png) | FLiK | FLIK | 
+![DAO.Casino](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dao-casino.png) | DAO.Casino | BET | 
+![BitBoost](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitboost.png) | BitBoost | BBT | 
+![Sharechain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sharechain.png) | Sharechain | SSS | 
+![Riecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/riecoin.png) | Riecoin | RIC | 
+![TransferCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/transfercoin.png) | TransferCoin | TX | 
+![Bitcloud](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcloud.png) | Bitcloud | BTDX | 
+![Pesetacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pesetacoin.png) | Pesetacoin | PTC | 
+![Devery](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/devery.png) | Devery | EVE | 
+![DigiPulse](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digipulse.png) | DigiPulse | DGPT | 
+![ATLANT](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/atlant.png) | ATLANT | ATL | 
+![Breakout Stake](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/breakout-stake.png) | Breakout Stake | BRX | 
+![The Cypherfunks](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/the-cypherfunks.png) | The Cypherfunks | FUNK | 
+![Bitcoin Plus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoin-plus.png) | Bitcoin Plus | XBC | 
+![CannabisCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cannabiscoin.png) | CannabisCoin | CANN | 
+![Kore](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/korecoin.png) | Kore | KORE | 
+![GoldCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/goldcoin.png) | GoldCoin | GLD | 
+![MyWish](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mywish.png) | MyWish | WISH | 
+![Crave](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/crave.png) | Crave | CRAVE | 
+![Synergy](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/synergy.png) | Synergy | SNRG | 
+![Creditbit](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/creditbit.png) | Creditbit | CRB | 
+![CrowdCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/crowdcoin.png) | CrowdCoin | CRC | 
+![Blitzcash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blitzcash.png) | Blitzcash | BLITZ | 
+![Breakout](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/breakout.png) | Breakout | BRK | 
+![TrueFlip](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/trueflip.png) | TrueFlip | TFL | 
+![TrezarCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/trezarcoin.png) | TrezarCoin | TZC | 
+![Magnet](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/magnet.png) | Magnet | MAG | 
+![Zeitcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zeitcoin.png) | Zeitcoin | ZEIT | 
+![REX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/real-estate-tokens.png) | REX | REX | 
+![Bitzeny](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitzeny.png) | Bitzeny | ZNY | 
+![AudioCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/audiocoin.png) | AudioCoin | ADC | 
+![KiloCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kilocoin.png) | KiloCoin | KLC | 
+![2GIVE](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/2give.png) | 2GIVE | 2GIVE | 
+![BuzzCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/buzzcoin.png) | BuzzCoin | BUZZ | 
+![FlypMe](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/flypme.png) | FlypMe | FYP | 
+![HollyWoodCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hollywoodcoin.png) | HollyWoodCoin | HWC | 
+![Bonpay](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bonpay.png) | Bonpay | BON | 
+![Bela](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/belacoin.png) | Bela | BELA | 
+![Social Send](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/social-send.png) | Social Send | SEND | 
+![Masternodecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/masternodecoin.png) | Masternodecoin | MTNC | 
+![ZrCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zrcoin.png) | ZrCoin | ZRC | 
+![GCN Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gcn-coin.png) | GCN Coin | GCN | 
+![Blockpool](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blockpool.png) | Blockpool | BPL | 
+![Rupee](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rupee.png) | Rupee | RUP | 
+![MagicCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/magiccoin.png) | MagicCoin | MAGE | 
+![SmartBillions](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/smartbillions.png) | SmartBillions | SMART2 | 
+![ExclusiveCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/exclusivecoin.png) | ExclusiveCoin | EXCL | 
+![XGOX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/xgox.png) | XGOX | XGOX | 
+![B3Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/b3coin.png) | B3Coin | B3 | 
+![Pylon Network](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pylon-network.png) | Pylon Network | PYLNT | 
+![Upfiring](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/upfiring.png) | Upfiring | UFR | 
+![Anoncoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/anoncoin.png) | Anoncoin | ANC | 
+![IncaKoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/incakoin.png) | IncaKoin | NKA | 
+![Tokes](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tokes.png) | Tokes | TKS | 
+![MicroMoney](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/micromoney.png) | MicroMoney | AMM | 
+![Interstellar ...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/interstellar-holdings.png) | Interstellar Holdings | HOLD | 
+![Karbo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/karbowanec.png) | Karbo | KRB | 
+![Creativecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/creativecoin.png) | Creativecoin | CREA | 
+![SpreadCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/spreadcoin.png) | SpreadCoin | SPR | 
+![Qvolta](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/qvolta.png) | Qvolta | QVT | 
+![MCAP](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mcap.png) | MCAP | MCAP | 
+![Privatix](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/privatix.png) | Privatix | PRIX | 
+![ChainCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/chaincoin.png) | ChainCoin | CHC | 
+![DNotes](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dnotes.png) | DNotes | NOTE | 
+![IntenseCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/intensecoin.png) | IntenseCoin | ITNS | 
+![vSlice](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vslice.png) | vSlice | VSL | 
+![ProCurrency](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/procurrency.png) | ProCurrency | PROC | 
+![Vsync](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vsync.png) | Vsync | VSX | 
+![REAL](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/real.png) | REAL | REAL | 
+![HomeBlockCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/homeblockcoin.png) | HomeBlockCoin | HBC | 
+![APX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/apx.png) | APX | APX | 
+![TeslaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/teslacoin.png) | TeslaCoin | TES | 
+![BunnyCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bunnycoin.png) | BunnyCoin | BUN | 
+![Indorse Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/indorse-token.png) | Indorse Token | IND | 
+![STRAKS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/straks.png) | STRAKS | STAK | 
+![Tracto](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tracto.png) | Tracto | TRCT | 
+![Opus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/opus.png) | Opus | OPT | 
+![Bowhead](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bowhead.png) | Bowhead | AHT | 
+![Goodomy](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/goodomy.png) | Goodomy | GOOD | 
+![VIVO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vivo.png) | VIVO | VIVO | 
+![Altcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/altcoin.png) | Altcoin | ALT | 
+![Terracoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/terracoin.png) | Terracoin | TRC | 
+![Project Decorum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/project-decorum.png) | Project Decorum | PDC | 
+![Greencoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/greencoin.png) | Greencoin | GRE | 
+![Denarius](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/denarius.png) | Denarius | DNR | 
+![TrustPlus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/trustplus.png) | TrustPlus | TRUST | 
+![InPay](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/inpay.png) | InPay | INPAY | 
+![Farad](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/farad.png) | Farad | FRD | 
+![Rustbits](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rustbits.png) | Rustbits | RUSTBITS | 
+![Startcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/startcoin.png) | Startcoin | START | 
+![HunterCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/huntercoin.png) | HunterCoin | HUC | 
+![Unity Ingot](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/unity-ingot.png) | Unity Ingot | UNY | 
+![Sexcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sexcoin.png) | Sexcoin | SXC | 
+![WandX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wandx.png) | WandX | WAND | 
+![ParkByte](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/parkbyte.png) | ParkByte | PKB | 
+![Monkey Project](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/monkey-project.png) | Monkey Project | MONK | 
+![EverGreenCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/evergreencoin.png) | EverGreenCoin | EGC | 
+![MarteXcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/martexcoin.png) | MarteXcoin | MXT | 
+![Regalcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/regalcoin.png) | Regalcoin | REC | 
+![DraftCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/draftcoin.png) | DraftCoin | DFT | 
+![Condensate](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/condensate.png) | Condensate | RAIN | 
+![FirstCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/firstcoin.png) | FirstCoin | FRST | 
+![Adelphoi](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/adelphoi.png) | Adelphoi | ADL | 
+![Embers](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/embers.png) | Embers | MBRS | 
+![e-Gulden](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/e-gulden.png) | e-Gulden | EFL | 
+![Pure](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pure.png) | Pure | PURE | 
+![Zero](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zero.png) | Zero | ZER | 
+![Magi](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/magi.png) | Magi | XMG | 
+![SmileyCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/smileycoin.png) | SmileyCoin | SMLY | 
+![Ixcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ixcoin.png) | Ixcoin | IXC | 
+![Commodity Ad ...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/commodity-ad-network.png) | Commodity Ad Network | CDX | 
+![YashCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/yashcoin.png) | YashCoin | YASH | 
+![EncryptoTel](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/encryptotel.png) | EncryptoTel | ETT | 
+![BlueCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bluecoin.png) | BlueCoin | BLU | 
+![FORCE](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/force.png) | FORCE | FOR | 
+![Chronologic](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/chronologic.png) | Chronologic | DAY | 
+![Crypto Bullion](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cryptogenic-bullion.png) | Crypto Bullion | CBX | 
+![CryptoPing](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cryptoping.png) | CryptoPing | PING | 
+![TheGCCcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/thegcccoin.png) | TheGCCcoin | GCC | 
+![Zephyr](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zephyr.png) | Zephyr | ZEPH | 
+![FundYourselfNow](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fundyourselfnow.png) | FundYourselfNow | FYN | 
+![Yocoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/yocoin.png) | Yocoin | YOC | 
+![FIMKrypto](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fimkrypto.png) | FIMKrypto | FIMK | 
+![Intelligent T...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/intelligent-trading-tech.png) | Intelligent Trading Tech | ITT | 
+![Primalbase Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/primalbase.png) | Primalbase Token | PBT | 
+![Ellaism](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ellaism.png) | Ellaism | ELLA | 
+![LiteDoge](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/litedoge.png) | LiteDoge | LDOGE | 
+![Footy Cash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/footy-cash.png) | Footy Cash | XFT | 
+![LuckChain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/luckchain.png) | LuckChain | BASH | 
+![Ergo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ergo.png) | Ergo | EFYT | 
+![Oceanlab](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/oceanlab.png) | Oceanlab | OCL | 
+![Ethbits](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethbits.png) | Ethbits | ETBS | 
+![Version](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/version.png) | Version | V | 
+![CampusCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/campuscoin.png) | CampusCoin | CMPCO | 
+![Quark](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/quark.png) | Quark | QRK | 
+![Adzcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/adzcoin.png) | Adzcoin | ADZ | 
+![ArcticCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/arcticcoin.png) | ArcticCoin | ARC | 
+![bitJob](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/student-coin.png) | bitJob | STU | 
+![ELTCOIN](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eltcoin.png) | ELTCOIN | ELTCOIN | 
+![Carboncoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/carboncoin.png) | Carboncoin | CARBON | 
+![PlusCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pluscoin.png) | PlusCoin | PLC | 
+![CorgiCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/corgicoin.png) | CorgiCoin | CORG | 
+![OP Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/op-coin.png) | OP Coin | OPC | 
+![Unitus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/unitus.png) | Unitus | UIS | 
+![DigitalPrice](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digitalprice.png) | DigitalPrice | DP | 
+![Cream](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cream.png) | Cream | CRM | 
+![EquiTrader](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/equitrader.png) | EquiTrader | EQT | 
+![Bitcoin 21](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoin-21.png) | Bitcoin 21 | XBTC21 | 
+![Darcrus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/darcrus.png) | Darcrus | DAR | 
+![ICO OpenLedger](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ico-openledger.png) | ICO OpenLedger | ICOO | 
+![Ultimate Secu...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ultimate-secure-cash.png) | Ultimate Secure Cash | USC | 
+![Moin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/moin.png) | Moin | MOIN | 
+![InflationCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/inflationcoin.png) | InflationCoin | IFLT | 
+![Gimli](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gimli.png) | Gimli | GIM | 
+![NEVERDIE](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/neverdie.png) | NEVERDIE | NDC | 
+![Dinastycoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dinastycoin.png) | Dinastycoin | DCY | 
+![Qbic](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/qbic.png) | Qbic | QBIC | 
+![Canada eCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/canada-ecoin.png) | Canada eCoin | CDN | 
+![Abjcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/abjcoin.png) | Abjcoin | ABJ | 
+![LendConnect](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/lendconnect.png) | LendConnect | LCT | 
+![NobleCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/noblecoin.png) | NobleCoin | NOBL | 
+![UnbreakableCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/unbreakablecoin.png) | UnbreakableCoin | UNB | 
+![Linx](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/linx.png) | Linx | LINX | 
+![Fastcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fastcoin.png) | Fastcoin | FST | 
+![FlutterCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fluttercoin.png) | FlutterCoin | FLT | 
+![Bata](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bata.png) | Bata | BTA | 
+![Elementrem](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/elementrem.png) | Elementrem | ELE | 
+![FuckToken](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fucktoken.png) | FuckToken | FUCK | 
+![Etheriya](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/etheriya.png) | Etheriya | RIYA | 
+![AurumCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aurumcoin.png) | AurumCoin | AU | 
+![InsaneCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/insanecoin.png) | InsaneCoin | INSN | 
+![Kubera Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kubera-coin.png) | Kubera Coin | KBR | 
+![Unify](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/unify.png) | Unify | UNIFY | 
+![ShadowCash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/shadowcash.png) | ShadowCash | SDC | 
+![FujiCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fujicoin.png) | FujiCoin | FJC | 
+![MAZA](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mazacoin.png) | MAZA | MZC | 
+![HitCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hitcoin.png) | HitCoin | HTC | 
+![Renos](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/renos.png) | Renos | RNS | 
+![EthBet](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethbet.png) | EthBet | EBET | 
+![KekCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kekcoin.png) | KekCoin | KEK | 
+![WorldCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/worldcoin.png) | WorldCoin | WDC | 
+![LeviarCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/leviarcoin.png) | LeviarCoin | XLC | 
+![Photon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/photon.png) | Photon | PHO | 
+![Copico](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/copico.png) | Copico | XCPO | 
+![Skeincoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/skeincoin.png) | Skeincoin | SKC | 
+![Bitradio](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitradio.png) | Bitradio | BRO | 
+![Bytecent](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bytecent.png) | Bytecent | BYC | 
+![SkinCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/skincoin.png) | SkinCoin | SKIN | 
+![LottoCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/lottocoin.png) | LottoCoin | LOT | 
+![Influxcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/influxcoin.png) | Influxcoin | INFX | 
+![Royal Kingdom...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/royal-kingdom-coin.png) | Royal Kingdom Coin | RKC | 
+![Jetcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/jetcoin.png) | Jetcoin | JET | 
+![Suretly](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/suretly.png) | Suretly | SUR | 
+![Rasputin Onli...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rasputin-online-coin.png) | Rasputin Online Coin | ROC | 
+![PopularCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/popularcoin.png) | PopularCoin | POP | 
+![CarTaxi Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cartaxi-token.png) | CarTaxi Token | CTX | 
+![Miners' Rewar...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/miners-reward-token.png) | Miners' Reward Coin | MRT | 
+![Bitcurrency](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcurrency.png) | Bitcurrency | BTCR | 
+![Legends Room](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/legends-room.png) | Legends Room | LGD | 
+![Scorecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/scorecoin.png) | Scorecoin | SCORE | 
+![LanaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/lanacoin.png) | LanaCoin | LANA | 
+![Cryptonite](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cryptonite.png) | Cryptonite | XCN | 
+![Authorship](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/authorship.png) | Authorship | ATS | 
+![Bitcoin Scrypt](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoin-scrypt.png) | Bitcoin Scrypt | BTCS | 
+![Link Platform](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/link-platform.png) | Link Platform | LNK | 
+![PiplCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/piplcoin.png) | PiplCoin | PIPL | 
+![Ethereum Cash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethereumcash.png) | Ethereum Cash | ECASH | 
+![SmartCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/smartcoin.png) | SmartCoin | SMC | 
+![Growers Inter...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/growers-international.png) | Growers International | GRWI | 
+![Smart Investm...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/smart-investment-fund-token.png) | Smart Investment Fund Token | SIFT | 
+![Soma](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/soma.png) | Soma | SCT | 
+![Ace](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ace.png) | Ace | ACE | 
+![MetalCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/metalcoin.png) | MetalCoin | METAL | 
+![CryptoCarbon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cryptocarbon.png) | CryptoCarbon | CCRB | 
+![Ethereum Movi...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethereum-movie-venture.png) | Ethereum Movie Venture | EMV | 
+![Zetacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zetacoin.png) | Zetacoin | ZET | 
+![Megacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/megacoin.png) | Megacoin | MEC | 
+![NetCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/netcoin.png) | NetCoin | NET2 | 
+![I0Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/i0coin.png) | I0Coin | I0C | 
+![Zennies](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zennies.png) | Zennies | ZENI | 
+![StarCredits](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/starcredits.png) | StarCredits | STRC | 
+![Centurion](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/centurion.png) | Centurion | CNT | 
+![Stress](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/stress.png) | Stress | STS | 
+![HOdlcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hodlcoin.png) | HOdlcoin | HODL | 
+![AmberCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ambercoin.png) | AmberCoin | AMBER | 
+![Kolion](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kolion.png) | Kolion | KLN | 
+![Emphy](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/emphy.png) | Emphy | EPY | 
+![Cryptojacks](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cryptojacks.png) | Cryptojacks | CJ | 
+![TittieCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tittiecoin.png) | TittieCoin | TTC | 
+![BitTokens](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bittokens.png) | BitTokens | BXT | 
+![Desire](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/desire.png) | Desire | DSR | 
+![Eternity](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eternity.png) | Eternity | ENT | 
+![Interzone](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/interzone.png) | Interzone | ITZ | 
+![Ethereum Gold](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethereum-gold.png) | Ethereum Gold | ETG | 
+![Orbitcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/orbitcoin.png) | Orbitcoin | ORB | 
+![Digitalcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digitalcoin.png) | Digitalcoin | DGC | 
+![Monster Byte](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/monster-byte.png) | Monster Byte | MBI | 
+![Machinecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/machinecoin.png) | Machinecoin | MAC | 
+![Guncoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/guncoin.png) | Guncoin | GUN | 
+![Netko](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/netko.png) | Netko | NETKO | 
+![CryptoForecast](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cryptoforecast.png) | CryptoForecast | CFT | 
+![CoinonatX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coinonatx.png) | CoinonatX | XCXT | 
+![PetroDollar](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/petrodollar.png) | PetroDollar | XPD | 
+![Capricoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/capricoin.png) | Capricoin | CPC | 
+![Fantomcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fantomcoin.png) | Fantomcoin | FCN | 
+![Crypto](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/crypto.png) | Crypto | CTO | 
+![Piggycoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/piggycoin.png) | Piggycoin | PIGGY | 
+![Aricoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aricoin.png) | Aricoin | ARI | 
+![Triangles](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/triangles.png) | Triangles | TRI | 
+![eBitcoinCash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ebitcoin-cash.png) | eBitcoinCash | EBCH | 
+![Giga Watt Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/giga-watt-token.png) | Giga Watt Token | WTT | 
+![ChanCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/chancoin.png) | ChanCoin | 4CHN | 
+![DROXNE](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/droxne.png) | DROXNE | DRXNE | 
+![DFSCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dfscoin.png) | DFSCoin | DFS | 
+![Blakecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blakecoin.png) | Blakecoin | BLC | 
+![BlazeCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blazecoin.png) | BlazeCoin | BLZ | 
+![BitBar](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitbar.png) | BitBar | BTB | 
+![BlakeStar](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blakestar.png) | BlakeStar | BLAS | 
+![Kobocoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kobocoin.png) | Kobocoin | KOBO | 
+![QubitCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/qubitcoin.png) | QubitCoin | Q2C | 
+![Trollcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/trollcoin.png) | Trollcoin | TROLL | 
+![BiblePay](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/biblepay.png) | BiblePay | BBP | 
+![Universe](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/universe.png) | Universe | UNI | 
+![Sovereign Hero](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sovereign-hero.png) | Sovereign Hero | HERO | 
+![Octanox](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/octanox.png) | Octanox | OTX | 
+![CryptoInsight](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/trackr.png) | CryptoInsight | TKR | 
+![BigUp](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bigup.png) | BigUp | BIGUP | 
+![Nimfamoney](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nimfamoney.png) | Nimfamoney | NIMFA | 
+![TOKYO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tokyo.png) | TOKYO | TOKC | 
+![GAIA](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gaia.png) | GAIA | GAIA | 
+![Deutsche eMark](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/deutsche-emark.png) | Deutsche eMark | DEM | 
+![Halcyon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/halcyon.png) | Halcyon | HAL | 
+![Billionaire T...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/billionaire-token.png) | Billionaire Token | XBL | 
+![TrumpCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/trumpcoin.png) | TrumpCoin | TRUMP | 
+![Bitstar](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitstar.png) | Bitstar | BITS | 
+![Bitpark Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitpark-coin.png) | Bitpark Coin | BPC | 
+![Steneum Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/steneum-coin.png) | Steneum Coin | STN | 
+![UniCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/unicoin.png) | UniCoin | UNIC | 
+![FuelCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fuelcoin.png) | FuelCoin | FC2 | 
+![Minereum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/minereum.png) | Minereum | MNE | 
+![Woodcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/woodcoin.png) | Woodcoin | LOG | 
+![iTicoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/iticoin.png) | iTicoin | ITI | 
+![Elcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/elcoin.png) | Elcoin | EL | 
+![Wyvern](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wyvern.png) | Wyvern | WYV | 
+![UltraCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ultracoin.png) | UltraCoin | UTC | 
+![GanjaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ganjacoin.png) | GanjaCoin | MRJA | 
+![Visio](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/visio.png) | Visio | VISIO | 
+![Signatum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/signatum.png) | Signatum | SIGT | 
+![PlatinumBAR](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/platinumbar.png) | PlatinumBAR | XPTX | 
+![Rimbit](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rimbit.png) | Rimbit | RBT | 
+![Madcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/madcoin.png) | Madcoin | MDC | 
+![Happycoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/happycoin.png) | Happycoin | HPC | 
+![RouletteToken](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/roulettetoken.png) | RouletteToken | RLT | 
+![HoboNickels](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hobonickels.png) | HoboNickels | HBN | 
+![WhaleCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/whalecoin.png) | WhaleCoin | WHL | 
+![MACRON](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/macron.png) | MACRON | MCRN | 
+![Bit20](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bit20.png) | Bit20 | BTWTY | 
+![Confido](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/confido.png) | Confido | CFD | 
+![Prototanium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/prototanium.png) | Prototanium | PR | 
+![Bitcoin Red](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoin-red.png) | Bitcoin Red | BTCRED | 
+![Opal](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/opal.png) | Opal | OPAL | 
+![Kurrent](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kurrent.png) | Kurrent | KURT | 
+![WavesGo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wavesgo.png) | WavesGo | WGO | 
+![GoldBlocks](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/goldblocks.png) | GoldBlocks | GB | 
+![Nyancoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nyancoin.png) | Nyancoin | NYAN | 
+![Flycoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/flycoin.png) | Flycoin | FLY | 
+![BTCtalkcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/btctalkcoin.png) | BTCtalkcoin | TALK | 
+![iEthereum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/iethereum.png) | iEthereum | IETH | 
+![Janus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/janus.png) | Janus | JNS | 
+![FUNCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/funcoin.png) | FUNCoin | FUNC | 
+![PureVidz](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/purevidz.png) | PureVidz | VIDZ | 
+![PayCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/paycoin.png) | PayCoin | XPY | 
+![Titcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/titcoin.png) | Titcoin | TIT | 
+![Joulecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/joulecoin.png) | Joulecoin | XJO | 
+![GlobalCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/globalcoin.png) | GlobalCoin | GLC | 
+![MaxCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/maxcoin.png) | MaxCoin | MAX | 
+![BritCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/britcoin.png) | BritCoin | BRIT | 
+![OsmiumCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/osmiumcoin.png) | OsmiumCoin | OS76 | 
+![Pakcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pakcoin.png) | Pakcoin | PAK | 
+![Valorbit](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/valorbit.png) | Valorbit | VAL | 
+![Shadow Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/shadow-token.png) | Shadow Token | SHDW | 
+![Phoenixcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/phoenixcoin.png) | Phoenixcoin | PXC | 
+![MojoCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mojocoin.png) | MojoCoin | MOJO | 
+![GlobalToken](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/globaltoken.png) | GlobalToken | GLT | 
+![Pascal Lite](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pascal-lite.png) | Pascal Lite | PASL | 
+![SwagBucks](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/swagbucks.png) | SwagBucks | BUCKS | 
+![iCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/icoin.png) | iCoin | ICN2 | 
+![Argentum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/argentum.png) | Argentum | ARG | 
+![Sterlingcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sterlingcoin.png) | Sterlingcoin | SLG | 
+![AdCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/adcoin.png) | AdCoin | ACC | 
+![Newbium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/newbium.png) | Newbium | NEWB | 
+![HiCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hicoin.png) | HiCoin | XHI | 
+![SagaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sagacoin.png) | SagaCoin | SAGA | 
+![DigitalDevelo...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digital-developers-fund.png) | DigitalDevelopers Fund | DDF | 
+![AmsterdamCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/amsterdamcoin.png) | AmsterdamCoin | AMS | 
+![DaxxCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/daxxcoin.png) | DaxxCoin | DAXX | 
+![Joincoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/joincoin.png) | Joincoin | J | 
+![Cashcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cashcoin.png) | Cashcoin | CASH | 
+![Motocoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/motocoin.png) | Motocoin | MOTO | 
+![Tigercoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tigercoin.png) | Tigercoin | TGC | 
+![Truckcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/truckcoin.png) | Truckcoin | TRK | 
+![DigiCube](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digicube.png) | DigiCube | CUBE | 
+![Crystal Clear](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/crystal-clear.png) | Crystal Clear | CCT | 
+![VirtualCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/virtualcoin.png) | VirtualCoin | VC | 
+![Grantcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/grantcoin.png) | Grantcoin | GRT | 
+![Sugar Exchange](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sugar-exchange.png) | Sugar Exchange | SGR | 
+![Ammo Reloaded](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ammo-rewards.png) | Ammo Reloaded | AMMO | 
+![Bitz](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitz.png) | Bitz | BITZ | 
+![SecureCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/securecoin.png) | SecureCoin | SRC | 
+![Mutual Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mutual-coin.png) | Mutual Coin | MUT | 
+![LiteBar](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/litebar.png) | LiteBar | LTB | 
+![8Bit](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/8bit.png) | 8Bit | 8BIT | 
+![Coin(O)](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coin.png) | Coin(O) | CNO | 
+![Senderon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/senderon.png) | Senderon | SDRN | 
+![Prime-XI](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/prime-xi.png) | Prime-XI | PXI | 
+![SuperCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/supercoin.png) | SuperCoin | SUPER | 
+![Mineum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mineum.png) | Mineum | MNM | 
+![KushCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kushcoin.png) | KushCoin | KUSH | 
+![Ratecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ratecoin.png) | Ratecoin | XRA | 
+![Sativacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sativacoin.png) | Sativacoin | STV | 
+![Ethereum Dark](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethereum-dark.png) | Ethereum Dark | ETHD | 
+![ChanCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/chancoin.png) | ChanCoin | CHAN | 
+![Pioneer Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pioneer-coin.png) | Pioneer Coin | PCOIN | 
+![Tattoocoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tattoocoin.png) | Tattoocoin | TSE | 
+![Garlicoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/garlicoin.png) | Garlicoin | GRLC | 
+![Colossuscoin V2](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/colossuscoin-v2.png) | Colossuscoin V2 | CV2 | 
+![KibiCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kibicoin.png) | KibiCoin | KIC | 
+![C-Bit](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/c-bit.png) | C-Bit | XCT | 
+![Ccore](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ccore.png) | Ccore | CCO | 
+![Marscoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/marscoin.png) | Marscoin | MARS | 
+![ZoZoCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zozocoin.png) | ZoZoCoin | ZZC | 
+![SecretCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/secretcoin.png) | SecretCoin | SCRT | 
+![WayGuide](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wayguide.png) | WayGuide | WAY | 
+![BERNcash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/berncash.png) | BERNcash | BERN | 
+![Nekonium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nekonium.png) | Nekonium | NUKO | 
+![Fujinto](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fujinto.png) | Fujinto | NTO | 
+![Grimcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/grimcoin.png) | Grimcoin | GRIM | 
+![TEKcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tekcoin.png) | TEKcoin | TEK | 
+![PX](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/px.png) | PX | PX | 
+![BlockPay](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blockpay.png) | BlockPay | BLOCKPAY | 
+![RedCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/redcoin.png) | RedCoin | RED | 
+![Dix Asset](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dix-asset.png) | Dix Asset | DIX | 
+![IslaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/islacoin.png) | IslaCoin | ISL | 
+![BTSR](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/btsr.png) | BTSR | BTSR | 
+![Philosopher S...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/philosopher-stones.png) | Philosopher Stone | PHS | 
+![RevolverCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/revolvercoin.png) | RevolverCoin | XRE | 
+![VoteCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/votecoin.png) | VoteCoin | VOT | 
+![Atomic Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/atomic-coin.png) | Atomic Coin | ATOM | 
+![Emerald Crypto](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/emerald.png) | Emerald Crypto | EMD | 
+![FinCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fincoin.png) | FinCoin | FNC | 
+![AllSafe](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/allsafe.png) | AllSafe | ASAFE2 | 
+![bitSilver](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitsilver.png) | bitSilver | BITSILVER | 
+![Sling](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sling.png) | Sling | SLING | 
+![Metal Music Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/metal-music-coin.png) | Metal Music Coin | MTLMC3 | 
+![Chronos](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/chronos.png) | Chronos | CRX | 
+![Evil Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/evil-coin.png) | Evil Coin | EVIL | 
+![Gapcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gapcoin.png) | Gapcoin | GAP | 
+![Rupaya](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rupaya.png) | Rupaya | RUPX | 
+![Cypher](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cypher.png) | Cypher | CYP | 
+![Bitcoin Fast](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoinfast.png) | Bitcoin Fast | BCF | 
+![Swing](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/swing.png) | Swing | SWING | 
+![Bolivarcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bolivarcoin.png) | Bolivarcoin | BOLI | 
+![Zlancer](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zcash-gold.png) | Zlancer | ZCG | 
+![TajCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tajcoin.png) | TajCoin | TAJ | 
+![AquariusCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aquariuscoin.png) | AquariusCoin | ARCO | 
+![Helleniccoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/helleniccoin.png) | Helleniccoin | HNC | 
+![BoostCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/boostcoin.png) | BoostCoin | BOST | 
+![PostCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/postcoin.png) | PostCoin | POST | 
+![EOT Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eot-token.png) | EOT Token | EOT | 
+![Bitgem](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitgem.png) | Bitgem | BTG2 | 
+![Yellow Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/yellow-token.png) | Yellow Token | YEL | 
+![Dollarcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dollarcoin.png) | Dollarcoin | DLC | 
+![Destiny](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/destiny.png) | Destiny | DES | 
+![SoonCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sooncoin.png) | SoonCoin | SOON | 
+![bitGold](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitgold.png) | bitGold | BITGOLD | 
+![Zurcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zurcoin.png) | Zurcoin | ZUR | 
+![LeaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/leacoin.png) | LeaCoin | LEA | 
+![Enigma](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/enigma.png) | Enigma | XNG | 
+![GlobalBoost-Y](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/globalboost-y.png) | GlobalBoost-Y | BSTY | 
+![Wild Beast Block](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wild-beast-block.png) | Wild Beast Block | WBB | 
+![Eurocoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eurocoin.png) | Eurocoin | EUC | 
+![Onix](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/onix.png) | Onix | ONX | 
+![Xios](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/xios.png) | Xios | XIOS | 
+![Franko](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/franko.png) | Franko | FRK | 
+![CannaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cannacoin.png) | CannaCoin | CCN | 
+![SproutsExtreme](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sproutsextreme.png) | SproutsExtreme | SPEX | 
+![GoldReserve](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/goldreserve.png) | GoldReserve | XGR | 
+![BumbaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bumbacoin.png) | BumbaCoin | BUMBA | 
+![Litecoin Plus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/litecoin-plus.png) | Litecoin Plus | LCP | 
+![Yacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/yacoin.png) | Yacoin | YAC | 
+![SatoshiMadness](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/satoshimadness.png) | SatoshiMadness | MAD | 
+![Independent M...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/independent-money-system.png) | Independent Money System | IMS | 
+![LiteBitcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/litebitcoin.png) | LiteBitcoin | LBTC | 
+![ChessCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/chesscoin.png) | ChessCoin | CHESS | 
+![Hexx](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hexx.png) | Hexx | HXX | 
+![Artex Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/artex-coin.png) | Artex Coin | ATX | 
+![Rubies](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rubies.png) | Rubies | RBIES | 
+![Coimatic 2.0](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coimatic-2.png) | Coimatic 2.0 | CTIC2 | 
+![Freicoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/freicoin.png) | Freicoin | FRC | 
+![SACoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sacoin.png) | SACoin | SAC | 
+![Coin2.1](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coin2-1.png) | Coin2.1 | C2 | 
+![BitQuark](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitquark.png) | BitQuark | BTQ | 
+![BitCoal](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoal.png) | BitCoal | COAL | 
+![Catcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/catcoin.png) | Catcoin | CAT2 | 
+![SpaceCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/spacecoin.png) | SpaceCoin | SPACE | 
+![Trident Group](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/trident.png) | Trident Group | TRDT | 
+![YENTEN](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/yenten.png) | YENTEN | YTN | 
+![QuazarCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/quazarcoin.png) | QuazarCoin | QCN | 
+![ParallelCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/parallelcoin.png) | ParallelCoin | DUO | 
+![Kayicoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kayicoin.png) | Kayicoin | KAYI | 
+![MustangCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mustangcoin.png) | MustangCoin | MST | 
+![VectorAI](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vector.png) | VectorAI | VEC2 | 
+![Jin Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/jin-coin.png) | Jin Coin | JIN | 
+![BriaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/briacoin.png) | BriaCoin | BRIA | 
+![Printerium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/printerium.png) | Printerium | PRX | 
+![Virtacoinplus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/virtacoinplus.png) | Virtacoinplus | XVP | 
+![WMCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/wmcoin.png) | WMCoin | WMC | 
+![Dalecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dalecoin.png) | Dalecoin | DALC | 
+![PoSToken](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/postoken.png) | PoSToken | POS | 
+![Global Tour Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/global-tour-coin.png) | Global Tour Coin | GTC | 
+![CageCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cagecoin.png) | CageCoin | CAGE | 
+![Mao Zedong](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mao-zedong.png) | Mao Zedong | MAO | 
+![PonziCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ponzicoin.png) | PonziCoin | PONZI | 
+![GameUnits](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gameunits.png) | GameUnits | UNITS | 
+![BROTHER](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/brat.png) | BROTHER | BRAT | 
+![Sojourn](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sojourn.png) | Sojourn | SOJ | 
+![USDe](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/usde.png) | USDe | USDE | 
+![Honey](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/honey.png) | Honey | HONEY | 
+![DIBCOIN](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dibcoin.png) | DIBCOIN | DIBC | 
+![Virta Unique ...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/virta-unique-coin.png) | Virta Unique Coin | VUC | 
+![RonPaulCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ronpaulcoin.png) | RonPaulCoin | RPC | 
+![Advanced Inte...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/advanced-internet-blocks.png) | Advanced Internet Blocks | AIB | 
+![WARP](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/warp.png) | WARP | WARP | 
+![Darsek](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/darsek.png) | Darsek | KED | 
+![Slimcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/slimcoin.png) | Slimcoin | SLM | 
+![Quatloo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/quatloo.png) | Quatloo | QTL | 
+![ARbit](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/arbit.png) | ARbit | ARB | 
+![ReeCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/reecoin.png) | ReeCoin | REE | 
+![Slevin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/slevin.png) | Slevin | SLEVIN | 
+![Eryllium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eryllium.png) | Eryllium | ERY | 
+![HealthyWormCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/healthywormcoin.png) | HealthyWormCoin | WORM | 
+![Blackstar](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/blackstar.png) | Blackstar | BSTAR | 
+![HempCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/hempcoin.png) | HempCoin | HMP | 
+![TagCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tagcoin.png) | TagCoin | TAG | 
+![ICOBID](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/icobid.png) | ICOBID | ICOB | 
+![Uro](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/uro.png) | Uro | URO | 
+![NevaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nevacoin.png) | NevaCoin | NEVA | 
+![eREAL](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ereal.png) | eREAL | EREAL | 
+![PIECoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/piecoin.png) | PIECoin | PIE | 
+![CacheCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cachecoin.png) | CacheCoin | CACH | 
+![Evotion](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/evotion.png) | Evotion | EVO | 
+![JavaScript Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/javascript-token.png) | JavaScript Token | JS | 
+![CoExistCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coexistcoin.png) | CoExistCoin | COXST | 
+![EagleCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/eaglecoin.png) | EagleCoin | EAGLE | 
+![AntiBitcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/antibitcoin.png) | AntiBitcoin | ANTI | 
+![Mincoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mincoin.png) | Mincoin | MNC | 
+![BeaverCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/beavercoin.png) | BeaverCoin | BVC | 
+![BOAT](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/doubloon.png) | BOAT | BOAT | 
+![SocialCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/socialcoin.png) | SocialCoin | SOCC | 
+![SwapToken](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/swaptoken.png) | SwapToken | TOKEN | 
+![Bitcoin Planet](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcoin-planet.png) | Bitcoin Planet | BTPL | 
+![Network Token](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/network-token.png) | Network Token | NTWK | 
+![Ripto Bux](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ripto-bux.png) | Ripto Bux | RBX | 
+![Bolenum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bolenum.png) | Bolenum | BLN | 
+![Neuro](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/neuro.png) | Neuro | NRO | 
+![CompuCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/compucoin.png) | CompuCoin | CPN | 
+![Marijuanacoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/marijuanacoin.png) | Marijuanacoin | MAR | 
+![GBCGoldCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gbcgoldcoin.png) | GBCGoldCoin | GBC | 
+![Acoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/acoin.png) | Acoin | ACOIN | 
+![Cannation](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cannation.png) | Cannation | CNNC | 
+![Impact](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/impact.png) | Impact | IMX | 
+![Luna Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/luna-coin.png) | Luna Coin | LUNA | 
+![Unrealcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/unrealcoin.png) | Unrealcoin | URC | 
+![FuzzBalls](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/fuzzballs.png) | FuzzBalls | FUZZ | 
+![Pulse](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/pulse.png) | Pulse | PULSE | 
+![BitAsean](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitasean.png) | BitAsean | BAS | 
+![Creatio](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/creatio.png) | Creatio | XCRE | 
+![Beatcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/beatcoin.png) | Beatcoin | XBTS | 
+![Bitcedi](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitcedi.png) | Bitcedi | BXC | 
+![GoldPieces](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/goldpieces.png) | GoldPieces | GP | 
+![PayCon](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/paycon.png) | PayCon | CON | 
+![Firecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/firecoin.png) | Firecoin | FIRE | 
+![CryptoWorldX ...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cryptoworldx-token.png) | CryptoWorldX Token | CWXT | 
+![Spots](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/spots.png) | Spots | SPT | 
+![GPU Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gpu-coin.png) | GPU Coin | GPU | 
+![MiloCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/milocoin.png) | MiloCoin | MILO | 
+![EcoCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ecocoin.png) | EcoCoin | ECO | 
+![Californium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/californium.png) | Californium | CF | 
+![StarCash Network](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/starcash-network.png) | StarCash Network | STARS | 
+![X-Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/x-coin.png) | X-Coin | XCO | 
+![Digital Rupees](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digital-rupees.png) | Digital Rupees | DRS | 
+![Roofs](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/roofs.png) | Roofs | ROOFS | 
+![bitEUR](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/biteur.png) | bitEUR | BITEUR | 
+![ETHGAS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ethgas.png) | ETHGAS | EGAS | 
+![Veltor](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/veltor.png) | Veltor | VLT | 
+![CryptoEscudo](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cryptoescudo.png) | CryptoEscudo | CESC | 
+![Gold Pressed ...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/gold-pressed-latinum.png) | Gold Pressed Latinum | GPL | 
+![Cthulhu Offer...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cthulhu-offerings.png) | Cthulhu Offerings | OFF | 
+![Flaxscript](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/flaxscript.png) | Flaxscript | FLAX | 
+![BipCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bipcoin.png) | BipCoin | BIP | 
+![Quebecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/quebecoin.png) | Quebecoin | QBC | 
+![Debitcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/debitcoin.png) | Debitcoin | DBTC | 
+![SOILcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/soilcoin.png) | SOILcoin | SOIL | 
+![VapersCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vaperscoin.png) | VapersCoin | VPRC | 
+![BillaryCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/billarycoin.png) | BillaryCoin | BLRY | 
+![Allion](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/allion.png) | Allion | ALL | 
+![Solarflarecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/solarflarecoin.png) | Solarflarecoin | SFC | 
+![SongCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/songcoin.png) | SongCoin | SONG | 
+![Kronecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kronecoin.png) | Kronecoin | KRONE | 
+![Braincoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/braincoin.png) | Braincoin | BRAIN | 
+![BenjiRolls](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/benjirolls.png) | BenjiRolls | BENJI | 
+![Coinonat](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coinonat.png) | Coinonat | CXT | 
+![SONO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/altcommunity-coin.png) | SONO | ALTCOM | 
+![BnrtxCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bnrtxcoin.png) | BnrtxCoin | BNX | 
+![Useless Ether...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/useless-ethereum-token.png) | Useless Ethereum Token | UET | 
+![iDice](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/idice.png) | iDice | ICE | 
+![Tychocoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tychocoin.png) | Tychocoin | TYCHO | 
+![Theresa May Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/theresa-may-coin.png) | Theresa May Coin | MAY | 
+![Francs](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/francs.png) | Francs | FRN | 
+![Steps](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/steps.png) | Steps | STEPS | 
+![LiteCoin Ultra](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/litecoin-ultra.png) | LiteCoin Ultra | LTCU | 
+![Speedcash](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/speedcash.png) | Speedcash | SCS | 
+![Ride My Car](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ride-my-car.png) | Ride My Car | RIDE | 
+![Asiadigicoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/asiadigicoin.png) | Asiadigicoin | ADCN | 
+![Remicoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/remicoin.png) | Remicoin | RMC2 | 
+![Master Swiscoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/master-swiscoin.png) | Master Swiscoin | MSCN | 
+![Torcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/torcoin.png) | Torcoin | TOR | 
+![ZetaMicron](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zetamicron.png) | ZetaMicron | ZMC | 
+![Shilling](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/shilling.png) | Shilling | SH | 
+![Dreamcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dreamcoin.png) | Dreamcoin | DRM | 
+![Litecred](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/litecred.png) | Litecred | LTCR | 
+![PlayerCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/playercoin.png) | PlayerCoin | PLACO | 
+![VIP Tokens](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vip-tokens.png) | VIP Tokens | VIP | 
+![Zayedcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zayedcoin.png) | Zayedcoin | ZYD | 
+![Iconic](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/iconic.png) | Iconic | ICON | 
+![MindCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mindcoin.png) | MindCoin | MND | 
+![BowsCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bowscoin.png) | BowsCoin | BSC | 
+![DAPPSTER](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dappster.png) | DAPPSTER | DLISK | 
+![G3N](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/genstake.png) | G3N | G3N | 
+![MTMGaming](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/mtmgaming.png) | MTMGaming | MTM | 
+![CRTCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/crtcoin.png) | CRTCoin | CRT | 
+![AnarchistsPrime](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/anarchistsprime.png) | AnarchistsPrime | ACP | 
+![GeertCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/geertcoin.png) | GeertCoin | GEERT | 
+![ImpulseCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/impulsecoin.png) | ImpulseCoin | IMPS | 
+![EGO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ego.png) | EGO | EGO | 
+![Credence Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/credence-coin.png) | Credence Coin | CRDNC | 
+![PosEx](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/posex.png) | PosEx | PEX | 
+![Zonecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/zonecoin.png) | Zonecoin | ZNE | 
+![FlavorCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/flavorcoin.png) | FlavorCoin | FLVR | 
+![ExchangeN](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/exchangen.png) | ExchangeN | EXN | 
+![TAGRcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tagrcoin.png) | TAGRcoin | TAGR | 
+![PRCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/prcoin.png) | PRCoin | PRC | 
+![WomenCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/women.png) | WomenCoin | WOMEN | 
+![Veros](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/veros.png) | Veros | VRS | 
+![BBQCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bbqcoin.png) | BBQCoin | BQC | 
+![Tristar Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/tristar-coin.png) | Tristar Coin | TSTR | 
+![DAS](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/das.png) | DAS | DAS | 
+![High Voltage](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/high-voltage.png) | High Voltage | HVCO | 
+![AgrolifeCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/agrolifecoin.png) | AgrolifeCoin | AGLC | 
+![Elysium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/elysium.png) | Elysium | ELS | 
+![LetItRide](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/letitride.png) | LetItRide | LIR | 
+![Corethum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/corethum.png) | Corethum | CRTM | 
+![BiosCrypto](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bios-crypto.png) | BiosCrypto | BIOS | 
+![FuturXe](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/futurexe.png) | FuturXe | FXE | 
+![Frazcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/frazcoin.png) | Frazcoin | FRAZ | 
+![Coupecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coupecoin.png) | Coupecoin | COUPE | 
+![KingN Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/kingn-coin.png) | KingN Coin | KNC2 | 
+![Orlycoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/orlycoin.png) | Orlycoin | ORLY | 
+![JobsCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/jobscoin.png) | JobsCoin | JOBS | 
+![Magnum](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/magnum.png) | Magnum | MGM | 
+![PLNcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/plncoin.png) | PLNcoin | PLNC | 
+![RSGPcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rsgpcoin.png) | RSGPcoin | RSGP | 
+![Argus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/argus.png) | Argus | ARGUS | 
+![CybCSec](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cybcsec.png) | CybCSec | XCS | 
+![Xonecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/xonecoin.png) | Xonecoin | XOC | 
+![NeuroDAO](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/neurodao.png) | NeuroDAO | NDAO | 
+![Rawcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/rawcoin.png) | Rawcoin | XRC | 
+![Dollar Online](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/dollar-online.png) | Dollar Online | DOLLAR | 
+![Bitvolt](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bitvolt.png) | Bitvolt | VOLT | 
+![Antilitecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/antilitecoin.png) | Antilitecoin | ALTC | 
+![iBank](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ibank.png) | iBank | IBANK | 
+![Coimatic 3.0](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/coimatic-3.png) | Coimatic 3.0 | CTIC3 | 
+![Selfiecoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/selfiecoin.png) | Selfiecoin | SLFI | 
+![Cabbage](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/cabbage.png) | Cabbage | CAB | 
+![LevoPlus](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/levoplus.png) | LevoPlus | LVPS | 
+![SydPak](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/sydpak.png) | SydPak | SDP | 
+![BioBar](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/biobar.png) | BioBar | BIOB | 
+![Aerium](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/aerium.png) | Aerium | AERM | 
+![CrevaCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/crevacoin.png) | CrevaCoin | CREVA | 
+![NodeCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/nodecoin.png) | NodeCoin | NODC | 
+![Ulatech](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ulatech.png) | Ulatech | ULA | 
+![P7Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/p7coin.png) | P7Coin | P7C | 
+![Save and Gain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/save-and-gain.png) | Save and Gain | SANDG | 
+![GeyserCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/geysercoin.png) | GeyserCoin | GSR | 
+![Revenu](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/revenu.png) | Revenu | REV | 
+![Ebittree Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/ebittree-coin.png) | Ebittree Coin | EBT | 
+![Concoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/concoin.png) | Concoin | CONX | 
+![EXRNchain](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/exrnchain.png) | EXRNchain | EXRN | 
+![Vault Coin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/vault-coin.png) | Vault Coin | VLTC | 
+![BigBoobsCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/bigboobscoin.png) | BigBoobsCoin | BBC | 
+![HarmonyCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/harmonycoin.png) | HarmonyCoin | HMC | 
+![Digital Credits](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digital-credits.png) | Digital Credits | DGCS | 
+![Digital Money...](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/digital-money-bits.png) | Digital Money Bits | DMB | 
+![Abncoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/abncoin.png) | Abncoin | ABN | 
+![CaliphCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/caliphcoin.png) | CaliphCoin | CALC | 
+![Falcoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/falcoin.png) | Falcoin | FAL | 
+![AppleCoin](https://github.com/pgrimaud/lametric-cryptocurrencies/images/icons/applecoin.png) | AppleCoin | APW | 
 
 
 ## Feedback
