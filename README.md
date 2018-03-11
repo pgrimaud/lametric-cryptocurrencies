@@ -25,7 +25,7 @@ Based on https://coincap.io/
 ![Dash](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/dash.png) | Dash | DASH | 
 ![Monero](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/monero.png) | Monero | XMR | 
 ![Lisk](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/lisk.png) | Lisk | LSK | 
-![RaiBlocks](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/raiblocks.png) | RaiBlocks | XRB | 
+![Nano](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/nano.png) | Nano | NANO | 
 ![Ethereum Classic](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/ethereum-classic.png) | Ethereum Classic | ETC | 
 ![TRON](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/tron.png) | TRON | TRX | 
 ![Tether](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/tether.png) | Tether | USDT | 
@@ -227,7 +227,6 @@ Based on https://coincap.io/
 ![MinexCoin](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/minexcoin.png) | MinexCoin | MNX | 
 ![CoinDash](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/coindash.png) | CoinDash | CDT | 
 ![Burst](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/burst.png) | Burst | BURST | 
-![Paypex](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/paypex.png) | Paypex | PAYX | 
 ![Aeon](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/aeon.png) | Aeon | AEON | 
 ![Odyssey](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/odyssey.png) | Odyssey | OCN | 
 ![district0x](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/district0x.png) | district0x | DNT | 
@@ -245,7 +244,6 @@ Based on https://coincap.io/
 ![SaluS](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/salus.png) | SaluS | SLS | 
 ![OctoCoin](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/octocoin.png) | OctoCoin | 888 | 
 ![Presearch](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/presearch.png) | Presearch | PRE | 
-![Jinn](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/jinn.png) | Jinn | JINN | 
 ![All Sports](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/all-sports.png) | All Sports | SOC | 
 ![BitDegree](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/bitdegree.png) | BitDegree | BDG | 
 ![TokenCard](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/icons/tokencard.png) | TokenCard | TKN | 
