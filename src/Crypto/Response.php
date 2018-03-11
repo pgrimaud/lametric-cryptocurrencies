@@ -3,7 +3,7 @@ namespace Crypto;
 
 class Response
 {
-    CONST PRICE_UP   = 'i7465';
+    const PRICE_UP = 'i7465';
     const PRICE_DOWN = 'i7463';
 
     /**
@@ -33,30 +33,37 @@ class Response
     }
 
     /**
-     * @param Currency $currency
-     * @return mixed
+     * @param CurrencyCollection $collection
+     * @return string
      */
-    public function data(Currency $currency)
+    public function data(CurrencyCollection $collection)
     {
-        return $this->asJson([
-            'frames' => [
-                [
-                    'index' => 0,
-                    'text'  => $currency->getCode(),
-                    'icon'  => 'null'
-                ],
-                [
-                    'index' => 1,
-                    'text'  => $this->formatPrice($currency->getPrice()) . '$',
-                    'icon'  => 'null'
-                ],
-                [
+        $frames = [];
+
+        /** @var Currency $currency */
+        foreach ($collection->getCurrencies() as $currency) {
+            $frames[] = [
+                'index' => 0,
+                'text'  => $currency->getCode(),
+                'icon'  => 'null'
+            ];
+
+            $frames[] = [
+                'index' => 1,
+                'text'  => $this->formatPrice($currency->getPrice()) . '$',
+                'icon'  => 'null'
+            ];
+
+            if ($currency->isShowChange()) {
+                $frames[] = [
                     'index' => 2,
                     'text'  => ($currency->getChange() > 0 ? '+' : '') . $currency->getChange() . '%',
                     'icon'  => ($currency->getChange() > 0 ? self::PRICE_UP : self::PRICE_DOWN),
-                ]
-            ],
-        ]);
+                ];
+            }
+        }
+
+        return $this->asJson($frames);
     }
 
     /**
@@ -67,11 +74,11 @@ class Response
     {
         if ($price < 10) {
             $fractional = 4;
-        } else if ($price >= 10 && $price < 100) {
+        } elseif ($price >= 10 && $price < 100) {
             $fractional = 3;
-        } else if ($price >= 100 && $price < 1000) {
+        } elseif ($price >= 100 && $price < 1000) {
             $fractional = 2;
-        } else if ($price >= 1000 && $price < 10000) {
+        } elseif ($price >= 1000 && $price < 10000) {
             $fractional = 1;
         } else {
             $fractional = 0;

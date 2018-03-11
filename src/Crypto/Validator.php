@@ -37,7 +37,7 @@ class Validator
                     $this->data['codes'][] = $code;
                 }
             }
-        } else if (isset($this->parameters['currency'])) {
+        } elseif (isset($this->parameters['currency'])) {
             $this->data['codes'][] = strtoupper($this->parameters['currency']);
         } else {
             $this->data['codes'][] = 'BTC';

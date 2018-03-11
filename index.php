@@ -2,6 +2,7 @@
 require __DIR__ . '/vendor/autoload.php';
 
 use Crypto\Currency;
+use Crypto\CurrencyCollection;
 use Crypto\Exception\CryptoNotFoundException;
 use Crypto\Price;
 use Crypto\Response;
@@ -16,14 +17,25 @@ try {
     $validator = new Validator($_GET);
     $validator->check();
 
-    $price = new Price(new \GuzzleHttp\Client(), new \Predis\Client(), $currency);
+    $collection = new CurrencyCollection();
+
+    foreach ($validator->getData()['codes'] as $code) {
+        $currency = new Currency();
+        $currency->setCode($code);
+        $currency->setShowChange($validator->getData()['change']);
+
+        $collection->addCurrency($currency);
+    }
+
+    $price = new Price(new \GuzzleHttp\Client(), new \Predis\Client(), $collection);
     $price->getValue();
 
-    echo $response->data($price->getCurrency());
+    echo $response->data($price->getCollection());
 
 } Catch (CryptoNotFoundException $exception) {
 
-    echo $response->error('Invalid currency code! Please check your configuration!');
+    $currencyCode = $exception->getMessage();
+    echo $response->error('Invalid currency code ' . $currencyCode . '! Please check your configuration!');
 
 } Catch (Exception $exception) {
 

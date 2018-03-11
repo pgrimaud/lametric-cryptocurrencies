@@ -22,19 +22,19 @@ class Price
     /**
      * @var Currency
      */
-    private $currency;
+    private $collection;
 
     /**
      * Price constructor.
      * @param GuzzleClient $guzzleClient
      * @param PredisClient $predisClient
-     * @param Currency $currency
+     * @param CurrencyCollection $collection
      */
-    public function __construct(GuzzleClient $guzzleClient, PredisClient $predisClient, Currency $currency)
+    public function __construct(GuzzleClient $guzzleClient, PredisClient $predisClient, CurrencyCollection $collection)
     {
         $this->guzzleClient = $guzzleClient;
         $this->predisClient = $predisClient;
-        $this->currency     = $currency;
+        $this->collection   = $collection;
     }
 
     /**
@@ -62,14 +62,15 @@ class Price
             $prices = json_decode($pricesFile, JSON_OBJECT_AS_ARRAY);
         }
 
-        if ($prices[$this->currency->getCode()]) {
-
-            $this->currency->setName($prices[$this->currency->getCode()]['name']);
-            $this->currency->setPrice((float)$prices[$this->currency->getCode()]['price']);
-            $this->currency->setChange((float)$prices[$this->currency->getCode()]['change']);
-
-        } else {
-            throw new CryptoNotFoundException;
+        /** @var Currency $currency */
+        foreach ($this->collection->getCurrencies() as $k => $currency) {
+            if ($prices[$currency->getCode()]) {
+                $currency->setName($prices[$currency->getCode()]['name']);
+                $currency->setPrice((float)$prices[$currency->getCode()]['price']);
+                $currency->setChange((float)$prices[$currency->getCode()]['change']);
+            } else {
+                throw new CryptoNotFoundException($currency->getCode());
+            }
         }
     }
 
@@ -82,7 +83,6 @@ class Price
         $formattedData = [];
 
         foreach ($data as $currency) {
-
             $formattedData[$currency['short']] = [
                 'name'   => $currency['long'],
                 'price'  => $currency['price'],
@@ -94,10 +94,10 @@ class Price
     }
 
     /**
-     * @return Currency
+     * @return Currency|CurrencyCollection
      */
-    public function getCurrency()
+    public function getCollection()
     {
-        return $this->currency;
+        return $this->collection;
     }
 }

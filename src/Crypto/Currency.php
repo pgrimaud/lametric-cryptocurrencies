@@ -29,16 +29,6 @@ class Currency
     private $showChange;
 
     /**
-     * Currency constructor.
-     * @param array $parameters
-     */
-    public function __construct($parameters = [])
-    {
-        $this->code       = strtoupper(isset($parameters['currency']) ? $parameters['currency'] : 'BTC');
-        $this->showChange = isset($parameters['change']) && $parameters['change'] === 'yes';
-    }
-
-    /**
      * @return bool
      */
     public function hasShowChange()
@@ -100,5 +90,29 @@ class Currency
     public function setChange($change)
     {
         $this->change = $change;
+    }
+
+    /**
+     * @param string $code
+     */
+    public function setCode($code)
+    {
+        $this->code = $code;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isShowChange()
+    {
+        return $this->showChange;
+    }
+
+    /**
+     * @param bool $showChange
+     */
+    public function setShowChange($showChange)
+    {
+        $this->showChange = $showChange;
     }
 }
