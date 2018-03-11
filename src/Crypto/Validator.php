@@ -1,6 +1,8 @@
 <?php
 namespace Crypto;
 
+use Crypto\Exception\NotUpdatedException;
+
 class Validator
 {
     /**
@@ -26,24 +28,27 @@ class Validator
     }
 
     /**
-     * @return void
+     * @throws NotUpdatedException
      */
     public function check()
     {
-        if (isset($this->parameters['currency']) && strpos($this->parameters['currency'], ',') !== false) {
-            $codes = explode(',', strtoupper($this->parameters['currency']));
-            foreach ($codes as $code) {
-                if ($code !== '') {
-                    $this->data['codes'][] = $code;
-                }
+        // compatibility
+        if (isset($this->parameters['currency'])) {
+            throw new NotUpdatedException();
+        }
+
+        for ($i = 1; $i <= 10; $i++) {
+            $key = 'currency' . $i;
+            if (isset($this->parameters[$key]) && $this->parameters[$key] !== '') {
+                $this->data['codes'][] = strtoupper($this->parameters[$key]);
             }
-        } elseif (isset($this->parameters['currency'])) {
-            $this->data['codes'][] = strtoupper($this->parameters['currency']);
-        } else {
+        }
+
+        if (!count($this->data['codes'])) {
             $this->data['codes'][] = 'BTC';
         }
 
-        $this->data['change'] = isset($this->parameters['change']) && $this->parameters['change'] === 'yes';
+        $this->data['change'] = isset($this->parameters['change']) && strtolower($this->parameters['change']) === 'yes';
     }
 
     /**

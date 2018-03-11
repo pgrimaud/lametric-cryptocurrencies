@@ -4,6 +4,7 @@ require __DIR__ . '/vendor/autoload.php';
 use Crypto\Currency;
 use Crypto\CurrencyCollection;
 use Crypto\Exception\CryptoNotFoundException;
+use Crypto\Exception\NotUpdatedException;
 use Crypto\Price;
 use Crypto\Response;
 use Crypto\Validator;
@@ -31,6 +32,10 @@ try {
     $price->getValue();
 
     echo $response->data($price->getCollection());
+
+} Catch (NotUpdatedException $exception) {
+
+    echo $response->error('Please update application!');
 
 } Catch (CryptoNotFoundException $exception) {
 
