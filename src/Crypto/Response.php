@@ -5,6 +5,7 @@ class Response
 {
     const PRICE_UP = 'i7465';
     const PRICE_DOWN = 'i7463';
+    const DEFAULT_CRYPTOCURRENCY = 'BTC';
 
     /**
      * @param array $data

@@ -45,7 +45,7 @@ class Validator
         }
 
         if (!count($this->data['codes'])) {
-            $this->data['codes'][] = 'BTC';
+            $this->data['codes'][] = Response::DEFAULT_CRYPTOCURRENCY;
         }
 
         $this->data['change'] = isset($this->parameters['change']) && strtolower($this->parameters['change']) === 'yes';
