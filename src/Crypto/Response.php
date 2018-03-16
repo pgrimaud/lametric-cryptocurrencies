@@ -70,7 +70,9 @@ class Response
             }
         }
 
-        return $this->asJson($frames);
+        return $this->asJson([
+            'frames' => $frames
+        ]);
     }
 
     /**
