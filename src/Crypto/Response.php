@@ -57,7 +57,7 @@ class Response
             $frames[] = [
                 'index' => $index,
                 'text'  => $this->formatPrice($currency->getPrice()) . '$',
-                'icon'  => 'null'
+                'icon'  => IconHelper::getIcon($currency->getCode())
             ];
 
             $index++;
