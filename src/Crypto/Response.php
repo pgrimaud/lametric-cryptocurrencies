@@ -1,10 +1,11 @@
 <?php
+
 namespace Crypto;
+
+use Crypto\Helper\IconHelper;
 
 class Response
 {
-    const PRICE_UP = 'i7465';
-    const PRICE_DOWN = 'i7463';
     const DEFAULT_CRYPTOCURRENCY = 'BTC';
 
     /**
@@ -48,7 +49,7 @@ class Response
             $frames[] = [
                 'index' => $index,
                 'text'  => $currency->getCode(),
-                'icon'  => 'null'
+                'icon'  => IconHelper::getIcon($currency->getCode())
             ];
 
             $index++;
@@ -65,7 +66,7 @@ class Response
                 $frames[] = [
                     'index' => $index,
                     'text'  => ($currency->getChange() > 0 ? '+' : '') . $currency->getChange() . '%',
-                    'icon'  => ($currency->getChange() > 0 ? self::PRICE_UP : self::PRICE_DOWN),
+                    'icon'  => ($currency->getChange() > 0 ? IconHelper::PRICE_UP : IconHelper::PRICE_DOWN),
                 ];
                 $index++;
             }

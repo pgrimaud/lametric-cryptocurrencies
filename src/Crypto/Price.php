@@ -1,4 +1,5 @@
 <?php
+
 namespace Crypto;
 
 use Crypto\Exception\CryptoNotFoundException;
@@ -40,6 +41,7 @@ class Price
     /**
      * @return void
      * @throws CryptoNotFoundException
+     * @throws \GuzzleHttp\Exception\GuzzleException
      */
     public function getValue()
     {

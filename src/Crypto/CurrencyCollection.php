@@ -1,4 +1,5 @@
 <?php
+
 namespace Crypto;
 
 class CurrencyCollection
