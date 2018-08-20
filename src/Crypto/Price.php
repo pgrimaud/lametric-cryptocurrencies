@@ -27,8 +27,8 @@ class Price
 
     /**
      * Price constructor.
-     * @param GuzzleClient $guzzleClient
-     * @param PredisClient $predisClient
+     * @param GuzzleClient       $guzzleClient
+     * @param PredisClient       $predisClient
      * @param CurrencyCollection $collection
      */
     public function __construct(GuzzleClient $guzzleClient, PredisClient $predisClient, CurrencyCollection $collection)
@@ -48,8 +48,9 @@ class Price
         $redisKey = 'lametric:cryptocurrencies';
 
         $pricesFile = $this->predisClient->get($redisKey);
+        $ttl        = $this->predisClient->ttl($redisKey);
 
-        if (!$pricesFile) {
+        if (!$pricesFile || $ttl < 0) {
             $resource = $this->guzzleClient->request('GET', self::DATA_ENDPOINT);
             $file     = $resource->getBody();
 
