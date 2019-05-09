@@ -111,7 +111,7 @@ class Price
             ];
         }
 
-        return json_decode($file, JSON_OBJECT_AS_ARRAY);
+        return $data;
     }
 
     /**
