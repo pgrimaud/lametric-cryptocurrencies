@@ -83,9 +83,8 @@ class Price
 
         foreach ($data as $currency) {
             $formattedData[$currency['short']] = [
-                'name'   => $currency['long'],
                 'price'  => $currency['price'],
-                'change' => $currency['cap24hrChange']
+                'change' => $currency['change']
             ];
         }
 
@@ -108,7 +107,6 @@ class Price
             $data[] = [
                 'short'  => $crypto,
                 'price'  => number_format($out[4][$key], 10),
-                'name'   => $crypto,
                 'change' => $out[6][$key],
             ];
         }
