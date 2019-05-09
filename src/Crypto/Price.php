@@ -8,7 +8,7 @@ use Predis\Client as PredisClient;
 
 class Price
 {
-    const DATA_ENDPOINT = 'https://coincap.io/front';
+    const DATA_ENDPOINT = 'https://coinmarketcap.com/all/views/all/';
 
     /**
      * @var GuzzleClient
@@ -27,8 +27,8 @@ class Price
 
     /**
      * Price constructor.
-     * @param GuzzleClient       $guzzleClient
-     * @param PredisClient       $predisClient
+     * @param GuzzleClient $guzzleClient
+     * @param PredisClient $predisClient
      * @param CurrencyCollection $collection
      */
     public function __construct(GuzzleClient $guzzleClient, PredisClient $predisClient, CurrencyCollection $collection)
@@ -51,10 +51,7 @@ class Price
         $ttl        = $this->predisClient->ttl($redisKey);
 
         if (!$pricesFile || $ttl < 0) {
-            $resource = $this->guzzleClient->request('GET', self::DATA_ENDPOINT);
-            $file     = $resource->getBody();
-
-            $rawData = json_decode($file, JSON_OBJECT_AS_ARRAY);
+            $rawData = $this->fetchData();
 
             $prices = $this->formatData($rawData);
 
@@ -68,7 +65,6 @@ class Price
         /** @var Currency $currency */
         foreach ($this->collection->getCurrencies() as $k => $currency) {
             if ($prices[$currency->getCode()]) {
-                $currency->setName($prices[$currency->getCode()]['name']);
                 $currency->setPrice((float)$prices[$currency->getCode()]['price']);
                 $currency->setChange((float)$prices[$currency->getCode()]['change']);
             } else {
@@ -94,6 +90,30 @@ class Price
         }
 
         return $formattedData;
+    }
+
+    /**
+     * @throws \GuzzleHttp\Exception\GuzzleException
+     */
+    private function fetchData()
+    {
+        $resource = $this->guzzleClient->request('GET', self::DATA_ENDPOINT);
+        $file     = str_replace("\n", '', (string)$resource->getBody());
+
+        preg_match_all('/<tr id=(.*?)col-symbol">(.*?)<\/td>(.*?)class="price" data-usd="(.*?)"(.*?)data-timespan="24h" data-percentusd="(.*?)"/', $file, $out);
+
+        $data = [];
+
+        foreach ($out[2] as $key => $crypto) {
+            $data[] = [
+                'short'  => $crypto,
+                'price'  => number_format($out[4][$key], 10),
+                'name'   => $crypto,
+                'change' => $out[6][$key],
+            ];
+        }
+
+        return json_decode($file, JSON_OBJECT_AS_ARRAY);
     }
 
     /**
