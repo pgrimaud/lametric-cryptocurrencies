@@ -26,7 +26,6 @@ class Price
     private $collection;
 
     /**
-     * Price constructor.
      * @param GuzzleClient $guzzleClient
      * @param PredisClient $predisClient
      * @param CurrencyCollection $collection
@@ -106,7 +105,7 @@ class Price
         foreach ($out[2] as $key => $crypto) {
             $data[] = [
                 'short'  => $crypto,
-                'price'  => number_format($out[4][$key], 10),
+                'price'  => number_format(str_replace(',', '', $out[4][$key]), 10),
                 'change' => $out[6][$key],
             ];
         }
