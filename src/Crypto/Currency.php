@@ -66,7 +66,7 @@ class Currency
      */
     public function getChange()
     {
-        return $this->change;
+        return round($this->change, 3);
     }
 
     /**
