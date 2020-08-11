@@ -26,8 +26,8 @@ class Price
     private $collection;
 
     /**
-     * @param GuzzleClient       $guzzleClient
-     * @param PredisClient       $predisClient
+     * @param GuzzleClient $guzzleClient
+     * @param PredisClient $predisClient
      * @param CurrencyCollection $collection
      */
     public function __construct(GuzzleClient $guzzleClient, PredisClient $predisClient, CurrencyCollection $collection)
@@ -103,6 +103,11 @@ class Price
         $data = [];
 
         foreach ($sources['data'] as $crypto) {
+            // quick fix for DOS multiple currency
+            if ($crypto['symbol'] === 'DOS' && $crypto['slug'] === 'demos') {
+                continue;
+            }
+
             $data[] = [
                 'short'  => $crypto['symbol'],
                 'price'  => $crypto['quote']['USD']['price'],
