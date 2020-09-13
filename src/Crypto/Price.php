@@ -108,6 +108,11 @@ class Price
                 continue;
             }
 
+            // quick fix for COMP multiple currency
+            if ($crypto['symbol'] === 'COMP' && $crypto['slug'] === 'compound-coin') {
+                continue;
+            }
+
             $data[] = [
                 'short'  => $crypto['symbol'],
                 'price'  => $crypto['quote']['USD']['price'],
