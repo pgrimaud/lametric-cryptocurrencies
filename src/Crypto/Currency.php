@@ -110,10 +110,9 @@ class Currency
     }
 
     /**
-     * @param $name
      * @return string
      */
-    public function hasName($name)
+    public function hasName()
     {
         return $this->name;
     }
