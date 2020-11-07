@@ -24,6 +24,7 @@ try {
         $currency = new Currency();
         $currency->setCode($code);
         $currency->setShowChange($validator->getData()['change']);
+        $currency->setName($validator->getData()['name']);
 
         $collection->addCurrency($currency);
     }

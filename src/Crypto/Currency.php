@@ -10,9 +10,9 @@ class Currency
     private $code;
 
     /**
-     * @var string
+     * @var bool
      */
-    private $name;
+    private $name = false;
 
     /**
      * @var float
@@ -99,5 +99,22 @@ class Currency
     public function setShowChange($showChange)
     {
         $this->showChange = $showChange;
+    }
+
+    /**
+     * @param $name
+     */
+    public function setName($name)
+    {
+        $this->name = $name;
+    }
+
+    /**
+     * @param $name
+     * @return string
+     */
+    public function hasName($name)
+    {
+        return $this->name;
     }
 }

@@ -46,20 +46,20 @@ class Response
 
         /** @var Currency $currency */
         foreach ($collection->getCurrencies() as $currency) {
-            $frames[] = [
-                'index' => $index,
-                'text'  => $currency->getCode(),
-                'icon'  => IconHelper::getIcon($currency->getCode())
-            ];
-
-            $index++;
+            if ($currency->hasName()) {
+                $frames[] = [
+                    'index' => $index,
+                    'text'  => $currency->getCode(),
+                    'icon'  => IconHelper::getIcon($currency->getCode())
+                ];
+                $index++;
+            }
 
             $frames[] = [
                 'index' => $index,
                 'text'  => $this->formatPrice($currency->getPrice()) . '$',
                 'icon'  => IconHelper::getIcon($currency->getCode())
             ];
-
             $index++;
 
             if ($currency->isShowChange()) {
