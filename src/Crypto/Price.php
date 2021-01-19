@@ -84,7 +84,7 @@ class Price
         foreach ($data as $currency) {
             $formattedData[$currency['short']] = [
                 'price'  => $currency['price'],
-                'change' => $currency['change']
+                'change' => round($currency['change'], 2)
             ];
         }
 
