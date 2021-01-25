@@ -56,7 +56,7 @@ class Price
 
             // save to redis
             $this->predisClient->set($redisKey, json_encode($prices));
-            $this->predisClient->expireat($redisKey, strtotime("+3 minutes"));
+            $this->predisClient->expireat($redisKey, strtotime("+1 minute"));
         } else {
             $prices = json_decode($pricesFile, JSON_OBJECT_AS_ARRAY);
         }
