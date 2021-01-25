@@ -8,7 +8,7 @@ use Predis\Client as PredisClient;
 
 class Price
 {
-    const DATA_ENDPOINT = 'https://web-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?convert=USD&cryptocurrency_type=all&limit=3000';
+    const DATA_ENDPOINT = 'https://web-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?convert=USD&cryptocurrency_type=all&limit=4999';
 
     /**
      * @var GuzzleClient
