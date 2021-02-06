@@ -13,17 +13,17 @@ class Price
     /**
      * @var GuzzleClient
      */
-    private $guzzleClient;
+    private GuzzleClient $guzzleClient;
 
     /**
      * @var PredisClient
      */
-    private $predisClient;
+    private PredisClient $predisClient;
 
     /**
-     * @var Currency
+     * @var CurrencyCollection
      */
-    private $collection;
+    private CurrencyCollection $collection;
 
     /**
      * @param GuzzleClient $guzzleClient
@@ -42,7 +42,7 @@ class Price
      * @throws CryptoNotFoundException
      * @throws \GuzzleHttp\Exception\GuzzleException
      */
-    public function getValue()
+    public function getValue(): void
     {
         $redisKey = 'lametric:cryptocurrencies';
 
@@ -77,14 +77,14 @@ class Price
      *
      * @return array
      */
-    public function formatData($data)
+    public function formatData($data): array
     {
         $formattedData = [];
 
         foreach ($data as $currency) {
             $formattedData[$currency['short']] = [
                 'price'  => $currency['price'],
-                'change' => round($currency['change'], 2)
+                'change' => round($currency['change'], 2),
             ];
         }
 
@@ -92,9 +92,11 @@ class Price
     }
 
     /**
+     * @return array
+     *
      * @throws \GuzzleHttp\Exception\GuzzleException
      */
-    private function fetchData()
+    private function fetchData(): array
     {
         $resource = $this->guzzleClient->request('GET', self::DATA_ENDPOINT);
 
@@ -124,9 +126,9 @@ class Price
     }
 
     /**
-     * @return Currency|CurrencyCollection
+     * @return CurrencyCollection
      */
-    public function getCollection()
+    public function getCollection(): CurrencyCollection
     {
         return $this->collection;
     }

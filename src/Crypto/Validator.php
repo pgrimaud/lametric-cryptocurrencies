@@ -9,12 +9,12 @@ class Validator
     /**
      * @var array
      */
-    private $parameters = [];
+    private array $parameters = [];
 
     /**
      * @var array
      */
-    private $data = [
+    private array $data = [
         'codes'  => [],
         'change' => false,
         'names'  => true,
@@ -24,7 +24,7 @@ class Validator
      * Validation constructor.
      * @param $parameters
      */
-    public function __construct($parameters)
+    public function __construct(array $parameters)
     {
         $this->parameters = $parameters;
     }
@@ -32,7 +32,7 @@ class Validator
     /**
      * @throws NotUpdatedException
      */
-    public function check()
+    public function check(): void
     {
         // compatibility
         if (isset($this->parameters['currency'])) {
@@ -57,7 +57,7 @@ class Validator
     /**
      * @return array
      */
-    public function getData()
+    public function getData(): array
     {
         return $this->data;
     }

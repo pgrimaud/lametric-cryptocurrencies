@@ -7,32 +7,32 @@ class Currency
     /**
      * @var string
      */
-    private $code;
+    private string $code;
 
     /**
      * @var bool
      */
-    private $name = false;
+    private bool $name = false;
 
     /**
      * @var float
      */
-    private $price;
+    private float $price;
 
     /**
      * @var float
      */
-    private $change;
+    private float $change;
 
     /**
      * @var bool
      */
-    private $showChange;
+    private bool $showChange;
 
     /**
      * @return bool
      */
-    public function hasShowChange()
+    public function hasShowChange(): bool
     {
         return $this->showChange;
     }
@@ -40,7 +40,7 @@ class Currency
     /**
      * @return string
      */
-    public function getCode()
+    public function getCode(): string
     {
         return $this->code;
     }
@@ -48,7 +48,7 @@ class Currency
     /**
      * @return float
      */
-    public function getPrice()
+    public function getPrice(): float
     {
         return $this->price;
     }
@@ -56,7 +56,7 @@ class Currency
     /**
      * @param float $price
      */
-    public function setPrice($price)
+    public function setPrice(float $price): void
     {
         $this->price = $price;
     }
@@ -64,7 +64,7 @@ class Currency
     /**
      * @return float
      */
-    public function getChange()
+    public function getChange(): float
     {
         return round($this->change, 3);
     }
@@ -72,7 +72,7 @@ class Currency
     /**
      * @param float $change
      */
-    public function setChange($change)
+    public function setChange(float $change): void
     {
         $this->change = $change;
     }
@@ -80,7 +80,7 @@ class Currency
     /**
      * @param string $code
      */
-    public function setCode($code)
+    public function setCode(string $code): void
     {
         $this->code = $code;
     }
@@ -88,7 +88,7 @@ class Currency
     /**
      * @return bool
      */
-    public function isShowChange()
+    public function isShowChange(): bool
     {
         return $this->showChange;
     }
@@ -96,15 +96,15 @@ class Currency
     /**
      * @param bool $showChange
      */
-    public function setShowChange($showChange)
+    public function setShowChange(bool $showChange): void
     {
         $this->showChange = $showChange;
     }
 
     /**
-     * @param $name
+     * @param string $name
      */
-    public function setName($name)
+    public function setName(string $name)
     {
         $this->name = $name;
     }
@@ -112,7 +112,7 @@ class Currency
     /**
      * @return string
      */
-    public function hasName()
+    public function hasName(): string
     {
         return $this->name;
     }

@@ -55,9 +55,9 @@ class IconHelper
 
     /**
      * @param $code
-     * @return mixed|string
+     * @return string
      */
-    public static function getIcon($code)
+    public static function getIcon(string $code): string
     {
         return isset(self::ICONS[$code]) ? 'i' . self::ICONS[$code] : 'null';
     }

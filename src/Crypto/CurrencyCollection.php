@@ -7,33 +7,20 @@ class CurrencyCollection
     /**
      * @var array
      */
-    private $currencies = [];
+    private array $currencies = [];
 
     /**
      * @param Currency $currency
      */
-    public function addCurrency(Currency $currency)
+    public function addCurrency(Currency $currency): void
     {
         $this->currencies[] = $currency;
     }
 
     /**
-     * @param Currency $currency
-     */
-    public function removeCurrency(Currency $currency)
-    {
-        /** @var Currency $cur */
-        foreach ($this->currencies as $k => $cur) {
-            if ($cur->getCode() === $currency->getCode()) {
-                unset($this->currencies[$k]);
-            }
-        }
-    }
-
-    /**
      * @return array
      */
-    public function getCurrencies()
+    public function getCurrencies(): array
     {
         return $this->currencies;
     }

@@ -12,7 +12,7 @@ class Response
      * @param array $data
      * @return string
      */
-    public function asJson($data = [])
+    public function asJson(array $data = []): string
     {
         return json_encode($data);
     }
@@ -21,16 +21,16 @@ class Response
      * @param string $value
      * @return string
      */
-    public function error($value = 'INTERNAL ERROR')
+    public function error(string $value = 'INTERNAL ERROR'): string
     {
         return $this->asJson([
             'frames' => [
                 [
                     'index' => 0,
                     'text'  => $value,
-                    'icon'  => 'null'
-                ]
-            ]
+                    'icon'  => 'null',
+                ],
+            ],
         ]);
     }
 
@@ -38,7 +38,7 @@ class Response
      * @param CurrencyCollection $collection
      * @return string
      */
-    public function data(CurrencyCollection $collection)
+    public function data(CurrencyCollection $collection): string
     {
         $frames = [];
 
@@ -50,7 +50,7 @@ class Response
                 $frames[] = [
                     'index' => $index,
                     'text'  => $currency->getCode(),
-                    'icon'  => IconHelper::getIcon($currency->getCode())
+                    'icon'  => IconHelper::getIcon($currency->getCode()),
                 ];
                 $index++;
             }
@@ -58,7 +58,7 @@ class Response
             $frames[] = [
                 'index' => $index,
                 'text'  => $this->formatPrice($currency->getPrice()) . '$',
-                'icon'  => IconHelper::getIcon($currency->getCode())
+                'icon'  => IconHelper::getIcon($currency->getCode()),
             ];
             $index++;
 
@@ -73,15 +73,15 @@ class Response
         }
 
         return $this->asJson([
-            'frames' => $frames
+            'frames' => $frames,
         ]);
     }
 
     /**
      * @param float $price
-     * @return int
+     * @return int|float
      */
-    private function formatPrice($price = 0.0)
+    private function formatPrice(float $price = 0.0): int|float
     {
         if ($price < 10) {
             $fractional = 4;
