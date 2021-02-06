@@ -51,7 +51,7 @@ class Validator
         }
 
         $this->data['change'] = isset($this->parameters['change']) && strtolower($this->parameters['change']) === 'yes';
-        $this->data['name']   = !isset($this->parameters['show_label']) || strtolower($this->parameters['show_label']) === 'yes';
+        $this->data['names']   = !isset($this->parameters['show_label']) || strtolower($this->parameters['show_label']) === 'yes';
     }
 
     /**

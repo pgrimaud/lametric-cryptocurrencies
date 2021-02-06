@@ -12,7 +12,7 @@ class Currency
     /**
      * @var bool
      */
-    private bool $name = false;
+    private bool $showName = false;
 
     /**
      * @var float
@@ -102,18 +102,18 @@ class Currency
     }
 
     /**
-     * @param string $name
+     * @param bool $showName
      */
-    public function setName(string $name)
+    public function setName(bool $showName)
     {
-        $this->name = $name;
+        $this->showName = $showName;
     }
 
     /**
-     * @return string
+     * @return bool
      */
-    public function hasName(): string
+    public function showName(): bool
     {
-        return $this->name;
+        return $this->showName;
     }
 }

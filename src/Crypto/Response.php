@@ -46,7 +46,7 @@ class Response
 
         /** @var Currency $currency */
         foreach ($collection->getCurrencies() as $currency) {
-            if ($currency->hasName()) {
+            if ($currency->showName()) {
                 $frames[] = [
                     'index' => $index,
                     'text'  => $currency->getCode(),

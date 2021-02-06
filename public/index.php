@@ -30,7 +30,7 @@ try {
         $currency = new Currency();
         $currency->setCode($code);
         $currency->setShowChange($validator->getData()['change']);
-        $currency->setName($validator->getData()['name']);
+        $currency->setName($validator->getData()['names']);
 
         $collection->addCurrency($currency);
     }
