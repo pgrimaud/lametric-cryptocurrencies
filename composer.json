@@ -5,6 +5,7 @@
     }
   },
   "require": {
+    "php": "^8.0",
     "ext-json": "*",
     "predis/predis": "^1.1",
     "guzzlehttp/guzzle": "^6.3",
