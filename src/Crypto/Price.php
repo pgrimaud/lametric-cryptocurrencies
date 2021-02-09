@@ -110,6 +110,11 @@ class Price
                 continue;
             }
 
+            // quick fix for UNI multiple currency
+            if ($crypto['symbol'] === 'UNI' && $crypto['slug'] !== 'uniswap') {
+                continue;
+            }
+
             // quick fix for COMP multiple currency
             if ($crypto['symbol'] === 'COMP' && $crypto['slug'] === 'compound-coin') {
                 continue;
