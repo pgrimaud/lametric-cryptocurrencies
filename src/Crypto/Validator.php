@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Crypto;
 
 use Crypto\Exception\NotUpdatedException;
@@ -50,8 +52,9 @@ class Validator
             $this->data['codes'][] = Response::DEFAULT_CRYPTOCURRENCY;
         }
 
-        $this->data['change'] = isset($this->parameters['change']) && strtolower($this->parameters['change']) === 'yes';
-        $this->data['names']   = !isset($this->parameters['show_label']) || strtolower($this->parameters['show_label']) === 'yes';
+        $this->data['change']   = isset($this->parameters['change']) && strtolower($this->parameters['change']) === 'yes';
+        $this->data['names']    = !isset($this->parameters['show_label']) || strtolower($this->parameters['show_label']) === 'yes';
+        $this->data['position'] = $this->parameters['position'] ?? Response::POSITION_AFTER; // after is default position
     }
 
     /**

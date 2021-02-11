@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Crypto;
 
 use Crypto\Helper\IconHelper;
@@ -7,6 +9,9 @@ use Crypto\Helper\IconHelper;
 class Response
 {
     const DEFAULT_CRYPTOCURRENCY = 'BTC';
+
+    const POSITION_BEFORE = 'before';
+    const POSITION_AFTER = 'after';
 
     /**
      * @param array $data
@@ -36,9 +41,11 @@ class Response
 
     /**
      * @param CurrencyCollection $collection
+     * @param string $position
+     *
      * @return string
      */
-    public function data(CurrencyCollection $collection): string
+    public function data(CurrencyCollection $collection, string $position): string
     {
         $frames = [];
 
@@ -57,7 +64,7 @@ class Response
 
             $frames[] = [
                 'index' => $index,
-                'text'  => $this->formatPrice($currency->getPrice()) . '$',
+                'text'  => $this->formatPrice($currency->getPrice(), $position),
                 'icon'  => IconHelper::getIcon($currency->getCode()),
             ];
             $index++;
@@ -79,9 +86,11 @@ class Response
 
     /**
      * @param float $price
-     * @return int|float
+     * @param string $position
+     *
+     * @return string
      */
-    private function formatPrice(float $price = 0.0): int|float
+    private function formatPrice(float $price = 0.0, string $position = ''): string
     {
         if ($price < 10) {
             $fractional = 4;
@@ -95,6 +104,15 @@ class Response
             $fractional = 0;
         }
 
-        return round($price, $fractional);
+        $price = round($price, $fractional);
+
+        // set $ position
+        if ($position === self::POSITION_BEFORE) {
+            $price = '$' . $price;
+        } else if ($position === self::POSITION_AFTER) {
+            $price = $price . '$';
+        }
+
+        return (string)$price;
     }
 }
