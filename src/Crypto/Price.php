@@ -122,6 +122,11 @@ class Price
                 continue;
             }
 
+            // quick fix for UNI multiple currency
+            if ($crypto['symbol'] === 'GRT' && $crypto['slug'] !== 'the-graph') {
+                continue;
+            }
+
             $data[] = [
                 'short'  => $crypto['symbol'],
                 'price'  => $crypto['quote']['USD']['price'],
