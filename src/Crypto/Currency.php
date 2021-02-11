@@ -19,12 +19,12 @@ class Currency
     /**
      * @var float
      */
-    private float $price;
+    private float $price = 0;
 
     /**
      * @var float
      */
-    private float $change;
+    private float $change = 0;
 
     /**
      * @var bool

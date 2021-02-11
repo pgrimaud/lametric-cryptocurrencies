@@ -68,7 +68,6 @@ class Price
             if (isset($prices[$currency->getCode()])) {
                 $currency->setPrice((float)$prices[$currency->getCode()]['price']);
                 $currency->setChange((float)$prices[$currency->getCode()]['change']);
-                break;
             } else {
                 throw new CryptoNotFoundException($currency->getCode());
             }
