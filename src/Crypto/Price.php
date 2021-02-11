@@ -107,31 +107,15 @@ class Price
         $data = [];
 
         foreach ($sources['data'] as $crypto) {
-            // quick fix for DOS multiple currency
-            if ($crypto['symbol'] === 'DOS' && $crypto['slug'] === 'demos') {
-                continue;
-            }
 
-            // quick fix for UNI multiple currency
-            if ($crypto['symbol'] === 'UNI' && $crypto['slug'] !== 'uniswap') {
-                continue;
+            // manage multiple currencies with the same symbol
+            if (!isset($crypto['symbol'])) {
+                $data[$crypto['symbol']] = [
+                    'short'  => $crypto['symbol'],
+                    'price'  => $crypto['quote']['USD']['price'],
+                    'change' => $crypto['quote']['USD']['percent_change_24h'],
+                ];
             }
-
-            // quick fix for COMP multiple currency
-            if ($crypto['symbol'] === 'COMP' && $crypto['slug'] === 'compound-coin') {
-                continue;
-            }
-
-            // quick fix for UNI multiple currency
-            if ($crypto['symbol'] === 'GRT' && $crypto['slug'] !== 'the-graph') {
-                continue;
-            }
-
-            $data[] = [
-                'short'  => $crypto['symbol'],
-                'price'  => $crypto['quote']['USD']['price'],
-                'change' => $crypto['quote']['USD']['percent_change_24h'],
-            ];
         }
 
         return $data;
