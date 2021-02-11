@@ -107,7 +107,8 @@ class Response
         $price = round($price, $fractional);
 
         // refs to https://github.com/pgrimaud/lametric-cryptocurrencies/issues/14
-        if ($fractional === 2) {
+        $priceExploded = explode('.', (string)$price);
+        if ($fractional <= 2 && isset($priceExploded[1]) && strlen($priceExploded[1]) === 1) {
             $price = number_format($price, 2, '.', '');
         }
 
