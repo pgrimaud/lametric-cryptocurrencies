@@ -107,9 +107,8 @@ class Price
         $data = [];
 
         foreach ($sources['data'] as $crypto) {
-
             // manage multiple currencies with the same symbol
-            if (!isset($crypto['symbol'])) {
+            if (!isset($data[$crypto['symbol']] )) {
                 $data[$crypto['symbol']] = [
                     'short'  => $crypto['symbol'],
                     'price'  => $crypto['quote']['USD']['price'],
