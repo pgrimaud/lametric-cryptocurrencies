@@ -106,6 +106,11 @@ class Response
 
         $price = round($price, $fractional);
 
+        // refs to https://github.com/pgrimaud/lametric-cryptocurrencies/issues/14
+        if ($fractional === 2) {
+            $price = number_format($price, 2, '.', '');
+        }
+
         // set $ position
         if ($position === self::POSITION_BEFORE) {
             $price = '$' . $price;
