@@ -108,7 +108,7 @@ class Response
 
         // refs to https://github.com/pgrimaud/lametric-cryptocurrencies/issues/14
         $priceExploded = explode('.', (string)$price);
-        if ($fractional <= 3 && isset($priceExploded[1]) && strlen($priceExploded[1]) === 1) {
+        if ($fractional >= 3 && isset($priceExploded[1]) && strlen($priceExploded[1]) === 1) {
             $price = number_format($price, 2, '.', '');
         }
 
