@@ -17,9 +17,10 @@ class Validator
      * @var array
      */
     private array $data = [
-        'codes'  => [],
-        'change' => false,
-        'names'  => true,
+        'codes'    => [],
+        'change'   => false,
+        'names'    => true,
+        'currency' => 'USD',
     ];
 
     /**
@@ -36,11 +37,6 @@ class Validator
      */
     public function check(): void
     {
-        // compatibility
-        if (isset($this->parameters['currency'])) {
-            throw new NotUpdatedException();
-        }
-
         for ($i = 1; $i <= 10; $i++) {
             $key = 'currency' . $i;
             if (isset($this->parameters[$key]) && $this->parameters[$key] !== '') {

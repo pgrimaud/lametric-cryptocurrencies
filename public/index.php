@@ -15,7 +15,7 @@ use Crypto\Price;
 use Crypto\Response;
 use Crypto\Validator;
 
-//header("Content-Type: application/json");
+header("Content-Type: application/json");
 
 $response = new Response();
 
