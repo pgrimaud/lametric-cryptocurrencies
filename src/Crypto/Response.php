@@ -75,7 +75,7 @@ class Response
                 $frames[] = [
                     'index' => $index,
                     'text'  => ($currency->getChange() > 0 ? '+' : '') . $currency->getChange() . '%',
-                    'icon'  => ($currency->getChange() > 0 ? IconHelper::PRICE_UP : IconHelper::PRICE_DOWN),
+                    'icon'  => IconHelper::getChangeIcon($currency->getChange()),
                 ];
                 $index++;
             }

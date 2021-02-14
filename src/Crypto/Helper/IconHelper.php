@@ -8,6 +8,7 @@ class IconHelper
 {
     const PRICE_UP = 'i7465';
     const PRICE_DOWN = 'i7463';
+    const PRICE_NEUTRAL = 'i8432';
 
     const ICONS = [
         'BTC'   => '857',
@@ -72,5 +73,21 @@ class IconHelper
     public static function getIcon(string $code): ?string
     {
         return isset(self::ICONS[$code]) ? 'i' . self::ICONS[$code] : null;
+    }
+
+    /**
+     * @param float $price
+     *
+     * @return string
+     */
+    public static function getChangeIcon(float $price): string
+    {
+        if ($price === 0.0) {
+            return self::PRICE_NEUTRAL;
+        } elseif ($price > 0) {
+            return self::PRICE_UP;
+        } else {
+            return self::PRICE_DOWN;
+        }
     }
 }
