@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Crypto;
 
 use Crypto\Helper\IconHelper;
+use Crypto\Helper\SymbolHelper;
 
 class Response
 {
@@ -42,10 +43,11 @@ class Response
     /**
      * @param CurrencyCollection $collection
      * @param string $position
+     * @param string $currencyToShow
      *
      * @return string
      */
-    public function data(CurrencyCollection $collection, string $position): string
+    public function data(CurrencyCollection $collection, string $position, string $currencyToShow): string
     {
         $frames = [];
 
@@ -64,7 +66,7 @@ class Response
 
             $frames[] = [
                 'index' => $index,
-                'text'  => $this->formatPrice($currency->getPrice(), $position),
+                'text'  => $this->formatPrice($currency->getPrice(), $position, $currencyToShow),
                 'icon'  => IconHelper::getIcon($currency->getCode()),
             ];
             $index++;
@@ -87,10 +89,11 @@ class Response
     /**
      * @param float $price
      * @param string $position
+     * @param string $currency
      *
      * @return string
      */
-    private function formatPrice(float $price = 0.0, string $position = ''): string
+    private function formatPrice(float $price = 0.0, string $position = '', string $currency = ''): string
     {
         if ($price < 10) {
             $fractional = 4;
@@ -114,9 +117,9 @@ class Response
 
         // set $ position
         if ($position === self::POSITION_BEFORE) {
-            $price = '$' . $price;
+            $price = SymbolHelper::getSymbol($currency) . $price;
         } else if ($position === self::POSITION_AFTER) {
-            $price = $price . '$';
+            $price = $price . SymbolHelper::getSymbol($currency);
         }
 
         return (string)$price;

@@ -10,7 +10,7 @@ use Predis\Client as PredisClient;
 
 class Price
 {
-    const DATA_ENDPOINT = 'https://web-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?convert=USD&cryptocurrency_type=all&limit=4999';
+    const DATA_ENDPOINT = 'https://web-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?cryptocurrency_type=all&limit=4999&convert=';
 
     /**
      * @var GuzzleClient
@@ -40,19 +40,21 @@ class Price
     }
 
     /**
+     * @param string $currencyToShow
      * @return void
+     *
      * @throws CryptoNotFoundException
      * @throws \GuzzleHttp\Exception\GuzzleException
      */
-    public function getValue(): void
+    public function getValue(string $currencyToShow): void
     {
-        $redisKey = 'lametric:cryptocurrencies';
+        $redisKey = 'lametric:cryptocurrencies:' . strtolower($currencyToShow);
 
         $pricesFile = $this->predisClient->get($redisKey);
         $ttl        = $this->predisClient->ttl($redisKey);
 
         if (!$pricesFile || $ttl < 0) {
-            $rawData = $this->fetchData();
+            $rawData = $this->fetchData($currencyToShow);
 
             $prices = $this->formatData($rawData);
 
@@ -94,25 +96,28 @@ class Price
     }
 
     /**
+     * @param string $currencyToShow
+     *
      * @return array
      *
      * @throws \GuzzleHttp\Exception\GuzzleException
      */
-    private function fetchData(): array
+    private function fetchData(string $currencyToShow): array
     {
-        $resource = $this->guzzleClient->request('GET', self::DATA_ENDPOINT);
+        $endpoint = self::DATA_ENDPOINT . $currencyToShow;
+        $resource = $this->guzzleClient->request('GET', $endpoint);
 
         $sources = json_decode((string)$resource->getBody(), true);
-
+        
         $data = [];
 
         foreach ($sources['data'] as $crypto) {
             // manage multiple currencies with the same symbol
-            if (!isset($data[$crypto['symbol']] )) {
+            if (!isset($data[$crypto['symbol']])) {
                 $data[$crypto['symbol']] = [
                     'short'  => $crypto['symbol'],
-                    'price'  => $crypto['quote']['USD']['price'],
-                    'change' => $crypto['quote']['USD']['percent_change_24h'],
+                    'price'  => $crypto['quote'][$currencyToShow]['price'],
+                    'change' => $crypto['quote'][$currencyToShow]['percent_change_24h'],
                 ];
             }
         }
