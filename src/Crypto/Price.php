@@ -61,6 +61,11 @@ class Price
             // save to redis
             $this->predisClient->set($redisKey, json_encode($prices));
             $this->predisClient->expireat($redisKey, strtotime("+1 minute"));
+
+            // manage error on results
+            if (count($prices) === 0) {
+                $this->getValue($currencyToShow);
+            }
         } else {
             $prices = json_decode($pricesFile, true);
         }
@@ -118,7 +123,7 @@ class Price
                 // manage error on results
                 if (!isset($crypto['quote'][$currencyToShow]['price'])) {
                     sleep(1);
-                    $this->fetchData($currencyToShow);
+                    return $this->fetchData($currencyToShow);
                 }
 
                 $data[$crypto['symbol']] = [
