@@ -47,7 +47,11 @@ try {
 
 } catch (Exception $exception) {
 
-    $body = json_decode((string)$exception->getResponse()->getBody(true), true);
+    if (!$exception->getResponse()) {
+        echo $response->error();
+    }
+
+    $body = json_decode((string) $exception->getResponse()->getBody(true), true);
 
     if (isset($body['status']['error_code']) && $body['status']['error_code'] === 400) {
         echo $response->error($body['status']['error_message']);

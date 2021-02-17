@@ -28,8 +28,8 @@ class Price
     private CurrencyCollection $collection;
 
     /**
-     * @param GuzzleClient $guzzleClient
-     * @param PredisClient $predisClient
+     * @param GuzzleClient       $guzzleClient
+     * @param PredisClient       $predisClient
      * @param CurrencyCollection $collection
      */
     public function __construct(GuzzleClient $guzzleClient, PredisClient $predisClient, CurrencyCollection $collection)
@@ -68,8 +68,8 @@ class Price
         /** @var Currency $currency */
         foreach ($this->collection->getCurrencies() as $k => $currency) {
             if (isset($prices[$currency->getCode()])) {
-                $currency->setPrice((float)$prices[$currency->getCode()]['price']);
-                $currency->setChange((float)$prices[$currency->getCode()]['change']);
+                $currency->setPrice((float) $prices[$currency->getCode()]['price']);
+                $currency->setChange((float) $prices[$currency->getCode()]['change']);
             } else {
                 throw new CryptoNotFoundException($currency->getCode());
             }
@@ -107,13 +107,20 @@ class Price
         $endpoint = self::DATA_ENDPOINT . $currencyToShow;
         $resource = $this->guzzleClient->request('GET', $endpoint);
 
-        $sources = json_decode((string)$resource->getBody(), true);
-        
+        $sources = json_decode((string) $resource->getBody(), true);
+
         $data = [];
 
         foreach ($sources['data'] as $crypto) {
             // manage multiple currencies with the same symbol
             if (!isset($data[$crypto['symbol']])) {
+
+                // manage error on results
+                if (!isset($crypto['quote'][$currencyToShow]['price'])) {
+                    sleep(1);
+                    $this->fetchData($currencyToShow);
+                }
+
                 $data[$crypto['symbol']] = [
                     'short'  => $crypto['symbol'],
                     'price'  => $crypto['quote'][$currencyToShow]['price'],
