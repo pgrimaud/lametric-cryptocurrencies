@@ -68,6 +68,7 @@ class IconHelper
         'MIOTA' => '15384',
         'BEST'  => '43754',
         'BTT'   => '32980',
+        'DGB'   => '43924',
     ];
 
     /**
