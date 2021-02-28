@@ -72,6 +72,7 @@ class IconHelper
         'TFUEL' => '43930',
         'THETA' => '43931',
         'PI'    => '43932',
+        'AKT'   => '44071',
     ];
 
     /**
