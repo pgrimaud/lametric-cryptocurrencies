@@ -47,8 +47,9 @@ try {
 
 } catch (Exception $exception) {
 
-    if (!$exception->getResponse()) {
+    if (!method_exists($exception, 'getResponse') || !$exception->getResponse()) {
         echo $response->error();
+        exit;
     }
 
     $body = json_decode((string) $exception->getResponse()->getBody(true), true);

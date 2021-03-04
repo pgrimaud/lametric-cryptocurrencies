@@ -93,7 +93,7 @@ class Price
         foreach ($data as $currency) {
             $formattedData[$currency['short']] = [
                 'price'  => $currency['price'],
-                'change' => round($currency['change'], 2),
+                'change' => round((float)$currency['change'], 2),
             ];
         }
 
@@ -120,10 +120,9 @@ class Price
             // manage multiple currencies with the same symbol
             if (!isset($data[$crypto['symbol']])) {
 
-                // manage error on results
+                // manage error on results // maybe next time?
                 if (!isset($crypto['quote'][$currencyToShow]['price'])) {
-                    sleep(1);
-                    return $this->fetchData($currencyToShow);
+                    exit;
                 }
 
                 $data[$crypto['symbol']] = [
