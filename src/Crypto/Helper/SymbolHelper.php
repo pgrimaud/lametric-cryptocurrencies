@@ -11,6 +11,7 @@ class SymbolHelper
         'EUR' => '€',
         'GBP' => '£',
         'JPY' => '¥',
+        'SEK' => 'kr'
     ];
 
     /**
