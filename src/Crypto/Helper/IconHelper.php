@@ -85,6 +85,7 @@ class IconHelper
         'SWIRL' => '44651',
         'GROOT' => '44652',
         'RAZOR' => '44653',
+        'POODL' => '44718',
     ];
 
     /**
