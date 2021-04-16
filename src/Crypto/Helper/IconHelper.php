@@ -12,7 +12,7 @@ class IconHelper
 
     const ICONS = [
         'BTC'   => '857',
-        'ETH'   => '9013',
+        'ETH'   => '44062',
         'XRP'   => '10014',
         'ADA'   => '15385',
         'LTC'   => '17376',
@@ -87,6 +87,8 @@ class IconHelper
         'RAZOR' => '44653',
         'POODL' => '44718',
         'EGLD'  => '44836',
+        'ENJ'   => '43283',
+        'CHZ'   => '44908',
     ];
 
     /**
