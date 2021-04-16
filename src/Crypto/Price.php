@@ -13,30 +13,12 @@ class Price
     const DATA_ENDPOINT = 'https://web-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?cryptocurrency_type=all&limit=4999&convert=';
 
     /**
-     * @var GuzzleClient
-     */
-    private GuzzleClient $guzzleClient;
-
-    /**
-     * @var PredisClient
-     */
-    private PredisClient $predisClient;
-
-    /**
-     * @var CurrencyCollection
-     */
-    private CurrencyCollection $collection;
-
-    /**
      * @param GuzzleClient       $guzzleClient
      * @param PredisClient       $predisClient
      * @param CurrencyCollection $collection
      */
-    public function __construct(GuzzleClient $guzzleClient, PredisClient $predisClient, CurrencyCollection $collection)
+    public function __construct(private GuzzleClient $guzzleClient, private PredisClient $predisClient, private CurrencyCollection $collection)
     {
-        $this->guzzleClient = $guzzleClient;
-        $this->predisClient = $predisClient;
-        $this->collection   = $collection;
     }
 
     /**
@@ -93,7 +75,7 @@ class Price
         foreach ($data as $currency) {
             $formattedData[$currency['short']] = [
                 'price'  => $currency['price'],
-                'change' => round((float)$currency['change'], 2),
+                'change' => round((float) $currency['change'], 2),
             ];
         }
 

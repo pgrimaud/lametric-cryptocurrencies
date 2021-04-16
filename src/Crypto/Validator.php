@@ -11,11 +11,6 @@ class Validator
     /**
      * @var array
      */
-    private array $parameters = [];
-
-    /**
-     * @var array
-     */
     private array $data = [
         'codes'    => [],
         'change'   => false,
@@ -27,9 +22,8 @@ class Validator
      * Validation constructor.
      * @param $parameters
      */
-    public function __construct(array $parameters)
+    public function __construct(private array $parameters)
     {
-        $this->parameters = $parameters;
     }
 
     /**
