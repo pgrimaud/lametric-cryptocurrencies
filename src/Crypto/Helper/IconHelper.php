@@ -99,6 +99,8 @@ class IconHelper
         'BUNNY' => '45376',
         'MATIC' => '45377',
         'QUICK' => '45378',
+        'VAL'   => '45384',
+        'XOR'   => '45385',
     ];
 
     /**

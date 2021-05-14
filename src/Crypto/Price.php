@@ -100,7 +100,8 @@ class Price
 
         foreach ($sources['data'] as $crypto) {
             // manage multiple currencies with the same symbol
-            if (!isset($data[$crypto['symbol']])) {
+            // & override VAL value
+            if (!isset($data[$crypto['symbol']]) || $data[$crypto['symbol']] === 'VAL') {
 
                 // manage error on results // maybe next time?
                 if (!isset($crypto['quote'][$currencyToShow]['price'])) {
