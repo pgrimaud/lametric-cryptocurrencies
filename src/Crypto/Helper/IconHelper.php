@@ -123,6 +123,7 @@ class IconHelper
         'TRB'     => '45323',
         'NKN'     => '45720',
         'POOCOIN' => '45854',
+        'LUNA'    => '45994',
     ];
 
     /**
