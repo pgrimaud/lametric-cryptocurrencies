@@ -34,7 +34,7 @@ class Validator
         for ($i = 1; $i <= 20; $i++) {
             $key = 'currency' . $i;
             if (isset($this->parameters[$key]) && $this->parameters[$key] !== '') {
-                $this->data['codes'][] = strtoupper($this->parameters[$key]);
+                $this->data['codes'][] = strtoupper(trim($this->parameters[$key]));
             }
         }
 
