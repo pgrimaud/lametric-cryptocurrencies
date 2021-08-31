@@ -48,7 +48,13 @@ class Validator
         $this->data['currency'] = (isset($this->parameters['currency']) && $this->parameters['currency'] !== '') ?
             strtoupper((string) $this->parameters['currency']) : 'USD'; // USD is default
 
+        // fix for currencies (BC)
         $this->data['currency'] = $this->data['currency'] !== '<NULL>' ? $this->data['currency'] : 'USD';
+
+        if (str_contains($this->data['currency'], ',')) {
+            $this->data['currency'] = explode(',', $this->data['currency'])[0];
+        }
+
     }
 
     /**
