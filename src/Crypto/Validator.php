@@ -46,7 +46,9 @@ class Validator
         $this->data['names']    = !isset($this->parameters['show_label']) || strtolower($this->parameters['show_label']) === 'yes';
         $this->data['position'] = $this->parameters['position'] ?? Response::POSITION_AFTER; // after is default position
         $this->data['currency'] = (isset($this->parameters['currency']) && $this->parameters['currency'] !== '') ?
-            strtoupper((string)$this->parameters['currency']) : 'USD'; // USD is default
+            strtoupper((string) $this->parameters['currency']) : 'USD'; // USD is default
+
+        $this->data['currency'] = $this->data['currency'] !== '<NULL>' ? $this->data['currency'] : 'USD';
     }
 
     /**
