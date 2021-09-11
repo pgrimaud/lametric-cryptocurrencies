@@ -56,6 +56,8 @@ try {
 
     if (isset($body['status']['error_code']) && $body['status']['error_code'] === 400) {
         echo $response->error($body['status']['error_message']);
+    } else if($body['error']){
+        echo $response->error($body['error']);
     } else {
         echo $response->error();
     }
