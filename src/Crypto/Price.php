@@ -17,7 +17,11 @@ class Price
      * @param PredisClient       $predisClient
      * @param CurrencyCollection $collection
      */
-    public function __construct(private GuzzleClient $guzzleClient, private PredisClient $predisClient, private CurrencyCollection $collection)
+    public function __construct(
+        private GuzzleClient $guzzleClient,
+        private PredisClient $predisClient,
+        private CurrencyCollection $collection
+    )
     {
     }
 
@@ -38,22 +42,22 @@ class Price
         if (!$pricesFile || $ttl < 0) {
             $rawData = $this->fetchData($currencyToShow);
 
-            $prices = $this->formatData($rawData);
-
             // save to redis
-            $this->predisClient->set($redisKey, json_encode($prices));
-            $this->predisClient->expireat($redisKey, strtotime("+1 minute"));
+            $this->predisClient->set($redisKey, json_encode($rawData));
+            $this->predisClient->expireat($redisKey, strtotime('+2 minutes'));
 
             // manage error on results
-            if (count($prices) === 0) {
+            if (count($rawData) === 0) {
                 $this->getValue($currencyToShow);
             }
         } else {
-            $prices = json_decode($pricesFile, true);
+            $rawData = json_decode($pricesFile, true);
         }
 
+        $prices = $this->formatData($rawData);
+
         /** @var Currency $currency */
-        foreach ($this->collection->getCurrencies() as $k => $currency) {
+        foreach ($this->collection->getCurrencies() as $currency) {
             if (isset($prices[$currency->getCode()])) {
                 $currency->setPrice((float) $prices[$currency->getCode()]['price']);
                 $currency->setChange((float) $prices[$currency->getCode()]['change']);
