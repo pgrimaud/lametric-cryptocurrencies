@@ -45,7 +45,7 @@ try {
     $currencyCode = $exception->getMessage();
     echo $response->error('Invalid currency code ' . $currencyCode . '! Please check your configuration!');
 
-}/* catch (Exception $exception) {
+} catch (Exception $exception) {
 
     if (!method_exists($exception, 'getResponse') || !$exception->getResponse()) {
         echo $response->error();
@@ -59,4 +59,4 @@ try {
     } else {
         echo $response->error();
     }
-}*/
+}
