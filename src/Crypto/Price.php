@@ -42,7 +42,7 @@ class Price
 
             // save to redis
             $this->predisClient->set($redisKey, json_encode($prices));
-            $this->predisClient->expireat($redisKey, strtotime("+0,133 minute"));
+            $this->predisClient->expireat($redisKey, strtotime("+0,025 minute"));
 
             // manage error on results
             if (count($prices) === 0) {
