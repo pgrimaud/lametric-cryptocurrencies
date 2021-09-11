@@ -45,11 +45,13 @@ class Validator
         $this->data['change']   = isset($this->parameters['change']) && strtolower($this->parameters['change']) === 'yes';
         $this->data['names']    = !isset($this->parameters['show_label']) || strtolower($this->parameters['show_label']) === 'yes';
         $this->data['position'] = $this->parameters['position'] ?? Response::POSITION_AFTER; // after is default position
-        $this->data['currency'] = (isset($this->parameters['currency']) && $this->parameters['currency'] !== '') ?
-            strtoupper((string) $this->parameters['currency']) : 'USD'; // USD is default
+        $this->data['currency'] = strtoupper((isset($this->parameters['currency']) && $this->parameters['currency'] !== '') ?
+            (string) $this->parameters['currency'] : 'USD'); // USD is default
 
         // fix for currencies (BC)
-        $this->data['currency'] = $this->data['currency'] !== '<NULL>' ? $this->data['currency'] : 'USD';
+        if (in_array($this->data['currency'], ['USDT', 'BUSD', '<NULL>'])) {
+            $this->data['currency'] = 'USD';
+        }
 
         if (str_contains($this->data['currency'], ',')) {
             $this->data['currency'] = explode(',', $this->data['currency'])[0];
