@@ -1,6 +1,6 @@
 # Cryptocurrencies for LaMetric
 
-The ultimate cryptocurrencies for LaMetric! More than 4000 currencies available!
+The ultimate cryptocurrencies for LaMetric! More than 5000 currencies available!
 
 ![Bitcoin](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/btc.gif)
 ![Ethereum](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/eth.gif)
