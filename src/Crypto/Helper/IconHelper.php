@@ -138,6 +138,7 @@ class IconHelper
         'CKB'     => '46791',
         'IOTX'    => '46800',
         'FTM'     => '46805',
+        'SPIRIT'  => '46807',        
     ];
 
     /**
