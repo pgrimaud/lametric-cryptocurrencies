@@ -140,6 +140,7 @@ class IconHelper
         'FTM'     => '46811',
         'SPIRIT'  => '46807',
         'FUSE'    => '46812',
+        'MOONLIGHT'   => '46813',        
     ];
 
     /**
