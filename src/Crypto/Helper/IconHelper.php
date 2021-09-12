@@ -141,7 +141,8 @@ class IconHelper
         'SPIRIT'  => '46807',
         'FUSE'    => '46812',
         'MOONLIGHT'   => '46813',
-        'NUTS'   => '46814',         
+        'NUTS'    => '46814',
+        'BANANA'  => '46815',          
     ];
 
     /**
