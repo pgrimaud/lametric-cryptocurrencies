@@ -40,21 +40,19 @@ class Price
         $ttl        = $this->predisClient->ttl($redisKey);
 
         if (!$pricesFile || $ttl < 0) {
-            $rawData = $this->fetchData($currencyToShow);
+            $prices = $this->fetchData($currencyToShow);
 
             // save to redis
-            $this->predisClient->set($redisKey, json_encode($rawData));
+            $this->predisClient->set($redisKey, json_encode($prices));
             $this->predisClient->expireat($redisKey, strtotime('+2 minutes'));
 
             // manage error on results
-            if (count($rawData) === 0) {
+            if (count($prices) === 0) {
                 $this->getValue($currencyToShow);
             }
         } else {
-            $rawData = json_decode($pricesFile, true);
+            $prices = json_decode($pricesFile, true);
         }
-
-        $prices = $this->formatData($rawData);
 
         /** @var Currency $currency */
         foreach ($this->collection->getCurrencies() as $currency) {
@@ -65,25 +63,6 @@ class Price
                 throw new CryptoNotFoundException($currency->getCode());
             }
         }
-    }
-
-    /**
-     * @param $data
-     *
-     * @return array
-     */
-    public function formatData($data): array
-    {
-        $formattedData = [];
-
-        foreach ($data as $currency) {
-            $formattedData[$currency['short']] = [
-                'price'  => $currency['price'],
-                'change' => round((float) $currency['change'], 2),
-            ];
-        }
-
-        return $formattedData;
     }
 
     /**
@@ -115,7 +94,7 @@ class Price
                 $data[$crypto['symbol']] = [
                     'short'  => $crypto['symbol'],
                     'price'  => $crypto['quote'][$currencyToShow]['price'],
-                    'change' => $crypto['quote'][$currencyToShow]['percent_change_24h'],
+                    'change' => round((float) $crypto['quote'][$currencyToShow]['percent_change_24h'], 2),
                 ];
             }
         }
