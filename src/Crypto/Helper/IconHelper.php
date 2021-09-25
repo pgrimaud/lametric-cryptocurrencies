@@ -144,6 +144,7 @@ class IconHelper
         'NUTS'      => '46816',
         'BANANA'    => '46817',
         'COTI'      => '46825',
+        'AUTO'      => '46879',        
     ];
 
     /**
