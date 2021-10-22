@@ -147,6 +147,7 @@ class IconHelper
         'AUTO'      => '46879',
         'EDGE'      => '46848',
         'ORN'       => '46937',
+        'STAKE'     => '47213',
     ];
 
     /**
