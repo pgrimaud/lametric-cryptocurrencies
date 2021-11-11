@@ -150,6 +150,7 @@ class IconHelper
         'STAKE'     => '47215',
         'KDA'       => '47258',
         'SHIB'      => '47282',
+        'QRDO'      => '47420',
     ];
 
     /**
