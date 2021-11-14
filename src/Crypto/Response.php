@@ -42,12 +42,12 @@ class Response
 
     /**
      * @param CurrencyCollection $collection
-     * @param string $position
-     * @param string $currencyToShow
+     * @param string             $position
+     * @param string             $currencyToShow
      *
      * @return string
      */
-    public function data(CurrencyCollection $collection, string $position, string $currencyToShow): string
+    public function data(CurrencyCollection $collection, string $position, string $currencyToShow, string|int $format): string
     {
         $frames = [];
 
@@ -66,7 +66,7 @@ class Response
 
             $frames[] = [
                 'index' => $index,
-                'text'  => $this->formatPrice($currency->getPrice(), $position, $currencyToShow),
+                'text'  => $this->formatPrice($format, $currency->getPrice(), $position, $currencyToShow),
                 'icon'  => IconHelper::getIcon($currency->getCode()),
             ];
             $index++;
@@ -87,30 +87,34 @@ class Response
     }
 
     /**
-     * @param float $price
+     * @param float  $price
      * @param string $position
      * @param string $currency
      *
      * @return string
      */
-    private function formatPrice(float $price = 0.0, string $position = '', string $currency = ''): string
+    private function formatPrice(string|int $format, float $price = 0.0, string $position = '', string $currency = ''): string
     {
-        if ($price < 10) {
-            $fractional = 4;
-        } elseif ($price >= 10 && $price < 100) {
-            $fractional = 3;
-        } elseif ($price >= 100 && $price < 1000) {
-            $fractional = 2;
-        } elseif ($price >= 1000 && $price < 10000) {
-            $fractional = 1;
+        if ($format === 'default') {
+            if ($price < 10) {
+                $fractional = 4;
+            } elseif ($price >= 10 && $price < 100) {
+                $fractional = 3;
+            } elseif ($price >= 100 && $price < 1000) {
+                $fractional = 2;
+            } elseif ($price >= 1000 && $price < 10000) {
+                $fractional = 1;
+            } else {
+                $fractional = 0;
+            }
         } else {
-            $fractional = 0;
+            $fractional = $format;
         }
 
         $price = round($price, $fractional);
 
         // refs to https://github.com/pgrimaud/lametric-cryptocurrencies/issues/14
-        $priceExploded = explode('.', (string)$price);
+        $priceExploded = explode('.', (string) $price);
         if ($fractional >= 3 && isset($priceExploded[1]) && strlen($priceExploded[1]) === 1) {
             $price = number_format($price, 2, '.', '');
         }
@@ -122,6 +126,6 @@ class Response
             $price = $price . SymbolHelper::getSymbol($currency);
         }
 
-        return (string)$price;
+        return (string) $price;
     }
 }

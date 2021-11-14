@@ -34,7 +34,7 @@ try {
     $price = new Price(new \GuzzleHttp\Client(), new \Predis\Client(), $collection);
     $price->getValue($validator->getData()['currency']);
 
-    echo $response->data($price->getCollection(), $validator->getData()['position'], $validator->getData()['currency']);
+    echo $response->data($price->getCollection(), $validator->getData()['position'], $validator->getData()['currency'],  $validator->getData()['rounding']);
 
 } catch (NotUpdatedException $exception) {
 

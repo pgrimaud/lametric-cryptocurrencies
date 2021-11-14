@@ -16,6 +16,7 @@ class Validator
         'change'   => false,
         'names'    => true,
         'currency' => 'USD',
+        'rounding' => 'default'
     ];
 
     /**
@@ -47,6 +48,16 @@ class Validator
         $this->data['position'] = $this->parameters['position'] ?? Response::POSITION_AFTER; // after is default position
         $this->data['currency'] = strtoupper((isset($this->parameters['currency']) && $this->parameters['currency'] !== '') ?
             (string) $this->parameters['currency'] : 'USD'); // USD is default
+
+        if (isset($this->parameters['rounding'])) {
+            if ($this->parameters['rounding'] === 'default') {
+                $this->data['rounding'] = 'default';
+            } else {
+                $this->data['rounding'] = (int) $this->parameters['rounding'];
+            }
+        } else {
+            $this->data['rounding'] = 'default';
+        }
 
         // fix for currencies (BC)
         if (in_array($this->data['currency'], ['USDT', 'BUSD', '<NULL>'])) {
