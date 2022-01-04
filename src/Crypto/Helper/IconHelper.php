@@ -6,8 +6,8 @@ namespace Crypto\Helper;
 
 class IconHelper
 {
-    const PRICE_UP = 'i7465';
-    const PRICE_DOWN = 'i7463';
+    const PRICE_UP = 'i48094';
+    const PRICE_DOWN = 'i48093';
     const PRICE_NEUTRAL = 'i8432';
 
     const ICONS = [
