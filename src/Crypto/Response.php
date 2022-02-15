@@ -33,8 +33,8 @@ class Response
             'frames' => [
                 [
                     'index' => 0,
-                    'text'  => $value,
-                    'icon'  => 'null',
+                    'text' => $value,
+                    'icon' => 'null',
                 ],
             ],
         ]);
@@ -42,8 +42,8 @@ class Response
 
     /**
      * @param CurrencyCollection $collection
-     * @param string             $position
-     * @param string             $currencyToShow
+     * @param string $position
+     * @param string $currencyToShow
      *
      * @return string
      */
@@ -58,24 +58,24 @@ class Response
             if ($currency->showName()) {
                 $frames[] = [
                     'index' => $index,
-                    'text'  => $currency->getCode(),
-                    'icon'  => IconHelper::getIcon($currency->getCode()),
+                    'text' => $currency->getCode(),
+                    'icon' => IconHelper::getIcon($currency->getCode()),
                 ];
                 $index++;
             }
 
             $frames[] = [
                 'index' => $index,
-                'text'  => $this->formatPrice($format, $currency->getPrice(), $position, $currencyToShow),
-                'icon'  => IconHelper::getIcon($currency->getCode()),
+                'text' => $this->formatPrice($format, $currency->getPrice(), $position, $currencyToShow),
+                'icon' => IconHelper::getIcon($currency->getCode()),
             ];
             $index++;
 
             if ($currency->isShowChange()) {
                 $frames[] = [
                     'index' => $index,
-                    'text'  => ($currency->getChange() > 0 ? '+' : '') . $currency->getChange() . '%',
-                    'icon'  => IconHelper::getChangeIcon($currency->getChange()),
+                    'text' => ($currency->getChange() > 0 ? '+' : '') . $currency->getChange() . '%',
+                    'icon' => IconHelper::getChangeIcon($currency->getChange()),
                 ];
                 $index++;
             }
@@ -87,7 +87,7 @@ class Response
     }
 
     /**
-     * @param float  $price
+     * @param float $price
      * @param string $position
      * @param string $currency
      *
@@ -96,7 +96,11 @@ class Response
     private function formatPrice(string|int $format, float $price = 0.0, string $position = '', string $currency = ''): string
     {
         if ($format === 'default') {
-            if ($price < 10) {
+            if ($price < 0.1) {
+                $fractional = 6;
+            } elseif ($price < 1) {
+                $fractional = 5;
+            } elseif ($price < 10) {
                 $fractional = 4;
             } elseif ($price >= 10 && $price < 100) {
                 $fractional = 3;
@@ -113,8 +117,13 @@ class Response
 
         $price = round($price, $fractional);
 
+        // quick fix for very low price
+        if ($fractional >= 5) {
+            $price = number_format($price, $fractional);
+        }
+
         // refs to https://github.com/pgrimaud/lametric-cryptocurrencies/issues/14
-        $priceExploded = explode('.', (string) $price);
+        $priceExploded = explode('.', (string)$price);
         if ($fractional >= 3 && isset($priceExploded[1]) && strlen($priceExploded[1]) === 1) {
             $price = number_format($price, 2, '.', '');
         }
@@ -126,6 +135,6 @@ class Response
             $price = $price . SymbolHelper::getSymbol($currency);
         }
 
-        return (string) $price;
+        return (string)$price;
     }
 }
