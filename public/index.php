@@ -8,7 +8,8 @@ $config = require_once __DIR__ . '/../config/parameters.php';
 Sentry\init(['dsn' => $config['sentry_key']]);
 
 use Crypto\{Currency, CurrencyCollection};
-use Crypto\Exception\{CryptoNotFoundException, NotUpdatedException};
+use Crypto\Exception\{CryptoNotFoundException, CurrencyNotFoundException, NotUpdatedException};
+use Predis\Client;
 use Crypto\{Price, Response, Validator};
 
 header("Content-Type: application/json");
@@ -16,7 +17,6 @@ header("Content-Type: application/json");
 $response = new Response();
 
 try {
-
     $validator = new Validator($_GET);
     $validator->check();
 
@@ -30,8 +30,7 @@ try {
 
         $collection->addCurrency($currency);
     }
-
-    $price = new Price(new \GuzzleHttp\Client(), new \Predis\Client(), $collection);
+    $price = new Price(new Client(), $collection);
     $price->getValue($validator->getData()['currency']);
 
     echo $response->data($price->getCollection(), $validator->getData()['position'], $validator->getData()['currency'],  $validator->getData()['rounding']);
@@ -44,6 +43,10 @@ try {
 
     $currencyCode = $exception->getMessage();
     echo $response->error('Invalid currency code ' . $currencyCode . '! Please check your configuration!');
+
+} catch (CurrencyNotFoundException $exception) {
+
+    echo $response->error($exception->getMessage());
 
 } catch (Exception $exception) {
 
