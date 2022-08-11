@@ -9,7 +9,7 @@ $http = new GuzzleClient();
 
 $allCurrencies = [];
 
-for ($i = 1; $i <= 40; $i++) {
+for ($i = 1; $i <= 25; $i++) {
     $response = $http->request('GET', 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&per_page=250&page=' . $i);
 
     $currencies = json_decode(strval($response->getBody()), true);
