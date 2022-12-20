@@ -9,7 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      #- uses: symfonycorp/security-checker-action@v2
+      - name: "Setup PHP"
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 8.1
+          tools: composer
+      - name: Composer audit
+        run: composer audit
       - name: Deploy to production
         uses: appleboy/ssh-action@master
         with:
