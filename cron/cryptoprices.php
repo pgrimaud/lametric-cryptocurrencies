@@ -13,6 +13,8 @@ $allCurrencies = [];
 
 for ($i = 1; $i <= 25; $i++) {
 
+    echo 'Page ' . $i . PHP_EOL;
+
     if (isset($parameters['proxies']) && count($parameters['proxies']) > 0) {
         $totalOfProxies = count($parameters['proxies']);
         $headers = [
@@ -55,3 +57,5 @@ $predis = new PredisClient();
 $redisObject = $predis->get($redisKey);
 
 $predis->set($redisKey, json_encode($allCurrencies));
+
+exit(0);

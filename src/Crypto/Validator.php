@@ -35,6 +35,12 @@ class Validator
         for ($i = 1; $i <= 20; $i++) {
             $key = 'currency' . $i;
             if (isset($this->parameters[$key]) && $this->parameters[$key] !== '') {
+
+                // skip empty fields (LaMetric bug 2.3.2)
+                if (trim($this->parameters[$key]) === '') {
+                    continue;
+                }
+
                 $this->data['codes'][] = strtoupper(trim($this->parameters[$key]));
             }
         }
