@@ -2,6 +2,8 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
+$parameters = require_once __DIR__ . '/../config/parameters.php';
+
 use GuzzleHttp\Client as GuzzleClient;
 use Predis\Client as PredisClient;
 
@@ -10,7 +12,22 @@ $http = new GuzzleClient();
 $allCurrencies = [];
 
 for ($i = 1; $i <= 25; $i++) {
-    $response = $http->request('GET', 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&per_page=250&page=' . $i);
+
+    if (isset($parameters['proxies']) && count($parameters['proxies']) > 0) {
+        $totalOfProxies = count($parameters['proxies']);
+        $headers = [
+            'proxy' => $parameters['proxies'][rand(0, $totalOfProxies - 1)],
+            'force_ip_resolve' => 'v4',
+        ];
+    } else {
+        $headers = [];
+    }
+
+    $response = $http->request(
+        'GET',
+        'https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&per_page=250&page=' . $i,
+        $headers
+    );
 
     $currencies = json_decode(strval($response->getBody()), true);
 
