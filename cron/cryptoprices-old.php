@@ -19,7 +19,7 @@ $redisObject = $predis->get($redisKey);
 
 $currencies = $redisObject ? json_decode($redisObject, true) : [];
 
-for ($i = 1; $i <= 2; $i++) {
+for ($i = 1; $i <= 25; $i++) {
 
     echo 'Page ' . $i;
 
@@ -34,21 +34,18 @@ for ($i = 1; $i <= 2; $i++) {
     }
 
     try {
-        $uri = 'https://api.coincap.io/v2/assets?limit=2000' . ($i > 1 ? '&offset=' . (($i - 1) * 2000) : '');
-
         $response = $http->request(
             'GET',
-            $uri,
+            'https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&per_page=250&page=' . $i,
             $headers
         );
 
         $currencies = json_decode(strval($response->getBody()), true);
 
-        foreach ($currencies['data'] as $currency) {
-
+        foreach ($currencies as $currency) {
             $symbol = strtoupper($currency['symbol']);
-            $price = (float)$currency['priceUsd'];
-            $percent = (float)$currency['changePercent24Hr'];
+            $price = $currency['current_price'];
+            $percent = $currency['price_change_percentage_24h'];
 
             if (!isset($allCurrencies[$symbol])) {
                 $allCurrencies[$symbol] = [
