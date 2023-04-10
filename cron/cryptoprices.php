@@ -10,14 +10,12 @@ use Predis\Client as PredisClient;
 
 $http = new GuzzleClient();
 
-$allCurrencies = [];
-
 $redisKey = 'lametric:cryptocurrencies';
 
 $predis = new PredisClient();
 $redisObject = $predis->get($redisKey);
 
-$currencies = $redisObject ? json_decode($redisObject, true) : [];
+$allCurrencies = $redisObject ? json_decode($redisObject, true) : [];
 
 for ($i = 1; $i <= 10; $i++) {
 
@@ -58,7 +56,7 @@ for ($i = 1; $i <= 10; $i++) {
         }
 
     } catch (ClientException $e) {
-        echo ' : ' . $e->getCode() . ' with proxy ' . $proxy;
+        echo ' : ' . $e->getCode() . (isset($proxy) ? ' with proxy ' . $proxy : '');
     }
 
     echo PHP_EOL;
