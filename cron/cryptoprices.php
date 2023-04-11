@@ -47,12 +47,10 @@ for ($i = 1; $i <= 10; $i++) {
             $price = $currency['current_price'];
             $percent = $currency['price_change_percentage_24h'];
 
-            if (!isset($allCurrencies[$symbol])) {
-                $allCurrencies[$symbol] = [
-                    'price' => $price,
-                    'change' => $percent
-                ];
-            }
+            $allCurrencies[$symbol] = [
+                'price' => $price,
+                'change' => $percent
+            ];
         }
 
     } catch (ClientException $e) {
