@@ -17,51 +17,50 @@ $redisObject = $predis->get($redisKey);
 
 $allCurrencies = $redisObject ? json_decode($redisObject, true) : [];
 
-for ($i = 1; $i <= 10; $i++) {
+if (isset($parameters['proxies']) && count($parameters['proxies']) > 0) {
+    $totalOfProxies = count($parameters['proxies']);
+    $proxy = $parameters['proxies'][rand(0, $totalOfProxies - 1)];
 
-    echo 'Page ' . $i;
-
-    if (isset($parameters['proxies']) && count($parameters['proxies']) > 0) {
-        $totalOfProxies = count($parameters['proxies']);
-        $proxy = $parameters['proxies'][rand(0, $totalOfProxies - 1)];
-
-        $headers = [
-            'proxy' => $proxy,
-            'force_ip_resolve' => 'v4',
-        ];
-    } else {
-        $headers = [];
-    }
-
-    try {
-        $response = $http->request(
-            'GET',
-            'https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&per_page=250&page=' . $i,
-            $headers
-        );
-
-        $currencies = json_decode(strval($response->getBody()), true);
-
-        foreach ($currencies as $currency) {
-            $symbol = strtoupper($currency['symbol']);
-            $price = $currency['current_price'];
-            $percent = $currency['price_change_percentage_24h'];
-
-            $allCurrencies[$symbol] = [
-                'price' => $price,
-                'change' => $percent
-            ];
-        }
-
-    } catch (ClientException $e) {
-        echo ' : ' . $e->getCode() . (isset($proxy) ? ' with proxy ' . $proxy : '');
-    }
-
-    echo PHP_EOL;
-
-    // avoid 429 errors
-    sleep(1);
+    $options = [
+        'proxy' => $proxy,
+        'force_ip_resolve' => 'v4',
+    ];
+} else {
+    $options = [];
 }
+
+$options = array_merge($options, [
+    'headers' => [
+        'Accept' => 'application/json',
+        'Authorization' => 'Bearer ' . $parameters['api_key_cc'],
+    ]
+]);
+
+try {
+    $response = $http->request(
+        'GET',
+        'https://api.coinmarketcap.com/data-api/v3/cryptocurrency/listing?start=1&limit=10000&sortBy=market_cap',
+        $options
+    );
+
+    $currencies = json_decode(strval($response->getBody()), true);
+
+    foreach ($currencies['data']['cryptoCurrencyList'] as $currency) {
+        $symbol = strtoupper($currency['symbol']);
+        $price = $currency['quotes'][0]['price'];
+        $percent = $currency['quotes'][0]['percentChange24h'];
+
+        $allCurrencies[$symbol] = [
+            'price' => $price,
+            'change' => $percent
+        ];
+    }
+    echo date('Y-m-d H:i:s') . ' : ' . $response->getStatusCode() . (isset($proxy) ? ' with proxy ' . $proxy : '');
+} catch (ClientException $e) {
+    echo date('Y-m-d H:i:s') . ' : ' . $e->getCode() . (isset($proxy) ? ' with proxy ' . $proxy : '');
+}
+
+echo PHP_EOL;
 
 $predis->set($redisKey, json_encode($allCurrencies));
 

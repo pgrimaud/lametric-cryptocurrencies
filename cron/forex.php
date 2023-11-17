@@ -2,7 +2,7 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-$config = require_once __DIR__ . '/../config/parameters.php';
+$parameters = require_once __DIR__ . '/../config/parameters.php';
 
 use GuzzleHttp\Client as GuzzleClient;
 use Predis\Client as PredisClient;
@@ -11,7 +11,7 @@ $http = new GuzzleClient();
 
 $allCurrencies = [];
 
-$response = $http->request('GET', 'https://api.freecurrencyapi.com/v1/latest?apikey=' . $config['api_key']);
+$response = $http->request('GET', 'https://api.freecurrencyapi.com/v1/latest?apikey=' . $parameters['api_key']);
 
 $rates = json_decode(strval($response->getBody()), true);
 
