@@ -32,7 +32,7 @@ if (isset($parameters['proxies']) && count($parameters['proxies']) > 0) {
 $options = array_merge($options, [
     'headers' => [
         'Accept' => 'application/json',
-        'Authorization' => 'Bearer ' . $parameters['api_key_cc'],
+        'User-Agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36',
     ]
 ]);
 
