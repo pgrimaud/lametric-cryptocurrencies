@@ -4,6 +4,11 @@ require __DIR__ . '/../vendor/autoload.php';
 
 $parameters = require_once __DIR__ . '/../config/parameters.php';
 
+const COINS_TO_NOT_DUPLICATE = [
+    'ADA',
+    'TAO'
+];
+
 use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\Exception\ClientException;
 use Predis\Client as PredisClient;
@@ -15,7 +20,7 @@ $redisKey = 'lametric:cryptocurrencies';
 $predis = new PredisClient();
 $redisObject = $predis->get($redisKey);
 
-$allCurrencies = $redisObject ? json_decode($redisObject, true) : [];
+$allCurrencies = [];
 
 if (isset($parameters['proxies']) && count($parameters['proxies']) > 0) {
     $totalOfProxies = count($parameters['proxies']);
@@ -46,11 +51,21 @@ try {
     $currencies = json_decode(strval($response->getBody()), true);
 
     foreach ($currencies['data']['cryptoCurrencyList'] as $currency) {
+        $slug = strtoupper($currency['slug']);
         $symbol = strtoupper($currency['symbol']);
         $price = $currency['quotes'][0]['price'];
         $percent = $currency['quotes'][0]['percentChange24h'];
 
+        if(in_array($currency['symbol'], COINS_TO_NOT_DUPLICATE) && isset($allCurrencies[$currency['symbol']])) {
+            continue;
+        }
+
         $allCurrencies[$symbol] = [
+            'price' => $price,
+            'change' => $percent
+        ];
+
+        $allCurrencies[$slug] = [
             'price' => $price,
             'change' => $percent
         ];

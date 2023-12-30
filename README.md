@@ -5,11 +5,7 @@ The ultimate cryptocurrencies for LaMetric! More than 10000 currencies available
 ![Bitcoin](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/btc.gif)
 ![Ethereum](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/eth.gif)
 
-Powered by https://freecurrencyapi.com/ and https://freecurrencyapi.com/
-
-
-<img src="https://user-images.githubusercontent.com/1866496/208918937-b85eaf62-2ae0-4c4b-b262-6f141545f8ee.png" width="300">
-
+Powered by https://freecurrencyapi.com/ and https://coinmarketcap.com/
 
 # Donations 🙏
 
