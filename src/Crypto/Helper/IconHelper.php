@@ -168,6 +168,7 @@ class IconHelper
         'HOPR'      => '51420',
         'PKN'       => '51496',
         'BITCCA'    => '51497',
+        'TAO'       => '57760',
     ];
 
     /**
