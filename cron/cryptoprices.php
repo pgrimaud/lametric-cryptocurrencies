@@ -6,7 +6,8 @@ $parameters = require_once __DIR__ . '/../config/parameters.php';
 
 const COINS_TO_NOT_DUPLICATE = [
     'ADA',
-    'TAO'
+    'TAO',
+    'SOL',
 ];
 
 use GuzzleHttp\Client as GuzzleClient;
