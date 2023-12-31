@@ -8,6 +8,8 @@ const COINS_TO_NOT_DUPLICATE = [
     'ADA',
     'TAO',
     'SOL',
+    'SHIB',
+    'CHESS',
 ];
 
 use GuzzleHttp\Client as GuzzleClient;
