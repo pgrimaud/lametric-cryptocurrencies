@@ -12,6 +12,7 @@ const COINS_TO_NOT_DUPLICATE = [
     'CHESS',
     'PRIME',
     'IOT',
+    'DOGE'
 ];
 
 use GuzzleHttp\Client as GuzzleClient;
@@ -61,7 +62,7 @@ try {
         $price = $currency['quotes'][0]['price'];
         $percent = $currency['quotes'][0]['percentChange24h'];
 
-        if(in_array($currency['symbol'], COINS_TO_NOT_DUPLICATE) && isset($allCurrencies[$currency['symbol']])) {
+        if (in_array($currency['symbol'], COINS_TO_NOT_DUPLICATE) && isset($allCurrencies[$currency['symbol']])) {
             continue;
         }
 
