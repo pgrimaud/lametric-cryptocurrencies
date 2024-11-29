@@ -14,8 +14,6 @@ jobs:
         with:
           php-version: 8.1
           tools: composer
-      - name: Composer audit
-        run: composer install && composer audit
       - name: Deploy to production
         uses: appleboy/ssh-action@master
         with:
