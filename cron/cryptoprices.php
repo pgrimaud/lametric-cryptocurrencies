@@ -14,7 +14,8 @@ const COINS_TO_NOT_DUPLICATE = [
     'IOT',
     'DOGE',
     'BTC',
-    'ETH'
+    'ETH',
+    'TON'
 ];
 
 use GuzzleHttp\Client as GuzzleClient;
