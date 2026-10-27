@@ -1,5 +1,8 @@
 # Cryptocurrencies for LaMetric
 
+> [!CAUTION]
+> READ-ONLY : APP MIGRATED TO https://github.com/pgrimaud/lumiere
+
 The ultimate cryptocurrencies for LaMetric! More than 10000 currencies available!
 
 ![Bitcoin](https://raw.githubusercontent.com/pgrimaud/lametric-cryptocurrencies/master/images/btc.gif)
